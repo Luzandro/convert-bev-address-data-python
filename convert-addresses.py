@@ -74,7 +74,6 @@ args = parser.parse_args()
 if args.output_format == 'osm':
     args.epsg = 4326
     args.sort = 'gkz,okz,plz,strasse,adrcd'
-    args.compatibility_mode = False
 
 # the target EPSG is set according to the argument
 if not arcpyModule:
@@ -158,7 +157,7 @@ BEZIRK = {
     "323": "Wr.Neustadt-Land",
     "325": "Zwettl",
     "401": "Linz-Stadt",
-    "402": "Stayr-Stadt",
+    "402": "Steyr-Stadt",
     "403": "Wels-Stadt",
     "404": "Braunau_Inn",
     "405": "Eferding",
@@ -280,7 +279,7 @@ class OsmWriter():
             self._current_postcode = address["plz"]
             self._current_locality = address["ortschaft"].lower()
             self._current_district = address["gemeinde"].lower()
-            self._current_street = address["strasse"].lower()
+            self._current_street = address["strasse"].lower()           
             self.root = ET.Element("osm", version="0.6", generator="convert-addresses.py", upload="never", locked="true")
         if "haus_x" in address and str(address["haus_x"]).strip() != "":
             lat = float(address["haus_y"])
@@ -348,13 +347,19 @@ class OsmWriter():
         district = "".join(c for c in self._current_district if c.isalnum())
         locality = "".join(c for c in self._current_locality if c.isalnum())
         federal_state = BUNDESLAND[self._current_gkz[0]]
+        if args.compatibility_mode:
+            base_directory = "results.nosubs"
+        else:
+            base_directory = "results"
         if federal_state == "Wien":
-            directory = "results/{datum}/{bundesland}/{ortschaft}".format(
+            directory = "{base_directory}/{datum}/{bundesland}/{ortschaft}".format(
+                base_directory = base_directory,
                 datum = self._bev_date,
                 bundesland = federal_state,
                 ortschaft = locality)
         else:
-            directory = "results/{datum}/{bundesland}/Bezirk_{bezirk}/gemeinde_{gemeinde}/{ortschaft}".format(
+            directory = "{base_directory}/{datum}/{bundesland}/Bezirk_{bezirk}/gemeinde_{gemeinde}/{ortschaft}".format(
+                base_directory = base_directory,
                 datum = self._bev_date,
                 bundesland = federal_state,
                 bezirk = BEZIRK[self._current_gkz[:3]],
@@ -582,11 +587,11 @@ if __name__ == '__main__':
         streetname = streetrow['STRASSENNAME'].strip()
         streets[streetrow['SKZ']] = [streetname, streetrow['STRASSENNAMENZUSATZ']]
         gkz = streetrow['GKZ']
-        if normalize_streetname(streetname) in gkz_streets[gkz]:
+        if streetname in gkz_streets[gkz]:
             gkz_has_ambiguous_streetnames[gkz] = True
-            ambiguous_streetnames[gkz].append(normalize_streetname(streetname))
+            ambiguous_streetnames[gkz].append(streetname)
         else:
-            gkz_streets[gkz].append(normalize_streetname(streetname))
+            gkz_streets[gkz].append(streetname)
     print("GKZ with ambiguous streetnames: ", len(gkz_has_ambiguous_streetnames))
 
     try:
@@ -634,7 +639,7 @@ if __name__ == '__main__':
                 street = streets[reader_row["SKZ"]][0]
                 streetname_is_ambiguous = False
                 if gkz_has_ambiguous_streetnames[gkz]:
-                    if normalize_streetname(street) in ambiguous_streetnames[gkz]:
+                    if street in ambiguous_streetnames[gkz]:
                         okz_has_ambiguous_streetnames[okz] = True
                         streetname_is_ambiguous = True
                 address = {
@@ -798,12 +803,3 @@ if __name__ == '__main__':
     output_writer.close()
     print("\nfinished")
     print( time.strftime("%Y-%m-%d %H:%M:%S", time.gmtime()) )
-
-    # print("{:,} addresses without buildings".format(num_addresses_without_buildings))
-    # print("{:,} addresses with exactly one building".format(num_addresses_with_one_building))
-    # print("from which {:,} buildings have a subaddress and {:,} buildings don't".format(num_single_building_with_subadress, num_single_building_without_subadress))
-    # print("{:,} addresses with more than one building".format(num_addresses_with_more_buildings))
-    # print("from which {:,} buildings have a subaddress and {:,} buildings don't".format(num_building_with_subadress, num_building_without_subadress))
-    # print("{:,} addresses where all buildings have subaddresses".format(num_addresses_with_only_subaddresses))
-    # print("{:,} addresses where no buildings have subaddresses".format(num_addresses_with_buildings_without_subaddresses))
-    # print("{:,} addresses that have both, buildings with and without subaddresses".format(num_addresses_with_mixed_subaddresses))
