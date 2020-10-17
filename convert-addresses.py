@@ -33,6 +33,7 @@ import xml.etree.cElementTree as ET
 import operator
 import zipfile
 try:
+    import osgeo
     from osgeo import osr
     from osgeo import ogr
     osgeoModule = True
@@ -88,9 +89,15 @@ if not arcpyModule:
     eastRef = osr.SpatialReference()
     eastRef.ImportFromEPSG(31256)
 
+    if int(osgeo.__version__[0]) >= 3:
+        targetRef.SetAxisMappingStrategy(osgeo.osr.OAMS_TRADITIONAL_GIS_ORDER)
+        westRef.SetAxisMappingStrategy(osgeo.osr.OAMS_TRADITIONAL_GIS_ORDER)
+        centerRef.SetAxisMappingStrategy(osgeo.osr.OAMS_TRADITIONAL_GIS_ORDER)
+        eastRef.SetAxisMappingStrategy(osgeo.osr.OAMS_TRADITIONAL_GIS_ORDER)
+
     westTransform = osr.CoordinateTransformation(westRef, targetRef)
     centralTransform = osr.CoordinateTransformation(centerRef, targetRef)
-    eastTransfrom = osr.CoordinateTransformation(eastRef, targetRef)
+    eastTransform = osr.CoordinateTransformation(eastRef, targetRef)
 
 else:
     # for ArcPy
@@ -265,7 +272,13 @@ class OsmWriter():
         self._max_lon = None
 
     def _get_addr_date(self):
-        z = zipfile.ZipFile('Adresse_Relationale_Tabellen-Stichtagsdaten.zip', 'r')
+        if os.path.exists('Adresse_Relationale_Tabellen-Stichtagsdaten.zip'):
+            adr_zip_file = 'Adresse_Relationale_Tabellen-Stichtagsdaten.zip'
+        elif os.path.exists('Adresse_Relationale_Tabellen_Stichtagsdaten.zip'):
+            adr_zip_file = 'Adresse_Relationale_Tabellen_Stichtagsdaten.zip'
+        else:
+            raise Exception("Adr. Zip file not found")
+        z = zipfile.ZipFile(adr_zip_file, 'r')
         for f in z.infolist():
             if f.filename == 'ADRESSE.csv':
                 return "%d-%02d-%02d" % f.date_time[:3]
@@ -440,7 +453,7 @@ def reproject(sourceCRS, point):
         elif sourceCRS == '31255':
             point.Transform(centralTransform)
         elif sourceCRS == '31256':
-            point.Transform(eastTransfrom)
+            point.Transform(eastTransform)
         else:
             print("unkown CRS: {}".format(sourceCRS))
             return([0, 0])
