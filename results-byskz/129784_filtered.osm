@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7538703000" lat="47.972719" lon="14.632622"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3355" /><tag k="addr:street" v="Zirbenweg" /><tag k="addr:city" v="Ertl" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7538705000" lat="47.97277" lon="14.632983"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3355" /><tag k="addr:street" v="Zirbenweg" /><tag k="addr:city" v="Ertl" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7556559000" lat="47.972773" lon="14.633391"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3355" /><tag k="addr:street" v="Zirbenweg" /><tag k="addr:city" v="Ertl" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7557716000" lat="47.972737" lon="14.633765"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3355" /><tag k="addr:street" v="Zirbenweg" /><tag k="addr:city" v="Ertl" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="47.972719" minlon="14.632622" maxlat="47.972773" maxlon="14.633765" />
+</osm>

@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6445236000" lat="48.215412" lon="15.347628"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3390" /><tag k="addr:street" v="Schrattenbrucker Stra&#223;e" /><tag k="addr:city" v="Melk" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7514853000" lat="48.21522" lon="15.347834"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3390" /><tag k="addr:street" v="Schrattenbrucker Stra&#223;e" /><tag k="addr:city" v="Melk" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="48.21522" minlon="15.347628" maxlat="48.215412" maxlon="15.347834" />
+</osm>

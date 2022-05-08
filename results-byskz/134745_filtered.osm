@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5985816001" lat="46.70486" lon="15.730501"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8473" /><tag k="addr:street" v="Ulrichgasse" /><tag k="addr:city" v="Stra&#223; in Steiermark" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7456913001" lat="46.704834" lon="15.730852"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8473" /><tag k="addr:street" v="Ulrichgasse" /><tag k="addr:city" v="Stra&#223; in Steiermark" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="46.704834" minlon="15.730501" maxlat="46.70486" maxlon="15.730852" />
+</osm>

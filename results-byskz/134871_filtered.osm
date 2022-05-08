@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7646882000" lat="46.994769" lon="12.530908"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9971" /><tag k="addr:street" v="Meeting Waters" /><tag k="addr:city" v="Matrei in Osttirol" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7646892000" lat="46.994541" lon="12.53106"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9971" /><tag k="addr:street" v="Meeting Waters" /><tag k="addr:city" v="Matrei in Osttirol" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="46.994541" minlon="12.530908" maxlat="46.994769" maxlon="12.53106" />
+</osm>

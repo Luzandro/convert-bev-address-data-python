@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7556385001" lat="48.182009" lon="13.052825"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5145" /><tag k="addr:street" v="Brunnenweg" /><tag k="addr:city" v="Neukirchen an der Enknach" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7568141000" lat="48.182233" lon="13.052656"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5145" /><tag k="addr:street" v="Brunnenweg" /><tag k="addr:city" v="Neukirchen an der Enknach" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7602606001" lat="48.182511" lon="13.052282"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5145" /><tag k="addr:street" v="Brunnenweg" /><tag k="addr:city" v="Neukirchen an der Enknach" /><tag k="addr:housenumber" v="7a" /></node>
+<bounds minlat="48.181794" minlon="13.052282" maxlat="48.18256" maxlon="13.052825" />
+</osm>

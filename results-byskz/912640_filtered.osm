@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7521435000" lat="48.249944" lon="16.496231"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="1220" /><tag k="addr:street" v="Leonie-Rysanek-Weg" /><tag k="addr:suburb" v="Donaustadt" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="11" /></node>
+<node id="-7521493000" lat="48.249881" lon="16.49622"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="1220" /><tag k="addr:street" v="Leonie-Rysanek-Weg" /><tag k="addr:suburb" v="Donaustadt" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="14" /></node>
+<node id="-7547222000" lat="48.250098" lon="16.495227"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="1220" /><tag k="addr:street" v="Leonie-Rysanek-Weg" /><tag k="addr:suburb" v="Donaustadt" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="10" /></node>
+<bounds minlat="48.249881" minlon="16.495227" maxlat="48.250098" maxlon="16.496231" />
+</osm>

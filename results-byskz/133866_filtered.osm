@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7618961000" lat="48.557526" lon="16.581304"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2130" /><tag k="addr:street" v="Alfred Sramek-Gasse" /><tag k="addr:city" v="Mistelbach" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7618962000" lat="48.557373" lon="16.581156"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2130" /><tag k="addr:street" v="Alfred Sramek-Gasse" /><tag k="addr:city" v="Mistelbach" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="48.557373" minlon="16.581156" maxlat="48.557526" maxlon="16.581304" />
+</osm>

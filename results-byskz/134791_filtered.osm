@@ -1,0 +1,10 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6172305001" lat="46.838919" lon="14.797015"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Klosterblick" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-6172306001" lat="46.839171" lon="14.796956"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Klosterblick" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-6172307001" lat="46.839433" lon="14.796885"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Klosterblick" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-6172325001" lat="46.839643" lon="14.797389"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Klosterblick" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-6172326001" lat="46.839356" lon="14.797328"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Klosterblick" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-6172330001" lat="46.838923" lon="14.797408"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Klosterblick" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-6172413001" lat="46.838571" lon="14.797451"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Klosterblick" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="9" /></node>
+<bounds minlat="46.838571" minlon="14.796885" maxlat="46.839643" maxlon="14.797451" />
+</osm>

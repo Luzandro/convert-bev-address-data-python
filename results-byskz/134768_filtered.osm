@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6172387001" lat="46.843084" lon="14.811706"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9400" /><tag k="addr:street" v="Begonienweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-6172388001" lat="46.842818" lon="14.810729"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9400" /><tag k="addr:street" v="Begonienweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="46.842818" minlon="14.810729" maxlat="46.843084" maxlon="14.811706" />
+</osm>

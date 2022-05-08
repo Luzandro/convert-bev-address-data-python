@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7552262001" lat="48.346874" lon="14.164172"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4111" /><tag k="addr:street" v="Brandstetterstra&#223;e" /><tag k="addr:city" v="Walding" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7552276001" lat="48.346663" lon="14.164161"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4111" /><tag k="addr:street" v="Brandstetterstra&#223;e" /><tag k="addr:city" v="Walding" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7552299001" lat="48.346417" lon="14.16414"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4111" /><tag k="addr:street" v="Brandstetterstra&#223;e" /><tag k="addr:city" v="Walding" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7552300001" lat="48.346218" lon="14.164102"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4111" /><tag k="addr:street" v="Brandstetterstra&#223;e" /><tag k="addr:city" v="Walding" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="48.346218" minlon="14.164102" maxlat="48.346874" maxlon="14.164172" />
+</osm>

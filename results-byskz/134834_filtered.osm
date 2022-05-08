@@ -1,0 +1,10 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6172145001" lat="46.829487" lon="14.814886"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Zedernweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-6172169001" lat="46.829798" lon="14.814462"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Zedernweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-6172177001" lat="46.830056" lon="14.814679"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Zedernweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-6172181001" lat="46.83031" lon="14.815197"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Zedernweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-6172182001" lat="46.830297" lon="14.814856"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Zedernweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-6172183001" lat="46.830137" lon="14.815363"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Zedernweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-6172184001" lat="46.829818" lon="14.815052"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Zedernweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="46.829487" minlon="14.814462" maxlat="46.83031" maxlon="14.815363" />
+</osm>

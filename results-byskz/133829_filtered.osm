@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7618604000" lat="48.354586" lon="16.564848"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2212" /><tag k="addr:street" v="Ahornweg" /><tag k="addr:city" v="Gro&#223;engersdorf" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7626775000" lat="48.354906" lon="16.565212"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2212" /><tag k="addr:street" v="Ahornweg" /><tag k="addr:city" v="Gro&#223;engersdorf" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7629196000" lat="48.354622" lon="16.565323"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2212" /><tag k="addr:street" v="Ahornweg" /><tag k="addr:city" v="Gro&#223;engersdorf" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="48.354586" minlon="16.564848" maxlat="48.354906" maxlon="16.565323" />
+</osm>

@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7650946000" lat="48.374951" lon="16.68179"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2241" /><tag k="addr:street" v="Am Weidenbach" /><tag k="addr:city" v="Sch&#246;nkirchen-Reyersdorf" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7650947000" lat="48.374648" lon="16.682424"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2241" /><tag k="addr:street" v="Am Weidenbach" /><tag k="addr:city" v="Sch&#246;nkirchen-Reyersdorf" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7650949000" lat="48.374766" lon="16.682221"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2241" /><tag k="addr:street" v="Am Weidenbach" /><tag k="addr:city" v="Sch&#246;nkirchen-Reyersdorf" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7650950000" lat="48.374912" lon="16.682015"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2241" /><tag k="addr:street" v="Am Weidenbach" /><tag k="addr:city" v="Sch&#246;nkirchen-Reyersdorf" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7650952000" lat="48.375062" lon="16.68184"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2241" /><tag k="addr:street" v="Am Weidenbach" /><tag k="addr:city" v="Sch&#246;nkirchen-Reyersdorf" /><tag k="addr:housenumber" v="10" /></node>
+<node id="-7650953000" lat="48.375207" lon="16.68167"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2241" /><tag k="addr:street" v="Am Weidenbach" /><tag k="addr:city" v="Sch&#246;nkirchen-Reyersdorf" /><tag k="addr:housenumber" v="12" /></node>
+<bounds minlat="48.374648" minlon="16.68167" maxlat="48.375207" maxlon="16.682424" />
+</osm>

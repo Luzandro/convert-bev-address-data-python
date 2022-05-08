@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6172353001" lat="46.842099" lon="14.814878"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9400" /><tag k="addr:street" v="Sonnenh&#252;gel" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-6172354001" lat="46.84195" lon="14.815241"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9400" /><tag k="addr:street" v="Sonnenh&#252;gel" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7303272001" lat="46.842378" lon="14.8153"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9400" /><tag k="addr:street" v="Sonnenh&#252;gel" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="7" /></node>
+<bounds minlat="46.84195" minlon="14.814878" maxlat="46.842378" maxlon="14.8153" />
+</osm>

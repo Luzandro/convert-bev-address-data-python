@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6718746001" lat="47.02246" lon="9.951907"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Gweil-Voppa" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="139" /></node>
+<node id="-6718747001" lat="47.02376" lon="9.951023"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Gweil-Voppa" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="140" /></node>
+<node id="-6718748001" lat="47.024111" lon="9.95132"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Gweil-Voppa" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="141" /></node>
+<node id="-6718749001" lat="47.02322" lon="9.946203"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Gweil-Voppa" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="142" /></node>
+<node id="-6718750001" lat="47.02161" lon="9.944334"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Gweil-Voppa" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="143" /></node>
+<node id="-6718751001" lat="47.022297" lon="9.949352"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Gweil-Voppa" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="144" /></node>
+<bounds minlat="47.02161" minlon="9.944334" maxlat="47.024111" maxlon="9.951907" />
+</osm>

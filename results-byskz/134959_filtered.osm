@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7649170000" lat="47.806397" lon="14.127486"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4571" /><tag k="addr:street" v="Schulstra&#223;e" /><tag k="addr:city" v="Klaus an der Pyhrnbahn" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7649180000" lat="47.806603" lon="14.127712"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4571" /><tag k="addr:street" v="Schulstra&#223;e" /><tag k="addr:city" v="Klaus an der Pyhrnbahn" /><tag k="addr:housenumber" v="8" /></node>
+<bounds minlat="47.806397" minlon="14.127486" maxlat="47.806603" maxlon="14.127712" />
+</osm>

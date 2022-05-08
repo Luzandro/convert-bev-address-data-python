@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6178348000" lat="46.697955" lon="14.121264"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9560" /><tag k="addr:street" v="M&amp;R Gewerbepark" /><tag k="addr:city" v="Feldkirchen in K&#228;rnten" /><tag k="addr:housenumber" v="1a" /></node>
+<node id="-7604342001" lat="46.696361" lon="14.121347"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9560" /><tag k="addr:street" v="M&amp;R Gewerbepark" /><tag k="addr:city" v="Feldkirchen in K&#228;rnten" /><tag k="addr:housenumber" v="13" /></node>
+<bounds minlat="46.696185" minlon="14.121209" maxlat="46.698589" maxlon="14.122432" />
+</osm>

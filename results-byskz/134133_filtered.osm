@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7627275000" lat="46.557655" lon="13.948314"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9582" /><tag k="addr:street" v="Am S&#252;dhang" /><tag k="addr:city" v="Finkenstein am Faaker See" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7638464001" lat="46.557427" lon="13.94857"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9582" /><tag k="addr:street" v="Am S&#252;dhang" /><tag k="addr:city" v="Finkenstein am Faaker See" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7647997000" lat="46.557602" lon="13.948762"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9582" /><tag k="addr:street" v="Am S&#252;dhang" /><tag k="addr:city" v="Finkenstein am Faaker See" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="46.557427" minlon="13.948314" maxlat="46.557655" maxlon="13.948762" />
+</osm>

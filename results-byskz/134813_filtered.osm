@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6172175001" lat="46.823626" lon="14.81597"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Reinfelsdorferstra&#223;e" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="40" /></node>
+<node id="-6172252001" lat="46.823128" lon="14.816179"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Reinfelsdorferstra&#223;e" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="44" /></node>
+<node id="-6172624001" lat="46.8234" lon="14.81603"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Reinfelsdorferstra&#223;e" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="42" /></node>
+<node id="-7287172001" lat="46.824127" lon="14.815742"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Reinfelsdorferstra&#223;e" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="38" /></node>
+<node id="-7341834001" lat="46.8249" lon="14.815318"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Reinfelsdorferstra&#223;e" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="36" /></node>
+<bounds minlat="46.823128" minlon="14.815318" maxlat="46.8249" maxlon="14.816179" />
+</osm>

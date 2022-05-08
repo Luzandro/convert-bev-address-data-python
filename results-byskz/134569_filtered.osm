@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7640417000" lat="48.22172" lon="14.184022"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4063" /><tag k="addr:street" v="Anton-Bruckner-Stra&#223;e" /><tag k="addr:city" v="H&#246;rsching" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7640418000" lat="48.2215" lon="14.183554"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4063" /><tag k="addr:street" v="Anton-Bruckner-Stra&#223;e" /><tag k="addr:city" v="H&#246;rsching" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7640419000" lat="48.221346" lon="14.18327"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4063" /><tag k="addr:street" v="Anton-Bruckner-Stra&#223;e" /><tag k="addr:city" v="H&#246;rsching" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7640420000" lat="48.221356" lon="14.183247"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4063" /><tag k="addr:street" v="Anton-Bruckner-Stra&#223;e" /><tag k="addr:city" v="H&#246;rsching" /><tag k="addr:housenumber" v="9" /></node>
+<bounds minlat="48.221346" minlon="14.183247" maxlat="48.22172" maxlon="14.184022" />
+</osm>

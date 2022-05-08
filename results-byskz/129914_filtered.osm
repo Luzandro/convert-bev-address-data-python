@@ -1,0 +1,4 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7566053000" lat="48.122946" lon="14.186038"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4531" /><tag k="addr:street" v="Krenhuber Stra&#223;e" /><tag k="addr:city" v="Kematen an der Krems" /><tag k="addr:housenumber" v="7" /></node>
+<bounds minlat="48.118379" minlon="14.184527" maxlat="48.122946" maxlon="14.186423" />
+</osm>

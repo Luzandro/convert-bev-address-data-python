@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7564395000" lat="48.32793" lon="15.81217"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3454" /><tag k="addr:street" v="Nelkengasse" /><tag k="addr:city" v="Sitzenberg-Reidling" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7564397000" lat="48.327605" lon="15.812214"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3454" /><tag k="addr:street" v="Nelkengasse" /><tag k="addr:city" v="Sitzenberg-Reidling" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="48.327168" minlon="15.812153" maxlat="48.32793" maxlon="15.812214" />
+</osm>

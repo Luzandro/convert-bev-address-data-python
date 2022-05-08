@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7582932000" lat="48.135998" lon="13.990998"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4641" /><tag k="addr:street" v="Flurstra&#223;e" /><tag k="addr:city" v="Steinhaus" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7582933000" lat="48.135998" lon="13.991"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4641" /><tag k="addr:street" v="Flurstra&#223;e" /><tag k="addr:city" v="Steinhaus" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7582935000" lat="48.135823" lon="13.991651"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4641" /><tag k="addr:street" v="Flurstra&#223;e" /><tag k="addr:city" v="Steinhaus" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7582936001" lat="48.135585" lon="13.991969"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4641" /><tag k="addr:street" v="Flurstra&#223;e" /><tag k="addr:city" v="Steinhaus" /><tag k="addr:housenumber" v="1" /><tag k="addr:unit" v="1" /></node>
+<node id="-7582936002" lat="48.135618" lon="13.991861"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4641" /><tag k="addr:street" v="Flurstra&#223;e" /><tag k="addr:city" v="Steinhaus" /><tag k="addr:housenumber" v="1" /><tag k="addr:unit" v="2" /></node>
+<bounds minlat="48.135585" minlon="13.990998" maxlat="48.135998" maxlon="13.991969" />
+</osm>

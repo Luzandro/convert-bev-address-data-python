@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7646700000" lat="47.193179" lon="9.710769"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6710" /><tag k="addr:street" v="Anna-Kessler Platz" /><tag k="addr:city" v="Nenzing" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7646716000" lat="47.19205" lon="9.709543"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6710" /><tag k="addr:street" v="Anna-Kessler Platz" /><tag k="addr:city" v="Nenzing" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7646717000" lat="47.192585" lon="9.709945"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6710" /><tag k="addr:street" v="Anna-Kessler Platz" /><tag k="addr:city" v="Nenzing" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7646718000" lat="47.193176" lon="9.710498"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6710" /><tag k="addr:street" v="Anna-Kessler Platz" /><tag k="addr:city" v="Nenzing" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7646719000" lat="47.192177" lon="9.710122"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6710" /><tag k="addr:street" v="Anna-Kessler Platz" /><tag k="addr:city" v="Nenzing" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7646720000" lat="47.192709" lon="9.710551"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6710" /><tag k="addr:street" v="Anna-Kessler Platz" /><tag k="addr:city" v="Nenzing" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="47.19205" minlon="9.709543" maxlat="47.193179" maxlon="9.710769" />
+</osm>

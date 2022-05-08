@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7624298000" lat="48.170507" lon="13.273059"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5251" /><tag k="addr:street" v="Wirtschaftspark H&#246;hnhart" /><tag k="addr:city" v="H&#246;hnhart" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7624299000" lat="48.170994" lon="13.2726"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5251" /><tag k="addr:street" v="Wirtschaftspark H&#246;hnhart" /><tag k="addr:city" v="H&#246;hnhart" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="48.170507" minlon="13.2726" maxlat="48.170994" maxlon="13.273059" />
+</osm>

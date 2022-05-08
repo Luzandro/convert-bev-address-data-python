@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7640010000" lat="46.561921" lon="14.284507"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9161" /><tag k="addr:street" v="Bahnstra&#223;e" /><tag k="addr:city" v="Maria Rain" /><tag k="addr:housenumber" v="1a" /></node>
+<node id="-7640011000" lat="46.561897" lon="14.284969"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9161" /><tag k="addr:street" v="Bahnstra&#223;e" /><tag k="addr:city" v="Maria Rain" /><tag k="addr:housenumber" v="1b" /></node>
+<node id="-7640012000" lat="46.562217" lon="14.284722"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9161" /><tag k="addr:street" v="Bahnstra&#223;e" /><tag k="addr:city" v="Maria Rain" /><tag k="addr:housenumber" v="1c" /></node>
+<node id="-7640013000" lat="46.562082" lon="14.284466"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9161" /><tag k="addr:street" v="Bahnstra&#223;e" /><tag k="addr:city" v="Maria Rain" /><tag k="addr:housenumber" v="1d" /></node>
+<bounds minlat="46.561897" minlon="14.284466" maxlat="46.562217" maxlon="14.284969" />
+</osm>

@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7651382000" lat="47.744205" lon="13.066624"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5081" /><tag k="addr:street" v="Kramergutstra&#223;e" /><tag k="addr:city" v="Anif" /><tag k="addr:housenumber" v="1a" /></node>
+<node id="-7651383000" lat="47.744492" lon="13.066532"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5081" /><tag k="addr:street" v="Kramergutstra&#223;e" /><tag k="addr:city" v="Anif" /><tag k="addr:housenumber" v="1b" /></node>
+<node id="-7651384000" lat="47.744272" lon="13.067309"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5081" /><tag k="addr:street" v="Kramergutstra&#223;e" /><tag k="addr:city" v="Anif" /><tag k="addr:housenumber" v="1c" /></node>
+<node id="-7651386000" lat="47.744782" lon="13.067264"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5081" /><tag k="addr:street" v="Kramergutstra&#223;e" /><tag k="addr:city" v="Anif" /><tag k="addr:housenumber" v="1d" /></node>
+<node id="-7651388000" lat="47.745038" lon="13.067043"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5081" /><tag k="addr:street" v="Kramergutstra&#223;e" /><tag k="addr:city" v="Anif" /><tag k="addr:housenumber" v="1e" /></node>
+<bounds minlat="47.744205" minlon="13.066532" maxlat="47.745038" maxlon="13.067309" />
+</osm>

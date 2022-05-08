@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6172335001" lat="46.841292" lon="14.807646"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Ligusterweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-6172336001" lat="46.841121" lon="14.807641"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Ligusterweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-6172337001" lat="46.840877" lon="14.807792"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Ligusterweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-6172368001" lat="46.841342" lon="14.807962"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Ligusterweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-6172376001" lat="46.84106" lon="14.80819"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Ligusterweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="46.840877" minlon="14.807641" maxlat="46.841342" maxlon="14.80819" />
+</osm>

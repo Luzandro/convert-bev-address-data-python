@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7644041000" lat="47.898877" lon="16.348976"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2486" /><tag k="addr:street" v="Agrarweg" /><tag k="addr:city" v="Pottendorf" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7644050000" lat="47.899046" lon="16.349148"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2486" /><tag k="addr:street" v="Agrarweg" /><tag k="addr:city" v="Pottendorf" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7644063000" lat="47.899075" lon="16.348981"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2486" /><tag k="addr:street" v="Agrarweg" /><tag k="addr:city" v="Pottendorf" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7644071000" lat="47.899208" lon="16.34911"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2486" /><tag k="addr:street" v="Agrarweg" /><tag k="addr:city" v="Pottendorf" /><tag k="addr:housenumber" v="8" /></node>
+<bounds minlat="47.898877" minlon="16.348976" maxlat="47.899208" maxlon="16.349148" />
+</osm>

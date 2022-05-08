@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7554389001" lat="46.693865" lon="15.99145"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8490" /><tag k="addr:street" v="Rudolf-Peterka-Weg" /><tag k="addr:city" v="Bad Radkersburg" /><tag k="addr:housenumber" v="2a" /></node>
+<node id="-7554390001" lat="46.693696" lon="15.99167"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8490" /><tag k="addr:street" v="Rudolf-Peterka-Weg" /><tag k="addr:city" v="Bad Radkersburg" /><tag k="addr:housenumber" v="2b" /></node>
+<node id="-7554392001" lat="46.693567" lon="15.991938"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8490" /><tag k="addr:street" v="Rudolf-Peterka-Weg" /><tag k="addr:city" v="Bad Radkersburg" /><tag k="addr:housenumber" v="2c" /></node>
+<node id="-7554393001" lat="46.693313" lon="15.991782"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8490" /><tag k="addr:street" v="Rudolf-Peterka-Weg" /><tag k="addr:city" v="Bad Radkersburg" /><tag k="addr:housenumber" v="2d" /></node>
+<node id="-7633353001" lat="46.693738" lon="15.992523"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8490" /><tag k="addr:street" v="Rudolf-Peterka-Weg" /><tag k="addr:city" v="Bad Radkersburg" /><tag k="addr:housenumber" v="1a" /></node>
+<node id="-7633354001" lat="46.694231" lon="15.992249"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8490" /><tag k="addr:street" v="Rudolf-Peterka-Weg" /><tag k="addr:city" v="Bad Radkersburg" /><tag k="addr:housenumber" v="1b" /></node>
+<bounds minlat="46.693313" minlon="15.99145" maxlat="46.694231" maxlon="15.992523" />
+</osm>

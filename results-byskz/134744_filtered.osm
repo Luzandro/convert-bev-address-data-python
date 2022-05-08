@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5985758001" lat="46.713504" lon="15.677774"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8472" /><tag k="addr:street" v="Stockfeldweg" /><tag k="addr:city" v="Stra&#223; in Steiermark" /><tag k="addr:housenumber" v="10" /></node>
+<node id="-7387547001" lat="46.713442" lon="15.676363"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8472" /><tag k="addr:street" v="Stockfeldweg" /><tag k="addr:city" v="Stra&#223; in Steiermark" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7426504001" lat="46.713792" lon="15.676693"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8472" /><tag k="addr:street" v="Stockfeldweg" /><tag k="addr:city" v="Stra&#223; in Steiermark" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7542123001" lat="46.713798" lon="15.677209"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8472" /><tag k="addr:street" v="Stockfeldweg" /><tag k="addr:city" v="Stra&#223; in Steiermark" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="46.713442" minlon="15.676363" maxlat="46.713798" maxlon="15.677774" />
+</osm>

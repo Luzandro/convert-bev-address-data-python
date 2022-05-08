@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5985880001" lat="46.715443" lon="15.717188"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8473" /><tag k="addr:street" v="Franz-Pack-Weg" /><tag k="addr:city" v="Stra&#223; in Steiermark" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5985930001" lat="46.715177" lon="15.717413"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8473" /><tag k="addr:street" v="Franz-Pack-Weg" /><tag k="addr:city" v="Stra&#223; in Steiermark" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="46.715177" minlon="15.717188" maxlat="46.715443" maxlon="15.717413" />
+</osm>

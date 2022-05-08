@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7640310000" lat="47.20553" lon="14.444465"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8800" /><tag k="addr:street" v="Friedrich Gruberweg" /><tag k="addr:city" v="Unzmarkt-Frauenburg" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7640311000" lat="47.205422" lon="14.44475"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8800" /><tag k="addr:street" v="Friedrich Gruberweg" /><tag k="addr:city" v="Unzmarkt-Frauenburg" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7652327000" lat="47.205159" lon="14.444124"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8800" /><tag k="addr:street" v="Friedrich Gruberweg" /><tag k="addr:city" v="Unzmarkt-Frauenburg" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="47.205159" minlon="14.444124" maxlat="47.20553" maxlon="14.44475" />
+</osm>

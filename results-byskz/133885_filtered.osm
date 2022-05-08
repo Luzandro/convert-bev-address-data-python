@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7619762000" lat="48.107506" lon="16.308464"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2345" /><tag k="addr:street" v="Industriestra&#223;e C" /><tag k="addr:city" v="Brunn am Gebirge" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7619763001" lat="48.107462" lon="16.3079"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2345" /><tag k="addr:street" v="Industriestra&#223;e C" /><tag k="addr:city" v="Brunn am Gebirge" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="48.107462" minlon="16.3079" maxlat="48.107506" maxlon="16.308464" />
+</osm>

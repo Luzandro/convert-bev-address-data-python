@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7515176000" lat="48.205699" lon="14.16032"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4063" /><tag k="addr:street" v="Hofgasse" /><tag k="addr:city" v="H&#246;rsching" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7515177000" lat="48.205812" lon="14.160666"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4063" /><tag k="addr:street" v="Hofgasse" /><tag k="addr:city" v="H&#246;rsching" /><tag k="addr:housenumber" v="10" /></node>
+<node id="-7515836001" lat="48.205811" lon="14.161375"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4063" /><tag k="addr:street" v="Hofgasse" /><tag k="addr:city" v="H&#246;rsching" /><tag k="addr:housenumber" v="14a" /></node>
+<bounds minlat="48.204698" minlon="14.156988" maxlat="48.207735" maxlon="14.164582" />
+</osm>

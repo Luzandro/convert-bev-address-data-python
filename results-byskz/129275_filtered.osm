@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6152186001" lat="46.772131" lon="14.706504"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9112" /><tag k="addr:street" v="W&#246;lfnitzer Leitn" /><tag k="addr:city" v="Griffen" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-6152187001" lat="46.770758" lon="14.704715"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9112" /><tag k="addr:street" v="W&#246;lfnitzer Leitn" /><tag k="addr:city" v="Griffen" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7408483001" lat="46.772298" lon="14.706836"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9112" /><tag k="addr:street" v="W&#246;lfnitzer Leitn" /><tag k="addr:city" v="Griffen" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="46.770758" minlon="14.704715" maxlat="46.772298" maxlon="14.706836" />
+</osm>

@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6227661001" lat="48.104989" lon="14.783139"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3362" /><tag k="addr:street" v="Eberseed" /><tag k="addr:city" v="Oed-Oehling" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-6227662001" lat="48.102916" lon="14.783988"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3362" /><tag k="addr:street" v="Eberseed" /><tag k="addr:city" v="Oed-Oehling" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="48.102916" minlon="14.783139" maxlat="48.104989" maxlon="14.783988" />
+</osm>

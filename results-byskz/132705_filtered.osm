@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7590993000" lat="48.015669" lon="13.731823"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4800" /><tag k="addr:street" v="Alfred Hermann Fried-Stra&#223;e" /><tag k="addr:city" v="Attnang-Puchheim" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7591001000" lat="48.015497" lon="13.731601"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4800" /><tag k="addr:street" v="Alfred Hermann Fried-Stra&#223;e" /><tag k="addr:city" v="Attnang-Puchheim" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7591002000" lat="48.01557" lon="13.731694"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4800" /><tag k="addr:street" v="Alfred Hermann Fried-Stra&#223;e" /><tag k="addr:city" v="Attnang-Puchheim" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="48.015497" minlon="13.731601" maxlat="48.015669" maxlon="13.731823" />
+</osm>

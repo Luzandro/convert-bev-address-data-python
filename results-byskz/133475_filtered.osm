@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7612967001" lat="48.01478" lon="13.921206"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4655" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Vorchdorf" /><tag k="addr:housenumber" v="22" /></node>
+<node id="-7612968000" lat="48.014593" lon="13.921677"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4655" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Vorchdorf" /><tag k="addr:housenumber" v="24" /></node>
+<node id="-7614263000" lat="48.01783" lon="13.91308"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4655" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Vorchdorf" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7614264000" lat="48.018214" lon="13.912967"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4655" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Vorchdorf" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7614265000" lat="48.017765" lon="13.913283"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4655" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Vorchdorf" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7626636000" lat="48.018329" lon="13.913017"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4655" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Vorchdorf" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="48.014593" minlon="13.912967" maxlat="48.018329" maxlon="13.921677" />
+</osm>

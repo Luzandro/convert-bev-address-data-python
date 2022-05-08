@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5183900001" lat="47.057038" lon="16.46888"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="7546" /><tag k="addr:street" v="Wiesenweg" /><tag k="addr:city" v="Moschendorf" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7250726001" lat="47.056733" lon="16.468915"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="7546" /><tag k="addr:street" v="Wiesenweg" /><tag k="addr:city" v="Moschendorf" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="47.056733" minlon="16.46888" maxlat="47.057038" maxlon="16.468915" />
+</osm>

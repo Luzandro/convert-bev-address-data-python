@@ -1,0 +1,10 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7585470001" lat="48.135678" lon="13.422145"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4924" /><tag k="addr:street" v="Auwies" /><tag k="addr:city" v="Waldzell" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7588031001" lat="48.136353" lon="13.422466"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4924" /><tag k="addr:street" v="Auwies" /><tag k="addr:city" v="Waldzell" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7588033000" lat="48.135605" lon="13.421879"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4924" /><tag k="addr:street" v="Auwies" /><tag k="addr:city" v="Waldzell" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7588034000" lat="48.135803" lon="13.421228"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4924" /><tag k="addr:street" v="Auwies" /><tag k="addr:city" v="Waldzell" /><tag k="addr:housenumber" v="15" /></node>
+<node id="-7593419001" lat="48.135999" lon="13.421426"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4924" /><tag k="addr:street" v="Auwies" /><tag k="addr:city" v="Waldzell" /><tag k="addr:housenumber" v="13" /></node>
+<node id="-7611049001" lat="48.136024" lon="13.422283"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4924" /><tag k="addr:street" v="Auwies" /><tag k="addr:city" v="Waldzell" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7611467001" lat="48.135967" lon="13.421806"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4924" /><tag k="addr:street" v="Auwies" /><tag k="addr:city" v="Waldzell" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="48.135605" minlon="13.421228" maxlat="48.136353" maxlon="13.422466" />
+</osm>

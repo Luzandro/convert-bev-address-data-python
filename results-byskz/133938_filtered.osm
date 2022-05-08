@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6719001001" lat="47.000031" lon="9.943433"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Zuggenwald" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="300" /></node>
+<node id="-6719002001" lat="47.000585" lon="9.944051"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Zuggenwald" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="300a" /></node>
+<node id="-6719003001" lat="46.998172" lon="9.942444"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Zuggenwald" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="301" /></node>
+<node id="-6719004001" lat="46.998163" lon="9.942431"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Zuggenwald" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="301a" /></node>
+<node id="-6719005001" lat="46.998823" lon="9.942207"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Zuggenwald" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="301b" /></node>
+<node id="-7610930001" lat="46.998562" lon="9.943362"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Zuggenwald" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="300b" /></node>
+<bounds minlat="46.998163" minlon="9.942207" maxlat="47.000585" maxlon="9.944051" />
+</osm>

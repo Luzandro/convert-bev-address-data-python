@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7619630000" lat="48.200766" lon="15.374085"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3382" /><tag k="addr:street" v="Lavendelweg" /><tag k="addr:city" v="Schollach" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7619633000" lat="48.200745" lon="15.373602"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3382" /><tag k="addr:street" v="Lavendelweg" /><tag k="addr:city" v="Schollach" /><tag k="addr:housenumber" v="12" /></node>
+<node id="-7625963000" lat="48.200902" lon="15.374917"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3382" /><tag k="addr:street" v="Lavendelweg" /><tag k="addr:city" v="Schollach" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7626026000" lat="48.20087" lon="15.374084"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3382" /><tag k="addr:street" v="Lavendelweg" /><tag k="addr:city" v="Schollach" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7629253000" lat="48.200984" lon="15.375209"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3382" /><tag k="addr:street" v="Lavendelweg" /><tag k="addr:city" v="Schollach" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="48.200745" minlon="15.373602" maxlat="48.200984" maxlon="15.375209" />
+</osm>

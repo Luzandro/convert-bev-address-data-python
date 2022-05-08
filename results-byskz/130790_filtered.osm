@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7556752001" lat="47.464749" lon="9.744304"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6922" /><tag k="addr:street" v="Lehmweg" /><tag k="addr:city" v="Wolfurt" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7556753001" lat="47.464879" lon="9.744261"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6922" /><tag k="addr:street" v="Lehmweg" /><tag k="addr:city" v="Wolfurt" /><tag k="addr:housenumber" v="8" /></node>
+<bounds minlat="47.464749" minlon="9.744261" maxlat="47.464879" maxlon="9.744304" />
+</osm>

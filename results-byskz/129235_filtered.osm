@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6152174001" lat="46.764786" lon="14.727028"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9112" /><tag k="addr:street" v="Oberer Lichtenwaldweg" /><tag k="addr:city" v="Griffen" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-6152175001" lat="46.759961" lon="14.73248"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9112" /><tag k="addr:street" v="Oberer Lichtenwaldweg" /><tag k="addr:city" v="Griffen" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-6152176001" lat="46.762125" lon="14.731279"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9112" /><tag k="addr:street" v="Oberer Lichtenwaldweg" /><tag k="addr:city" v="Griffen" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="46.759961" minlon="14.727028" maxlat="46.764786" maxlon="14.73248" />
+</osm>

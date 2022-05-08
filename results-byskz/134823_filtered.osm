@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6172571002" lat="46.841426" lon="14.781653"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Sternweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="10" /></node>
+<node id="-6172572001" lat="46.841591" lon="14.7807"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Sternweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7113174001" lat="46.841755" lon="14.781216"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Sternweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="12" /></node>
+<node id="-7233292001" lat="46.841788" lon="14.780638"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Sternweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="9" /></node>
+<node id="-7426244001" lat="46.84132" lon="14.78144"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Sternweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7588596000" lat="46.84144" lon="14.780911"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Sternweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="46.84132" minlon="14.780638" maxlat="46.841788" maxlon="14.781653" />
+</osm>

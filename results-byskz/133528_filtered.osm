@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7612432001" lat="47.953862" lon="16.845315"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="7100" /><tag k="addr:street" v="Panoramaweg" /><tag k="addr:city" v="Neusiedl am See" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7612433000" lat="47.954045" lon="16.845329"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="7100" /><tag k="addr:street" v="Panoramaweg" /><tag k="addr:city" v="Neusiedl am See" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7612434000" lat="47.953995" lon="16.844992"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="7100" /><tag k="addr:street" v="Panoramaweg" /><tag k="addr:city" v="Neusiedl am See" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7612435000" lat="47.954127" lon="16.845079"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="7100" /><tag k="addr:street" v="Panoramaweg" /><tag k="addr:city" v="Neusiedl am See" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="47.953862" minlon="16.844992" maxlat="47.954127" maxlon="16.845329" />
+</osm>

@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7582455001" lat="46.698826" lon="15.991938"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8490" /><tag k="addr:street" v="Am Brunnenpark" /><tag k="addr:city" v="Bad Radkersburg" /><tag k="addr:housenumber" v="4a" /></node>
+<node id="-7582458001" lat="46.698635" lon="15.991847"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8490" /><tag k="addr:street" v="Am Brunnenpark" /><tag k="addr:city" v="Bad Radkersburg" /><tag k="addr:housenumber" v="4b" /></node>
+<node id="-7582487000" lat="46.698798" lon="15.991449"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8490" /><tag k="addr:street" v="Am Brunnenpark" /><tag k="addr:city" v="Bad Radkersburg" /><tag k="addr:housenumber" v="3a" /></node>
+<node id="-7582589000" lat="46.698825" lon="15.991509"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8490" /><tag k="addr:street" v="Am Brunnenpark" /><tag k="addr:city" v="Bad Radkersburg" /><tag k="addr:housenumber" v="3b" /></node>
+<bounds minlat="46.698635" minlon="15.991449" maxlat="46.698826" maxlon="15.991938" />
+</osm>

@@ -1,0 +1,4 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7514973000" lat="47.94061" lon="14.054401"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4643" /><tag k="addr:street" v="S&#228;gestra&#223;e" /><tag k="addr:city" v="Pettenbach" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="47.94061" minlon="14.054346" maxlat="47.941004" maxlon="14.054401" />
+</osm>

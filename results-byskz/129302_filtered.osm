@@ -1,0 +1,10 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7380349001" lat="48.525019" lon="15.463476"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3542" /><tag k="addr:street" v="Betriebsgebiet" /><tag k="addr:city" v="Jaidhof" /><tag k="addr:housenumber" v="103" /></node>
+<node id="-7526735001" lat="48.524628" lon="15.461832"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3542" /><tag k="addr:street" v="Betriebsgebiet" /><tag k="addr:city" v="Jaidhof" /><tag k="addr:housenumber" v="101" /></node>
+<node id="-7526736001" lat="48.525062" lon="15.46416"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3542" /><tag k="addr:street" v="Betriebsgebiet" /><tag k="addr:city" v="Jaidhof" /><tag k="addr:housenumber" v="104" /></node>
+<node id="-7526794000" lat="48.525171" lon="15.464793"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3542" /><tag k="addr:street" v="Betriebsgebiet" /><tag k="addr:city" v="Jaidhof" /><tag k="addr:housenumber" v="105" /></node>
+<node id="-7526795000" lat="48.525166" lon="15.465524"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3542" /><tag k="addr:street" v="Betriebsgebiet" /><tag k="addr:city" v="Jaidhof" /><tag k="addr:housenumber" v="106" /></node>
+<node id="-7628602000" lat="48.524402" lon="15.463814"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3542" /><tag k="addr:street" v="Betriebsgebiet" /><tag k="addr:city" v="Jaidhof" /><tag k="addr:housenumber" v="111" /></node>
+<node id="-7650520000" lat="48.525227" lon="15.461327"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3542" /><tag k="addr:street" v="Betriebsgebiet" /><tag k="addr:city" v="Jaidhof" /><tag k="addr:housenumber" v="107" /></node>
+<bounds minlat="48.524402" minlon="15.461327" maxlat="48.525227" maxlon="15.465524" />
+</osm>

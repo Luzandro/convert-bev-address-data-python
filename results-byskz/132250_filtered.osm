@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7579007001" lat="47.783144" lon="12.995533"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5071" /><tag k="addr:street" v="Falkenweg" /><tag k="addr:city" v="Wals-Siezenheim" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7579009001" lat="47.783242" lon="12.995801"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5071" /><tag k="addr:street" v="Falkenweg" /><tag k="addr:city" v="Wals-Siezenheim" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7579011001" lat="47.783415" lon="12.996182"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5071" /><tag k="addr:street" v="Falkenweg" /><tag k="addr:city" v="Wals-Siezenheim" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="47.783144" minlon="12.995533" maxlat="47.783415" maxlon="12.996182" />
+</osm>

@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7620590000" lat="48.555896" lon="14.47577"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4261" /><tag k="addr:street" v="Rosensiedlung" /><tag k="addr:city" v="Rainbach im M&#252;hlkreis" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7620593000" lat="48.55594" lon="14.475044"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4261" /><tag k="addr:street" v="Rosensiedlung" /><tag k="addr:city" v="Rainbach im M&#252;hlkreis" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7620594000" lat="48.556043" lon="14.475003"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4261" /><tag k="addr:street" v="Rosensiedlung" /><tag k="addr:city" v="Rainbach im M&#252;hlkreis" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="48.555896" minlon="14.475003" maxlat="48.556043" maxlon="14.47577" />
+</osm>

@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7623065000" lat="47.963291" lon="16.315747"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2523" /><tag k="addr:street" v="Gebendorfer Weg" /><tag k="addr:city" v="Tattendorf" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7623070001" lat="47.961828" lon="16.31611"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2523" /><tag k="addr:street" v="Gebendorfer Weg" /><tag k="addr:city" v="Tattendorf" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="47.961828" minlon="16.315747" maxlat="47.963291" maxlon="16.31611" />
+</osm>

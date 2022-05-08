@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6759018001" lat="47.432933" lon="9.743374"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6850" /><tag k="addr:street" v="Herta-Witzemann-Weg" /><tag k="addr:city" v="Dornbirn" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-6759019001" lat="47.433042" lon="9.743001"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6850" /><tag k="addr:street" v="Herta-Witzemann-Weg" /><tag k="addr:city" v="Dornbirn" /><tag k="addr:housenumber" v="2a" /></node>
+<node id="-7430075001" lat="47.432633" lon="9.743368"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6850" /><tag k="addr:street" v="Herta-Witzemann-Weg" /><tag k="addr:city" v="Dornbirn" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7430077001" lat="47.432777" lon="9.742882"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6850" /><tag k="addr:street" v="Herta-Witzemann-Weg" /><tag k="addr:city" v="Dornbirn" /><tag k="addr:housenumber" v="4a" /></node>
+<node id="-7430079001" lat="47.432806" lon="9.742796"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6850" /><tag k="addr:street" v="Herta-Witzemann-Weg" /><tag k="addr:city" v="Dornbirn" /><tag k="addr:housenumber" v="4b" /></node>
+<bounds minlat="47.432633" minlon="9.742796" maxlat="47.433042" maxlon="9.743374" />
+</osm>

@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6991371001" lat="46.839965" lon="14.815672"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9400" /><tag k="addr:street" v="Uferweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7364273001" lat="46.840053" lon="14.815319"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9400" /><tag k="addr:street" v="Uferweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7365489001" lat="46.840248" lon="14.814344"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9400" /><tag k="addr:street" v="Uferweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7457403001" lat="46.83987" lon="14.816115"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9400" /><tag k="addr:street" v="Uferweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="7" /></node>
+<bounds minlat="46.83987" minlon="14.814344" maxlat="46.840248" maxlon="14.816115" />
+</osm>

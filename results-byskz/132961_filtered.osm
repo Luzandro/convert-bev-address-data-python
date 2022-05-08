@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7601094000" lat="47.280099" lon="15.988248"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8230" /><tag k="addr:street" v="Am HATRIC" /><tag k="addr:city" v="Hartberg" /><tag k="addr:housenumber" v="104" /></node>
+<node id="-7601355000" lat="47.278149" lon="15.983189"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8230" /><tag k="addr:street" v="Am HATRIC" /><tag k="addr:city" v="Hartberg" /><tag k="addr:housenumber" v="155" /></node>
+<node id="-7612935000" lat="47.277805" lon="15.983545"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8230" /><tag k="addr:street" v="Am HATRIC" /><tag k="addr:city" v="Hartberg" /><tag k="addr:housenumber" v="158" /></node>
+<bounds minlat="47.277805" minlon="15.983189" maxlat="47.280099" maxlon="15.988248" />
+</osm>

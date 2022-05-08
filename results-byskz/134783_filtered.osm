@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6172744001" lat="46.831964" lon="14.797796"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Goetheweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-6172745001" lat="46.832078" lon="14.797341"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Goetheweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7049602001" lat="46.832224" lon="14.797895"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Goetheweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7299870001" lat="46.832356" lon="14.797449"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Goetheweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7503488001" lat="46.832404" lon="14.797874"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Goetheweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="46.831964" minlon="14.797341" maxlat="46.832404" maxlon="14.797895" />
+</osm>

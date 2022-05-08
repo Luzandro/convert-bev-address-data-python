@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7652308000" lat="47.854117" lon="13.333572"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5310" /><tag k="addr:street" v="Buchenweg" /><tag k="addr:city" v="Tiefgraben" /><tag k="addr:housenumber" v="9" /></node>
+<node id="-7652310000" lat="47.854117" lon="13.333427"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5310" /><tag k="addr:street" v="Buchenweg" /><tag k="addr:city" v="Tiefgraben" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7652314000" lat="47.85394" lon="13.333138"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5310" /><tag k="addr:street" v="Buchenweg" /><tag k="addr:city" v="Tiefgraben" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7652420000" lat="47.853875" lon="13.333414"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5310" /><tag k="addr:street" v="Buchenweg" /><tag k="addr:city" v="Tiefgraben" /><tag k="addr:housenumber" v="7" /></node>
+<bounds minlat="47.853875" minlon="13.333138" maxlat="47.854117" maxlon="13.333572" />
+</osm>

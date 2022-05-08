@@ -1,0 +1,10 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6172694001" lat="46.832117" lon="14.803424"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Meisenweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-6172695001" lat="46.831828" lon="14.803494"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Meisenweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-6172696001" lat="46.831678" lon="14.803307"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Meisenweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-6172697001" lat="46.831463" lon="14.803209"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Meisenweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-6172705001" lat="46.831465" lon="14.803747"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Meisenweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-6172706001" lat="46.831689" lon="14.803805"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Meisenweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-6172707001" lat="46.831887" lon="14.803863"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Meisenweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="46.831463" minlon="14.803209" maxlat="46.832117" maxlon="14.803863" />
+</osm>

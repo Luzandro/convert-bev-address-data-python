@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7575266001" lat="48.091523" lon="13.862842"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4650" /><tag k="addr:street" v="Beethovenstra&#223;e" /><tag k="addr:city" v="Lambach" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7575267001" lat="48.091487" lon="13.863062"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4650" /><tag k="addr:street" v="Beethovenstra&#223;e" /><tag k="addr:city" v="Lambach" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7586608001" lat="48.091302" lon="13.862578"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4650" /><tag k="addr:street" v="Beethovenstra&#223;e" /><tag k="addr:city" v="Lambach" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7592220001" lat="48.091375" lon="13.863311"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4650" /><tag k="addr:street" v="Beethovenstra&#223;e" /><tag k="addr:city" v="Lambach" /><tag k="addr:housenumber" v="7" /></node>
+<bounds minlat="48.091302" minlon="13.862578" maxlat="48.091523" maxlon="13.863311" />
+</osm>

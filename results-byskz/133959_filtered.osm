@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6718396001" lat="47.010153" lon="10.000805"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Venzaweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="53" /></node>
+<node id="-6718399001" lat="47.01071" lon="10.000382"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Venzaweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="54" /></node>
+<node id="-6718400001" lat="47.010464" lon="10.000243"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Venzaweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="54a" /></node>
+<node id="-6718401001" lat="47.010649" lon="10.000517"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Venzaweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="54b" /></node>
+<node id="-7111701001" lat="47.010456" lon="10.001042"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Venzaweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="53c" /></node>
+<node id="-7518384001" lat="47.010043" lon="10.00099"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Venzaweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="53d" /></node>
+<bounds minlat="47.010043" minlon="10.000243" maxlat="47.01071" maxlon="10.001042" />
+</osm>

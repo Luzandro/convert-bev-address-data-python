@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7595104001" lat="47.05614" lon="16.121632"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="7571" /><tag k="addr:street" v="Brunnengasse" /><tag k="addr:city" v="Rudersdorf" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7595128001" lat="47.056319" lon="16.122088"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="7571" /><tag k="addr:street" v="Brunnengasse" /><tag k="addr:city" v="Rudersdorf" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7595129001" lat="47.056114" lon="16.122211"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="7571" /><tag k="addr:street" v="Brunnengasse" /><tag k="addr:city" v="Rudersdorf" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7620284001" lat="47.055606" lon="16.121702"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="7571" /><tag k="addr:street" v="Brunnengasse" /><tag k="addr:city" v="Rudersdorf" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7620287001" lat="47.055803" lon="16.122219"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="7571" /><tag k="addr:street" v="Brunnengasse" /><tag k="addr:city" v="Rudersdorf" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7639818000" lat="47.05555" lon="16.122382"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="7571" /><tag k="addr:street" v="Brunnengasse" /><tag k="addr:city" v="Rudersdorf" /><tag k="addr:housenumber" v="8" /></node>
+<bounds minlat="47.05555" minlon="16.121632" maxlat="47.056319" maxlon="16.122382" />
+</osm>

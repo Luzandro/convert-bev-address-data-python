@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7541426000" lat="47.995042" lon="16.474195"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2441" /><tag k="addr:street" v="Landtechnik-Stra&#223;e" /><tag k="addr:city" v="Mitterndorf an der Fischa" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7541427000" lat="47.993779" lon="16.47283"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2441" /><tag k="addr:street" v="Landtechnik-Stra&#223;e" /><tag k="addr:city" v="Mitterndorf an der Fischa" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="47.993779" minlon="16.47283" maxlat="47.995042" maxlon="16.474195" />
+</osm>

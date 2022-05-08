@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6719007001" lat="47.01679" lon="9.990282"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Gantweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="302a" /></node>
+<node id="-6719008001" lat="47.016996" lon="9.989961"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Gantweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="302b" /></node>
+<node id="-6719009001" lat="47.017134" lon="9.990222"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Gantweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="302c" /></node>
+<bounds minlat="47.01679" minlon="9.989961" maxlat="47.017134" maxlon="9.990282" />
+</osm>

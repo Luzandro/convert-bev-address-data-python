@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7595650001" lat="46.777952" lon="13.650349"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9873" /><tag k="addr:street" v="Neulach" /><tag k="addr:city" v="Radenthein" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7604588001" lat="46.778162" lon="13.650577"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9873" /><tag k="addr:street" v="Neulach" /><tag k="addr:city" v="Radenthein" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7604599001" lat="46.778012" lon="13.650115"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9873" /><tag k="addr:street" v="Neulach" /><tag k="addr:city" v="Radenthein" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7604605001" lat="46.778122" lon="13.649783"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9873" /><tag k="addr:street" v="Neulach" /><tag k="addr:city" v="Radenthein" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7610772001" lat="46.778234" lon="13.650105"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9873" /><tag k="addr:street" v="Neulach" /><tag k="addr:city" v="Radenthein" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7610776000" lat="46.778266" lon="13.650295"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9873" /><tag k="addr:street" v="Neulach" /><tag k="addr:city" v="Radenthein" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="46.777952" minlon="13.649783" maxlat="46.778266" maxlon="13.650577" />
+</osm>

@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7586939001" lat="46.832503" lon="13.374433"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9813" /><tag k="addr:street" v="Turnerwiese" /><tag k="addr:city" v="Lurnfeld" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7586940001" lat="46.832284" lon="13.374798"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9813" /><tag k="addr:street" v="Turnerwiese" /><tag k="addr:city" v="Lurnfeld" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7586941000" lat="46.832348" lon="13.374491"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9813" /><tag k="addr:street" v="Turnerwiese" /><tag k="addr:city" v="Lurnfeld" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="46.832284" minlon="13.374433" maxlat="46.832503" maxlon="13.374798" />
+</osm>

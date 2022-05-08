@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7629626000" lat="47.27005" lon="15.989156"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8230" /><tag k="addr:street" v="Sonnenfeld" /><tag k="addr:city" v="Hartberg" /><tag k="addr:housenumber" v="12" /></node>
+<node id="-7640206000" lat="47.270236" lon="15.988968"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8230" /><tag k="addr:street" v="Sonnenfeld" /><tag k="addr:city" v="Hartberg" /><tag k="addr:housenumber" v="10" /></node>
+<node id="-7641634000" lat="47.270084" lon="15.989744"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8230" /><tag k="addr:street" v="Sonnenfeld" /><tag k="addr:city" v="Hartberg" /><tag k="addr:housenumber" v="14" /></node>
+<bounds minlat="47.27005" minlon="15.988968" maxlat="47.270236" maxlon="15.989744" />
+</osm>

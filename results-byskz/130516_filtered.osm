@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7552072000" lat="46.563588" lon="13.929192"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9582" /><tag k="addr:street" v="Reitschulweg" /><tag k="addr:city" v="Finkenstein am Faaker See" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7553759001" lat="46.563705" lon="13.928491"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9582" /><tag k="addr:street" v="Reitschulweg" /><tag k="addr:city" v="Finkenstein am Faaker See" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7559501000" lat="46.563421" lon="13.928854"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9582" /><tag k="addr:street" v="Reitschulweg" /><tag k="addr:city" v="Finkenstein am Faaker See" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7594620001" lat="46.56309" lon="13.928304"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9582" /><tag k="addr:street" v="Reitschulweg" /><tag k="addr:city" v="Finkenstein am Faaker See" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7602322001" lat="46.563366" lon="13.929403"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9582" /><tag k="addr:street" v="Reitschulweg" /><tag k="addr:city" v="Finkenstein am Faaker See" /><tag k="addr:housenumber" v="10" /></node>
+<node id="-7622729000" lat="46.563129" lon="13.928025"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9582" /><tag k="addr:street" v="Reitschulweg" /><tag k="addr:city" v="Finkenstein am Faaker See" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="46.56309" minlon="13.928025" maxlat="46.563705" maxlon="13.929403" />
+</osm>

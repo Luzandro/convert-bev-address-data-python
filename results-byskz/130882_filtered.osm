@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7558209001" lat="47.479632" lon="16.106689"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8244" /><tag k="addr:street" v="Sonnenhang" /><tag k="addr:city" v="Sch&#228;ffern" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7558210000" lat="47.479865" lon="16.10651"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8244" /><tag k="addr:street" v="Sonnenhang" /><tag k="addr:city" v="Sch&#228;ffern" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7611279000" lat="47.479993" lon="16.106573"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8244" /><tag k="addr:street" v="Sonnenhang" /><tag k="addr:city" v="Sch&#228;ffern" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7633497000" lat="47.480444" lon="16.106297"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8244" /><tag k="addr:street" v="Sonnenhang" /><tag k="addr:city" v="Sch&#228;ffern" /><tag k="addr:housenumber" v="9" /></node>
+<bounds minlat="47.479632" minlon="16.106297" maxlat="47.480444" maxlon="16.106689" />
+</osm>

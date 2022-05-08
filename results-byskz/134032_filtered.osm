@@ -1,0 +1,10 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7622843001" lat="48.40572" lon="15.824695"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3484" /><tag k="addr:street" v="Teichgasse" /><tag k="addr:city" v="Grafenw&#246;rth" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7622844000" lat="48.40574" lon="15.825101"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3484" /><tag k="addr:street" v="Teichgasse" /><tag k="addr:city" v="Grafenw&#246;rth" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7622845001" lat="48.405628" lon="15.825425"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3484" /><tag k="addr:street" v="Teichgasse" /><tag k="addr:city" v="Grafenw&#246;rth" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7622847000" lat="48.405635" lon="15.825743"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3484" /><tag k="addr:street" v="Teichgasse" /><tag k="addr:city" v="Grafenw&#246;rth" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7622848000" lat="48.405577" lon="15.826093"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3484" /><tag k="addr:street" v="Teichgasse" /><tag k="addr:city" v="Grafenw&#246;rth" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7622849000" lat="48.405537" lon="15.826337"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3484" /><tag k="addr:street" v="Teichgasse" /><tag k="addr:city" v="Grafenw&#246;rth" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7622851000" lat="48.405645" lon="15.82639"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3484" /><tag k="addr:street" v="Teichgasse" /><tag k="addr:city" v="Grafenw&#246;rth" /><tag k="addr:housenumber" v="7" /></node>
+<bounds minlat="48.405537" minlon="15.824695" maxlat="48.40574" maxlon="15.82639" />
+</osm>

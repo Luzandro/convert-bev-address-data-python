@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7327957001" lat="48.434812" lon="14.276161"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4202" /><tag k="addr:street" v="Sternsteinblick" /><tag k="addr:city" v="Kirchschlag bei Linz" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7603517001" lat="48.435" lon="14.27672"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4202" /><tag k="addr:street" v="Sternsteinblick" /><tag k="addr:city" v="Kirchschlag bei Linz" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="48.434812" minlon="14.276161" maxlat="48.435" maxlon="14.27672" />
+</osm>

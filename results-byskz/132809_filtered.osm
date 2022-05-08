@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7595761001" lat="47.35621" lon="15.342252"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8132" /><tag k="addr:street" v="Anton Martan-Weg" /><tag k="addr:city" v="Pernegg an der Mur" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7603515001" lat="47.356457" lon="15.342129"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8132" /><tag k="addr:street" v="Anton Martan-Weg" /><tag k="addr:city" v="Pernegg an der Mur" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7620068001" lat="47.356857" lon="15.344017"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8132" /><tag k="addr:street" v="Anton Martan-Weg" /><tag k="addr:city" v="Pernegg an der Mur" /><tag k="addr:housenumber" v="10" /></node>
+<node id="-7623682001" lat="47.356523" lon="15.343191"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8132" /><tag k="addr:street" v="Anton Martan-Weg" /><tag k="addr:city" v="Pernegg an der Mur" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7625692001" lat="47.356904" lon="15.343427"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8132" /><tag k="addr:street" v="Anton Martan-Weg" /><tag k="addr:city" v="Pernegg an der Mur" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7650122000" lat="47.356513" lon="15.342749"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8132" /><tag k="addr:street" v="Anton Martan-Weg" /><tag k="addr:city" v="Pernegg an der Mur" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="47.35621" minlon="15.342129" maxlat="47.356904" maxlon="15.344017" />
+</osm>

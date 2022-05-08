@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6718328001" lat="47.005914" lon="10.00534"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Feldweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="18" /></node>
+<node id="-6718329001" lat="47.005534" lon="10.005349"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Feldweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="18a" /></node>
+<node id="-6718330001" lat="47.005554" lon="10.004998"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Feldweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="18b" /></node>
+<node id="-6996864001" lat="47.005388" lon="10.004752"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Feldweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="18c" /></node>
+<bounds minlat="47.005388" minlon="10.004752" maxlat="47.005914" maxlon="10.005349" />
+</osm>

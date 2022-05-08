@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6718629001" lat="47.022635" lon="9.960801"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Suggadinweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="69a" /></node>
+<node id="-6718714001" lat="47.022394" lon="9.960084"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Suggadinweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="125" /></node>
+<node id="-6718715001" lat="47.021827" lon="9.959405"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Suggadinweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="125a" /></node>
+<node id="-7574499001" lat="47.022347" lon="9.960683"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Suggadinweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="69c" /></node>
+<bounds minlat="47.021827" minlon="9.959405" maxlat="47.022635" maxlon="9.960801" />
+</osm>

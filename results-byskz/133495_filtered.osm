@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5533028001" lat="48.394143" lon="14.234445"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4201" /><tag k="addr:street" v="Hoffeld" /><tag k="addr:city" v="Eidenberg" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7611340000" lat="48.393752" lon="14.234821"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4201" /><tag k="addr:street" v="Hoffeld" /><tag k="addr:city" v="Eidenberg" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7611341000" lat="48.393752" lon="14.234821"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4201" /><tag k="addr:street" v="Hoffeld" /><tag k="addr:city" v="Eidenberg" /><tag k="addr:housenumber" v="8" /></node>
+<bounds minlat="48.393752" minlon="14.234445" maxlat="48.394143" maxlon="14.234821" />
+</osm>

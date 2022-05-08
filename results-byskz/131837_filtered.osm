@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7575746000" lat="46.813776" lon="14.835311"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9400" /><tag k="addr:street" v="Kuckuckweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7575748000" lat="46.813798" lon="14.835171"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9400" /><tag k="addr:street" v="Kuckuckweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7575750000" lat="46.813666" lon="14.835268"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9400" /><tag k="addr:street" v="Kuckuckweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7575751000" lat="46.813552" lon="14.835059"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9400" /><tag k="addr:street" v="Kuckuckweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7575752000" lat="46.813443" lon="14.83506"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9400" /><tag k="addr:street" v="Kuckuckweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7575753000" lat="46.813456" lon="14.834733"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9400" /><tag k="addr:street" v="Kuckuckweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="46.813443" minlon="14.834733" maxlat="46.813798" maxlon="14.835311" />
+</osm>

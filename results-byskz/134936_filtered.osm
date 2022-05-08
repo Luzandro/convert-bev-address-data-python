@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5593590001" lat="48.213178" lon="14.107428"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4615" /><tag k="addr:street" v="Gelsenwinkel" /><tag k="addr:city" v="Holzhausen" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-5593605001" lat="48.213743" lon="14.107113"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4615" /><tag k="addr:street" v="Gelsenwinkel" /><tag k="addr:city" v="Holzhausen" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-5593606001" lat="48.214052" lon="14.107067"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4615" /><tag k="addr:street" v="Gelsenwinkel" /><tag k="addr:city" v="Holzhausen" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-5593612001" lat="48.212484" lon="14.107846"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4615" /><tag k="addr:street" v="Gelsenwinkel" /><tag k="addr:city" v="Holzhausen" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5593614001" lat="48.213344" lon="14.107354"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4615" /><tag k="addr:street" v="Gelsenwinkel" /><tag k="addr:city" v="Holzhausen" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="48.212484" minlon="14.107067" maxlat="48.214052" maxlon="14.107846" />
+</osm>

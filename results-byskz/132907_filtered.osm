@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7599073001" lat="47.046135" lon="16.061628"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8280" /><tag k="addr:street" v="Kapellenweg" /><tag k="addr:city" v="F&#252;rstenfeld" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7599076001" lat="47.046716" lon="16.062414"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8280" /><tag k="addr:street" v="Kapellenweg" /><tag k="addr:city" v="F&#252;rstenfeld" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7599078000" lat="47.046984" lon="16.063038"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8280" /><tag k="addr:street" v="Kapellenweg" /><tag k="addr:city" v="F&#252;rstenfeld" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="47.046135" minlon="16.061628" maxlat="47.046984" maxlon="16.063038" />
+</osm>

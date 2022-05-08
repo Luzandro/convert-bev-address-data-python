@@ -1,0 +1,10 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5703454001" lat="47.209138" lon="12.68785"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5710" /><tag k="addr:street" v="Gletscherweg" /><tag k="addr:city" v="Kaprun" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7542901001" lat="47.198959" lon="12.682451"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5710" /><tag k="addr:street" v="Gletscherweg" /><tag k="addr:city" v="Kaprun" /><tag k="addr:housenumber" v="40" /></node>
+<node id="-7542902001" lat="47.203463" lon="12.677139"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5710" /><tag k="addr:street" v="Gletscherweg" /><tag k="addr:city" v="Kaprun" /><tag k="addr:housenumber" v="33" /></node>
+<node id="-7552270001" lat="47.206943" lon="12.688861"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5710" /><tag k="addr:street" v="Gletscherweg" /><tag k="addr:city" v="Kaprun" /><tag k="addr:housenumber" v="35" /></node>
+<node id="-7572511001" lat="47.200915" lon="12.686776"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5710" /><tag k="addr:street" v="Gletscherweg" /><tag k="addr:city" v="Kaprun" /><tag k="addr:housenumber" v="38" /></node>
+<node id="-7573785000" lat="47.204445" lon="12.680613"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5710" /><tag k="addr:street" v="Gletscherweg" /><tag k="addr:city" v="Kaprun" /><tag k="addr:housenumber" v="29" /></node>
+<node id="-7578262000" lat="47.207786" lon="12.689891"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5710" /><tag k="addr:street" v="Gletscherweg" /><tag k="addr:city" v="Kaprun" /><tag k="addr:housenumber" v="50" /></node>
+<bounds minlat="47.198959" minlon="12.677139" maxlat="47.209138" maxlon="12.689891" />
+</osm>

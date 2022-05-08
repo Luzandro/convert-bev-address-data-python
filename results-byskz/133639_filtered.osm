@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7614729000" lat="47.301736" lon="10.910282"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6416" /><tag k="addr:street" v="L&#228;rchenweg" /><tag k="addr:city" v="Obsteig" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7614730000" lat="47.301936" lon="10.910282"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6416" /><tag k="addr:street" v="L&#228;rchenweg" /><tag k="addr:city" v="Obsteig" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7614731000" lat="47.302325" lon="10.910277"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6416" /><tag k="addr:street" v="L&#228;rchenweg" /><tag k="addr:city" v="Obsteig" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7614732000" lat="47.301743" lon="10.909617"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6416" /><tag k="addr:street" v="L&#228;rchenweg" /><tag k="addr:city" v="Obsteig" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7614733000" lat="47.302292" lon="10.90973"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6416" /><tag k="addr:street" v="L&#228;rchenweg" /><tag k="addr:city" v="Obsteig" /><tag k="addr:housenumber" v="10" /></node>
+<bounds minlat="47.301736" minlon="10.909617" maxlat="47.302369" maxlon="10.91032" />
+</osm>

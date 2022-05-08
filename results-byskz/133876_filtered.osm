@@ -1,0 +1,10 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7619409001" lat="47.989981" lon="13.70671"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4844" /><tag k="addr:street" v="Preisinger Feld" /><tag k="addr:city" v="Regau" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7619437001" lat="47.989952" lon="13.705691"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4844" /><tag k="addr:street" v="Preisinger Feld" /><tag k="addr:city" v="Regau" /><tag k="addr:housenumber" v="13" /></node>
+<node id="-7619504001" lat="47.990128" lon="13.70612"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4844" /><tag k="addr:street" v="Preisinger Feld" /><tag k="addr:city" v="Regau" /><tag k="addr:housenumber" v="15" /></node>
+<node id="-7622842001" lat="47.989726" lon="13.706201"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4844" /><tag k="addr:street" v="Preisinger Feld" /><tag k="addr:city" v="Regau" /><tag k="addr:housenumber" v="11" /></node>
+<node id="-7622854000" lat="47.989574" lon="13.706604"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4844" /><tag k="addr:street" v="Preisinger Feld" /><tag k="addr:city" v="Regau" /><tag k="addr:housenumber" v="9" /></node>
+<node id="-7645124000" lat="47.989669" lon="13.706676"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4844" /><tag k="addr:street" v="Preisinger Feld" /><tag k="addr:city" v="Regau" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7646776000" lat="47.989462" lon="13.707285"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4844" /><tag k="addr:street" v="Preisinger Feld" /><tag k="addr:city" v="Regau" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="47.989462" minlon="13.705691" maxlat="47.990128" maxlon="13.707285" />
+</osm>

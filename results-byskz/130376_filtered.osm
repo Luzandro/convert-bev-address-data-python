@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7549068001" lat="48.450826" lon="15.765733"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3492" /><tag k="addr:street" v="Gerstenweg" /><tag k="addr:city" v="Grafenegg" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7549070001" lat="48.450801" lon="15.766033"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3492" /><tag k="addr:street" v="Gerstenweg" /><tag k="addr:city" v="Grafenegg" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7549072001" lat="48.450751" lon="15.766362"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3492" /><tag k="addr:street" v="Gerstenweg" /><tag k="addr:city" v="Grafenegg" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7549075001" lat="48.45076" lon="15.766698"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3492" /><tag k="addr:street" v="Gerstenweg" /><tag k="addr:city" v="Grafenegg" /><tag k="addr:housenumber" v="8" /></node>
+<bounds minlat="48.450751" minlon="15.765733" maxlat="48.450826" maxlon="15.766698" />
+</osm>

@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6088086001" lat="46.856403" lon="14.157699"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9345" /><tag k="addr:street" v="Zauchwinkelstra&#223;e" /><tag k="addr:city" v="Gl&#246;dnitz" /><tag k="addr:housenumber" v="15" /></node>
+<node id="-6088088001" lat="46.855027" lon="14.158845"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9345" /><tag k="addr:street" v="Zauchwinkelstra&#223;e" /><tag k="addr:city" v="Gl&#246;dnitz" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-6088089001" lat="46.855407" lon="14.158628"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9345" /><tag k="addr:street" v="Zauchwinkelstra&#223;e" /><tag k="addr:city" v="Gl&#246;dnitz" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-6088090001" lat="46.855244" lon="14.158717"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9345" /><tag k="addr:street" v="Zauchwinkelstra&#223;e" /><tag k="addr:city" v="Gl&#246;dnitz" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-6088091001" lat="46.855579" lon="14.158434"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9345" /><tag k="addr:street" v="Zauchwinkelstra&#223;e" /><tag k="addr:city" v="Gl&#246;dnitz" /><tag k="addr:housenumber" v="7" /></node>
+<bounds minlat="46.855027" minlon="14.157699" maxlat="46.856403" maxlon="14.158845" />
+</osm>

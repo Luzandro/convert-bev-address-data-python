@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7602178001" lat="46.62948" lon="13.964231"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9241" /><tag k="addr:street" v="Holunderweg" /><tag k="addr:city" v="Wernberg" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7602180001" lat="46.629803" lon="13.963417"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9241" /><tag k="addr:street" v="Holunderweg" /><tag k="addr:city" v="Wernberg" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7602188001" lat="46.629487" lon="13.963907"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9241" /><tag k="addr:street" v="Holunderweg" /><tag k="addr:city" v="Wernberg" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="46.62948" minlon="13.963417" maxlat="46.629803" maxlon="13.964231" />
+</osm>

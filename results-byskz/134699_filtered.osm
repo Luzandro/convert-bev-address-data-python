@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7644206000" lat="47.88437" lon="16.2518"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2601" /><tag k="addr:street" v="Maria Reingruber-Gasse" /><tag k="addr:city" v="Sollenau" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7644207000" lat="47.88443" lon="16.251863"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2601" /><tag k="addr:street" v="Maria Reingruber-Gasse" /><tag k="addr:city" v="Sollenau" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7644209000" lat="47.884383" lon="16.251557"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2601" /><tag k="addr:street" v="Maria Reingruber-Gasse" /><tag k="addr:city" v="Sollenau" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7644211000" lat="47.884445" lon="16.251586"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2601" /><tag k="addr:street" v="Maria Reingruber-Gasse" /><tag k="addr:city" v="Sollenau" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7644212000" lat="47.884381" lon="16.251386"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2601" /><tag k="addr:street" v="Maria Reingruber-Gasse" /><tag k="addr:city" v="Sollenau" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7644213000" lat="47.884456" lon="16.251383"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2601" /><tag k="addr:street" v="Maria Reingruber-Gasse" /><tag k="addr:city" v="Sollenau" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="47.88437" minlon="16.251383" maxlat="47.884456" maxlon="16.251863" />
+</osm>

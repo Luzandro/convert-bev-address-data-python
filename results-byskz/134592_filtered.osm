@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7617932000" lat="46.852429" lon="15.531202"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8403" /><tag k="addr:street" v="Wiesengrund" /><tag k="addr:city" v="Lebring-Sankt Margarethen" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7636310000" lat="46.85266" lon="15.531408"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8403" /><tag k="addr:street" v="Wiesengrund" /><tag k="addr:city" v="Lebring-Sankt Margarethen" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7636311000" lat="46.852719" lon="15.532106"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8403" /><tag k="addr:street" v="Wiesengrund" /><tag k="addr:city" v="Lebring-Sankt Margarethen" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="46.852429" minlon="15.531202" maxlat="46.852719" maxlon="15.532106" />
+</osm>

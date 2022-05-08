@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6455864001" lat="48.304745" lon="15.052783"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3683" /><tag k="addr:street" v="Kapelleramt Mitte" /><tag k="addr:city" v="Yspertal" /><tag k="addr:housenumber" v="9" /></node>
+<node id="-6455866001" lat="48.302656" lon="15.059379"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3683" /><tag k="addr:street" v="Kapelleramt Mitte" /><tag k="addr:city" v="Yspertal" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-6455885001" lat="48.307346" lon="15.049504"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3683" /><tag k="addr:street" v="Kapelleramt Mitte" /><tag k="addr:city" v="Yspertal" /><tag k="addr:housenumber" v="10" /></node>
+<bounds minlat="48.302656" minlon="15.049504" maxlat="48.307346" maxlon="15.059379" />
+</osm>

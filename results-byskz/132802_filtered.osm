@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7618803001" lat="48.086593" lon="13.134804"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5223" /><tag k="addr:street" v="Erlenweg" /><tag k="addr:city" v="Pfaffst&#228;tt" /><tag k="addr:housenumber" v="9" /></node>
+<node id="-7618868001" lat="48.08631" lon="13.135679"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5223" /><tag k="addr:street" v="Erlenweg" /><tag k="addr:city" v="Pfaffst&#228;tt" /><tag k="addr:housenumber" v="11" /></node>
+<bounds minlat="48.08631" minlon="13.134804" maxlat="48.086593" maxlon="13.135679" />
+</osm>

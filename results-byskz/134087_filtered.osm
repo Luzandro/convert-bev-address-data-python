@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7626330000" lat="48.070638" lon="14.736553"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3361" /><tag k="addr:street" v="Kumpfm&#252;hlweg" /><tag k="addr:city" v="Aschbach-Markt" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7626331000" lat="48.071108" lon="14.736504"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3361" /><tag k="addr:street" v="Kumpfm&#252;hlweg" /><tag k="addr:city" v="Aschbach-Markt" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="48.070638" minlon="14.736504" maxlat="48.071108" maxlon="14.736553" />
+</osm>

@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7590003001" lat="47.291831" lon="11.644848"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6115" /><tag k="addr:street" v="Hoferfeld" /><tag k="addr:city" v="Kolsassberg" /><tag k="addr:housenumber" v="9" /></node>
+<node id="-7627626001" lat="47.2916" lon="11.644902"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6115" /><tag k="addr:street" v="Hoferfeld" /><tag k="addr:city" v="Kolsassberg" /><tag k="addr:housenumber" v="11" /></node>
+<node id="-7648231000" lat="47.291718" lon="11.644859"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6115" /><tag k="addr:street" v="Hoferfeld" /><tag k="addr:city" v="Kolsassberg" /><tag k="addr:housenumber" v="10" /></node>
+<bounds minlat="47.2916" minlon="11.644413" maxlat="47.292107" maxlon="11.644902" />
+</osm>

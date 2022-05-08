@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7602320001" lat="48.040824" lon="12.987696"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5141" /><tag k="addr:street" v="Am Sonnblick" /><tag k="addr:city" v="Moosdorf" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7603244001" lat="48.041208" lon="12.987932"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5141" /><tag k="addr:street" v="Am Sonnblick" /><tag k="addr:city" v="Moosdorf" /><tag k="addr:housenumber" v="9" /></node>
+<node id="-7603258001" lat="48.041287" lon="12.987739"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5141" /><tag k="addr:street" v="Am Sonnblick" /><tag k="addr:city" v="Moosdorf" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7627112000" lat="48.041007" lon="12.987862"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5141" /><tag k="addr:street" v="Am Sonnblick" /><tag k="addr:city" v="Moosdorf" /><tag k="addr:housenumber" v="8" /></node>
+<bounds minlat="48.040824" minlon="12.987696" maxlat="48.041287" maxlon="12.987932" />
+</osm>

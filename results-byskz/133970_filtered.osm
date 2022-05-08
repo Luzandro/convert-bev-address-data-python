@@ -1,0 +1,10 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6718218001" lat="46.972149" lon="9.917599"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6787" /><tag k="addr:street" v="Madrisaweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="38" /></node>
+<node id="-6718219001" lat="46.970811" lon="9.917442"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6787" /><tag k="addr:street" v="Madrisaweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="39" /></node>
+<node id="-6718220001" lat="46.9701" lon="9.917529"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6787" /><tag k="addr:street" v="Madrisaweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="41" /></node>
+<node id="-6718221001" lat="46.971249" lon="9.915903"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6787" /><tag k="addr:street" v="Madrisaweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="41a" /></node>
+<node id="-6718222001" lat="46.969988" lon="9.917469"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6787" /><tag k="addr:street" v="Madrisaweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="42" /></node>
+<node id="-7183408001" lat="46.970754" lon="9.917551"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6787" /><tag k="addr:street" v="Madrisaweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="40" /></node>
+<node id="-7220183001" lat="46.971101" lon="9.916426"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6787" /><tag k="addr:street" v="Madrisaweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="39a" /></node>
+<bounds minlat="46.969988" minlon="9.915903" maxlat="46.972149" maxlon="9.917599" />
+</osm>

@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7624472000" lat="48.499924" lon="15.841324"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3472" /><tag k="addr:street" v="Korngasse" /><tag k="addr:city" v="Hohenwarth-M&#252;hlbach a.M." /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7624473000" lat="48.499714" lon="15.841159"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3472" /><tag k="addr:street" v="Korngasse" /><tag k="addr:city" v="Hohenwarth-M&#252;hlbach a.M." /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="48.499714" minlon="15.841159" maxlat="48.499924" maxlon="15.841324" />
+</osm>

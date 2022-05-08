@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7624765000" lat="47.447898" lon="11.457222"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6215" /><tag k="addr:street" v="Hinterri&#223;-Tortal" /><tag k="addr:city" v="Vomp" /><tag k="addr:housenumber" v="32" /></node>
+<node id="-7624771000" lat="47.45227" lon="11.434836"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6215" /><tag k="addr:street" v="Hinterri&#223;-Tortal" /><tag k="addr:city" v="Vomp" /><tag k="addr:housenumber" v="33" /></node>
+<bounds minlat="47.447898" minlon="11.434836" maxlat="47.45227" maxlon="11.457222" />
+</osm>

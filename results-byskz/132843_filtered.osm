@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5591734001" lat="48.093115" lon="13.963443"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4652" /><tag k="addr:street" v="Unterlahen" /><tag k="addr:city" v="Fischlham" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5591735001" lat="48.093258" lon="13.963886"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4652" /><tag k="addr:street" v="Unterlahen" /><tag k="addr:city" v="Fischlham" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5591736001" lat="48.093273" lon="13.963516"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4652" /><tag k="addr:street" v="Unterlahen" /><tag k="addr:city" v="Fischlham" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7500670000" lat="48.093289" lon="13.962818"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4652" /><tag k="addr:street" v="Unterlahen" /><tag k="addr:city" v="Fischlham" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7597274000" lat="48.093245" lon="13.962746"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4652" /><tag k="addr:street" v="Unterlahen" /><tag k="addr:city" v="Fischlham" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="48.093115" minlon="13.962746" maxlat="48.093289" maxlon="13.963886" />
+</osm>

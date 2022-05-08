@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7555809001" lat="48.177548" lon="12.974"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5134" /><tag k="addr:street" v="Fellnerstra&#223;e" /><tag k="addr:city" v="Schwand im Innkreis" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7555810000" lat="48.177785" lon="12.973926"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5134" /><tag k="addr:street" v="Fellnerstra&#223;e" /><tag k="addr:city" v="Schwand im Innkreis" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7555811001" lat="48.177384" lon="12.97377"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5134" /><tag k="addr:street" v="Fellnerstra&#223;e" /><tag k="addr:city" v="Schwand im Innkreis" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7555812001" lat="48.177716" lon="12.973518"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5134" /><tag k="addr:street" v="Fellnerstra&#223;e" /><tag k="addr:city" v="Schwand im Innkreis" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="48.177384" minlon="12.973518" maxlat="48.177785" maxlon="12.974" />
+</osm>

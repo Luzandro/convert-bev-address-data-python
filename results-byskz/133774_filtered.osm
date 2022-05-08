@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6081171001" lat="46.602509" lon="14.084378"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9535" /><tag k="addr:street" v="Amselweg" /><tag k="addr:city" v="Schiefling am W&#246;rthersee" /><tag k="addr:housenumber" v="11" /></node>
+<node id="-6081174001" lat="46.602676" lon="14.084903"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9535" /><tag k="addr:street" v="Amselweg" /><tag k="addr:city" v="Schiefling am W&#246;rthersee" /><tag k="addr:housenumber" v="14" /></node>
+<node id="-6081197001" lat="46.602451" lon="14.084991"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9535" /><tag k="addr:street" v="Amselweg" /><tag k="addr:city" v="Schiefling am W&#246;rthersee" /><tag k="addr:housenumber" v="10" /></node>
+<node id="-6081201001" lat="46.602276" lon="14.084206"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9535" /><tag k="addr:street" v="Amselweg" /><tag k="addr:city" v="Schiefling am W&#246;rthersee" /><tag k="addr:housenumber" v="9" /></node>
+<node id="-6081202001" lat="46.602696" lon="14.084655"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9535" /><tag k="addr:street" v="Amselweg" /><tag k="addr:city" v="Schiefling am W&#246;rthersee" /><tag k="addr:housenumber" v="12" /></node>
+<bounds minlat="46.602276" minlon="14.084206" maxlat="46.602696" maxlon="14.084991" />
+</osm>

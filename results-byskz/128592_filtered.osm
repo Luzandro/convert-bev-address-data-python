@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5353576000" lat="48.475466" lon="14.72071"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4272" /><tag k="addr:street" v="Sportzentrum" /><tag k="addr:city" v="Weitersfelden" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-5353580002" lat="48.47657" lon="14.716242"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4272" /><tag k="addr:street" v="Sportzentrum" /><tag k="addr:city" v="Weitersfelden" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7438980001" lat="48.47604" lon="14.71687"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4272" /><tag k="addr:street" v="Sportzentrum" /><tag k="addr:city" v="Weitersfelden" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7514060001" lat="48.475635" lon="14.717779"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4272" /><tag k="addr:street" v="Sportzentrum" /><tag k="addr:city" v="Weitersfelden" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="48.475466" minlon="14.716242" maxlat="48.47657" maxlon="14.72071" />
+</osm>

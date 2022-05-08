@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7639431000" lat="47.454014" lon="13.913771"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8962" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Gr&#246;bming" /><tag k="addr:housenumber" v="1167" /></node>
+<node id="-7639436000" lat="47.452307" lon="13.913552"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8962" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Gr&#246;bming" /><tag k="addr:housenumber" v="1170" /></node>
+<node id="-7639448000" lat="47.452175" lon="13.913497"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8962" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Gr&#246;bming" /><tag k="addr:housenumber" v="1175" /></node>
+<node id="-7643695000" lat="47.452961" lon="13.912693"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8962" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Gr&#246;bming" /><tag k="addr:housenumber" v="1166" /></node>
+<node id="-7643714000" lat="47.453353" lon="13.914425"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8962" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Gr&#246;bming" /><tag k="addr:housenumber" v="1168" /></node>
+<bounds minlat="47.452175" minlon="13.912693" maxlat="47.454014" maxlon="13.914425" />
+</osm>

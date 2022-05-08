@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7566339000" lat="48.445175" lon="13.943333"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4131" /><tag k="addr:street" v="Sportplatzweg" /><tag k="addr:city" v="Kirchberg ob der Donau" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7566340000" lat="48.445057" lon="13.943428"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4131" /><tag k="addr:street" v="Sportplatzweg" /><tag k="addr:city" v="Kirchberg ob der Donau" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="48.445057" minlon="13.943333" maxlat="48.445175" maxlon="13.943428" />
+</osm>

@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7640932000" lat="47.436601" lon="10.766178"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6611" /><tag k="addr:street" v="Gewerbegebiet" /><tag k="addr:city" v="Heiterwang" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7640936000" lat="47.438364" lon="10.76467"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6611" /><tag k="addr:street" v="Gewerbegebiet" /><tag k="addr:city" v="Heiterwang" /><tag k="addr:housenumber" v="11" /></node>
+<bounds minlat="47.436601" minlon="10.76467" maxlat="47.438364" maxlon="10.766178" />
+</osm>

@@ -1,0 +1,4 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7611437000" lat="46.833714" lon="14.818426"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Autobahnweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="46.833714" minlon="14.818426" maxlat="46.833714" maxlon="14.818426" />
+</osm>

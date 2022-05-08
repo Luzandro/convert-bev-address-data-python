@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5530001001" lat="48.39616" lon="14.446338"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4211" /><tag k="addr:street" v="Z&#246;llingerberg" /><tag k="addr:city" v="Alberndorf in der Riedmark" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5530004001" lat="48.396963" lon="14.446503"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4211" /><tag k="addr:street" v="Z&#246;llingerberg" /><tag k="addr:city" v="Alberndorf in der Riedmark" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7590914000" lat="48.396466" lon="14.446401"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4211" /><tag k="addr:street" v="Z&#246;llingerberg" /><tag k="addr:city" v="Alberndorf in der Riedmark" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="48.39616" minlon="14.446338" maxlat="48.396963" maxlon="14.446503" />
+</osm>

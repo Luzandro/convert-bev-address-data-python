@@ -1,0 +1,4 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7184232001" lat="47.4485" lon="16.269428"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="7434" /><tag k="addr:street" v="An der Kaltenecker Stra&#223;e" /><tag k="addr:suburb" v="Stuben" /><tag k="addr:city" v="Bernstein" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="47.447345" minlon="16.267783" maxlat="47.452627" maxlon="16.269872" />
+</osm>

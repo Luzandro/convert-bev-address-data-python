@@ -1,0 +1,4 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7629604001" lat="47.039432" lon="10.615346"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6534" /><tag k="addr:street" v="Gewerbepark" /><tag k="addr:city" v="Serfaus" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="47.039432" minlon="10.615148" maxlat="47.04011" maxlon="10.615346" />
+</osm>

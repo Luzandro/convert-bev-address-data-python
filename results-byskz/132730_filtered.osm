@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7548935001" lat="47.916826" lon="16.394767"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2486" /><tag k="addr:street" v="Dr.-Kurt-Waldheim-Stra&#223;e" /><tag k="addr:city" v="Pottendorf" /><tag k="addr:housenumber" v="17" /></node>
+<node id="-7592677000" lat="47.917684" lon="16.396027"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2486" /><tag k="addr:street" v="Dr.-Kurt-Waldheim-Stra&#223;e" /><tag k="addr:city" v="Pottendorf" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7592690000" lat="47.917544" lon="16.39629"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2486" /><tag k="addr:street" v="Dr.-Kurt-Waldheim-Stra&#223;e" /><tag k="addr:city" v="Pottendorf" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7592963000" lat="47.917397" lon="16.396531"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2486" /><tag k="addr:street" v="Dr.-Kurt-Waldheim-Stra&#223;e" /><tag k="addr:city" v="Pottendorf" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7592970000" lat="47.917235" lon="16.396778"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2486" /><tag k="addr:street" v="Dr.-Kurt-Waldheim-Stra&#223;e" /><tag k="addr:city" v="Pottendorf" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="47.916826" minlon="16.394767" maxlat="47.917684" maxlon="16.396778" />
+</osm>

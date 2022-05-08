@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7626562000" lat="46.559721" lon="13.961462"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9581" /><tag k="addr:street" v="Bergblickweg" /><tag k="addr:city" v="Finkenstein am Faaker See" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7626565001" lat="46.55967" lon="13.961719"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9581" /><tag k="addr:street" v="Bergblickweg" /><tag k="addr:city" v="Finkenstein am Faaker See" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7626567001" lat="46.560068" lon="13.9624"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9581" /><tag k="addr:street" v="Bergblickweg" /><tag k="addr:city" v="Finkenstein am Faaker See" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7627880001" lat="46.559663" lon="13.961998"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9581" /><tag k="addr:street" v="Bergblickweg" /><tag k="addr:city" v="Finkenstein am Faaker See" /><tag k="addr:housenumber" v="10" /></node>
+<node id="-7637886000" lat="46.560048" lon="13.961541"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9581" /><tag k="addr:street" v="Bergblickweg" /><tag k="addr:city" v="Finkenstein am Faaker See" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7649144000" lat="46.559776" lon="13.962475"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9581" /><tag k="addr:street" v="Bergblickweg" /><tag k="addr:city" v="Finkenstein am Faaker See" /><tag k="addr:housenumber" v="12" /></node>
+<bounds minlat="46.559663" minlon="13.961462" maxlat="46.560068" maxlon="13.962475" />
+</osm>

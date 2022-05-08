@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7576708000" lat="48.262773" lon="14.66921"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4322" /><tag k="addr:street" v="Lamplbach" /><tag k="addr:city" v="Windhaag bei Perg" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7576904000" lat="48.262796" lon="14.669509"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4322" /><tag k="addr:street" v="Lamplbach" /><tag k="addr:city" v="Windhaag bei Perg" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7576907000" lat="48.262766" lon="14.67007"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4322" /><tag k="addr:street" v="Lamplbach" /><tag k="addr:city" v="Windhaag bei Perg" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7576908001" lat="48.26288" lon="14.670215"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4322" /><tag k="addr:street" v="Lamplbach" /><tag k="addr:city" v="Windhaag bei Perg" /><tag k="addr:housenumber" v="7" /></node>
+<bounds minlat="48.2627" minlon="14.66921" maxlat="48.26298" maxlon="14.670554" />
+</osm>

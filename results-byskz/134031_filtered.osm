@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7622827001" lat="48.282085" lon="14.024295"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4070" /><tag k="addr:street" v="Hirseweg" /><tag k="addr:city" v="Fraham" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7622852001" lat="48.281635" lon="14.024182"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4070" /><tag k="addr:street" v="Hirseweg" /><tag k="addr:city" v="Fraham" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7651994000" lat="48.282056" lon="14.023952"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4070" /><tag k="addr:street" v="Hirseweg" /><tag k="addr:city" v="Fraham" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7651995000" lat="48.281916" lon="14.023962"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4070" /><tag k="addr:street" v="Hirseweg" /><tag k="addr:city" v="Fraham" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="48.281635" minlon="14.023952" maxlat="48.282085" maxlon="14.024295" />
+</osm>

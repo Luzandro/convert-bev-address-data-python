@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7215915001" lat="48.669505" lon="15.842653"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3730" /><tag k="addr:street" v="Retsinaweg" /><tag k="addr:city" v="R&#246;schitz" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7215917001" lat="48.669326" lon="15.842818"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3730" /><tag k="addr:street" v="Retsinaweg" /><tag k="addr:city" v="R&#246;schitz" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7332855001" lat="48.669214" lon="15.843084"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3730" /><tag k="addr:street" v="Retsinaweg" /><tag k="addr:city" v="R&#246;schitz" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7471980001" lat="48.668978" lon="15.843555"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3730" /><tag k="addr:street" v="Retsinaweg" /><tag k="addr:city" v="R&#246;schitz" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7510134000" lat="48.66901" lon="15.842885"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3730" /><tag k="addr:street" v="Retsinaweg" /><tag k="addr:city" v="R&#246;schitz" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="48.668978" minlon="15.842653" maxlat="48.669505" maxlon="15.843555" />
+</osm>

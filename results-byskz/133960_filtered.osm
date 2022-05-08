@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6718337001" lat="47.004136" lon="10.007749"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Wiesaweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="23a" /></node>
+<node id="-6718341001" lat="47.003919" lon="10.007097"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Wiesaweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="24a" /></node>
+<node id="-7574489001" lat="47.003868" lon="10.007552"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Wiesaweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="24b" /></node>
+<bounds minlat="47.003868" minlon="10.007097" maxlat="47.004136" maxlon="10.007749" />
+</osm>

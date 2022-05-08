@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6256010001" lat="48.055764" lon="16.136226"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2532" /><tag k="addr:street" v="Am Buchbach" /><tag k="addr:city" v="Heiligenkreuz" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-6256011001" lat="48.055676" lon="16.136183"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2532" /><tag k="addr:street" v="Am Buchbach" /><tag k="addr:city" v="Heiligenkreuz" /><tag k="addr:housenumber" v="5a" /></node>
+<node id="-6256012001" lat="48.055874" lon="16.136641"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2532" /><tag k="addr:street" v="Am Buchbach" /><tag k="addr:city" v="Heiligenkreuz" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-6256013001" lat="48.055625" lon="16.136526"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2532" /><tag k="addr:street" v="Am Buchbach" /><tag k="addr:city" v="Heiligenkreuz" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7502160000" lat="48.055353" lon="16.136484"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2532" /><tag k="addr:street" v="Am Buchbach" /><tag k="addr:city" v="Heiligenkreuz" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7629317000" lat="48.05539" lon="16.137408"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2532" /><tag k="addr:street" v="Am Buchbach" /><tag k="addr:city" v="Heiligenkreuz" /><tag k="addr:housenumber" v="9" /></node>
+<bounds minlat="48.055353" minlon="16.136183" maxlat="48.055874" maxlon="16.137408" />
+</osm>

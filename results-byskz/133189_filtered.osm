@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7606497001" lat="48.187701" lon="13.914496"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4632" /><tag k="addr:street" v="Kapellenweg" /><tag k="addr:city" v="Pichl bei Wels" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7630004001" lat="48.188276" lon="13.914431"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4632" /><tag k="addr:street" v="Kapellenweg" /><tag k="addr:city" v="Pichl bei Wels" /><tag k="addr:housenumber" v="13b" /></node>
+<bounds minlat="48.187701" minlon="13.914431" maxlat="48.188276" maxlon="13.914496" />
+</osm>

@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5183835001" lat="47.0586" lon="16.477083"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="7546" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Moschendorf" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-5183836001" lat="47.059081" lon="16.477474"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="7546" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Moschendorf" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-5183837001" lat="47.059434" lon="16.476622"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="7546" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Moschendorf" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-5183866001" lat="47.058524" lon="16.476282"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="7546" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Moschendorf" /><tag k="addr:housenumber" v="4" /><tag k="addr:unit" v="1" /></node>
+<node id="-7513038001" lat="47.058942" lon="16.475808"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="7546" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Moschendorf" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7652388000" lat="47.059225" lon="16.476689"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="7546" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Moschendorf" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="47.058524" minlon="16.475808" maxlat="47.059434" maxlon="16.477474" />
+</osm>

@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6718459001" lat="47.010333" lon="9.994551"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Islaweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="79" /></node>
+<node id="-6718460001" lat="47.010751" lon="9.993248"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Islaweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="80" /></node>
+<node id="-6718461001" lat="47.010733" lon="9.994733"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Islaweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="81" /></node>
+<node id="-7197015001" lat="47.011135" lon="9.992863"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Islaweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="80a" /></node>
+<bounds minlat="47.010333" minlon="9.992863" maxlat="47.011135" maxlon="9.994733" />
+</osm>

@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5928309000" lat="47.377166" lon="15.092095"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8700" /><tag k="addr:street" v="Marienplatz" /><tag k="addr:city" v="Leoben" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5928310000" lat="47.376927" lon="15.09138"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8700" /><tag k="addr:street" v="Marienplatz" /><tag k="addr:city" v="Leoben" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7599269000" lat="47.376928" lon="15.091523"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8700" /><tag k="addr:street" v="Marienplatz" /><tag k="addr:city" v="Leoben" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="47.376927" minlon="15.09138" maxlat="47.377166" maxlon="15.092095" />
+</osm>

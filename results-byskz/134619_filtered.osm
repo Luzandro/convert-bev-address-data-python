@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7641530000" lat="47.217356" lon="10.811524"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6426" /><tag k="addr:street" v="Harland" /><tag k="addr:city" v="Roppen" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7641531000" lat="47.217438" lon="10.811388"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6426" /><tag k="addr:street" v="Harland" /><tag k="addr:city" v="Roppen" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7643697000" lat="47.217447" lon="10.811234"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6426" /><tag k="addr:street" v="Harland" /><tag k="addr:city" v="Roppen" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="47.217356" minlon="10.811234" maxlat="47.217447" maxlon="10.811524" />
+</osm>

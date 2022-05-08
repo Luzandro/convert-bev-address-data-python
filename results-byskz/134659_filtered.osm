@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7643322000" lat="48.06177" lon="14.706983"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3361" /><tag k="addr:street" v="Sonntagbergblick" /><tag k="addr:city" v="Aschbach-Markt" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7643323000" lat="48.061801" lon="14.706751"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3361" /><tag k="addr:street" v="Sonntagbergblick" /><tag k="addr:city" v="Aschbach-Markt" /><tag k="addr:housenumber" v="2a" /></node>
+<node id="-7643397000" lat="48.061852" lon="14.706378"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3361" /><tag k="addr:street" v="Sonntagbergblick" /><tag k="addr:city" v="Aschbach-Markt" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7643399000" lat="48.061546" lon="14.706354"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3361" /><tag k="addr:street" v="Sonntagbergblick" /><tag k="addr:city" v="Aschbach-Markt" /><tag k="addr:housenumber" v="9" /></node>
+<node id="-7643859000" lat="48.061571" lon="14.706075"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3361" /><tag k="addr:street" v="Sonntagbergblick" /><tag k="addr:city" v="Aschbach-Markt" /><tag k="addr:housenumber" v="10" /></node>
+<node id="-7650880000" lat="48.061825" lon="14.706573"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3361" /><tag k="addr:street" v="Sonntagbergblick" /><tag k="addr:city" v="Aschbach-Markt" /><tag k="addr:housenumber" v="2b" /></node>
+<bounds minlat="48.061546" minlon="14.706075" maxlat="48.061852" maxlon="14.706983" />
+</osm>

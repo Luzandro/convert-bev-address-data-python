@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7043104001" lat="47.358026" lon="9.95951"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6882" /><tag k="addr:street" v="Riese" /><tag k="addr:city" v="Schnepfau" /><tag k="addr:housenumber" v="100" /></node>
+<node id="-7043105000" lat="47.355706" lon="9.958295"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6882" /><tag k="addr:street" v="Riese" /><tag k="addr:city" v="Schnepfau" /><tag k="addr:housenumber" v="101" /></node>
+<node id="-7043111001" lat="47.357122" lon="9.954423"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6882" /><tag k="addr:street" v="Riese" /><tag k="addr:city" v="Schnepfau" /><tag k="addr:housenumber" v="119" /></node>
+<node id="-7615131001" lat="47.35658" lon="9.955539"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6882" /><tag k="addr:street" v="Riese" /><tag k="addr:city" v="Schnepfau" /><tag k="addr:housenumber" v="176" /></node>
+<bounds minlat="47.355706" minlon="9.954423" maxlat="47.358026" maxlon="9.95951" />
+</osm>

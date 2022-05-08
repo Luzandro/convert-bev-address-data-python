@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7538552001" lat="48.318036" lon="15.218766"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3650" /><tag k="addr:street" v="Ziegelofen" /><tag k="addr:city" v="P&#246;ggstall" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7538553001" lat="48.317907" lon="15.219212"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3650" /><tag k="addr:street" v="Ziegelofen" /><tag k="addr:city" v="P&#246;ggstall" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7538554001" lat="48.317808" lon="15.218747"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3650" /><tag k="addr:street" v="Ziegelofen" /><tag k="addr:city" v="P&#246;ggstall" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7538555001" lat="48.317665" lon="15.218673"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3650" /><tag k="addr:street" v="Ziegelofen" /><tag k="addr:city" v="P&#246;ggstall" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7538556001" lat="48.31747" lon="15.218627"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3650" /><tag k="addr:street" v="Ziegelofen" /><tag k="addr:city" v="P&#246;ggstall" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="48.31747" minlon="15.218627" maxlat="48.318036" maxlon="15.219212" />
+</osm>

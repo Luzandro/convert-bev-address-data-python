@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6718343001" lat="47.008353" lon="10.00148"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="M&#252;hleweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="25a" /></node>
+<node id="-6718345001" lat="47.008221" lon="10.001311"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="M&#252;hleweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="25c" /></node>
+<node id="-6718387001" lat="47.007821" lon="10.000668"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="M&#252;hleweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="47" /></node>
+<node id="-6718388001" lat="47.00798" lon="10.001135"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="M&#252;hleweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="47a" /></node>
+<node id="-7416552001" lat="47.007866" lon="10.001048"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="M&#252;hleweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="47b" /></node>
+<bounds minlat="47.007821" minlon="10.000668" maxlat="47.008353" maxlon="10.00148" />
+</osm>

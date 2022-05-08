@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5486823001" lat="48.48774" lon="13.903532"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4132" /><tag k="addr:street" v="Wiesenweg" /><tag k="addr:city" v="Lembach im M&#252;hlkreis" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7580104001" lat="48.487851" lon="13.902672"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4132" /><tag k="addr:street" v="Wiesenweg" /><tag k="addr:city" v="Lembach im M&#252;hlkreis" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7591183001" lat="48.487834" lon="13.902153"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4132" /><tag k="addr:street" v="Wiesenweg" /><tag k="addr:city" v="Lembach im M&#252;hlkreis" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7591632001" lat="48.487678" lon="13.902552"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4132" /><tag k="addr:street" v="Wiesenweg" /><tag k="addr:city" v="Lembach im M&#252;hlkreis" /><tag k="addr:housenumber" v="9" /></node>
+<node id="-7616177001" lat="48.487993" lon="13.902532"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4132" /><tag k="addr:street" v="Wiesenweg" /><tag k="addr:city" v="Lembach im M&#252;hlkreis" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="48.487678" minlon="13.902153" maxlat="48.487993" maxlon="13.903532" />
+</osm>

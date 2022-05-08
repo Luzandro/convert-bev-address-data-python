@@ -1,0 +1,4 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7649960001" lat="48.182864" lon="13.051146"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5145" /><tag k="addr:street" v="Meisterweg" /><tag k="addr:city" v="Neukirchen an der Enknach" /><tag k="addr:housenumber" v="9" /></node>
+<bounds minlat="48.182864" minlon="13.051146" maxlat="48.182864" maxlon="13.051146" />
+</osm>

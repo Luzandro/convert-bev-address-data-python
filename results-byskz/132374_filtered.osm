@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7583042001" lat="47.383148" lon="15.114228"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8700" /><tag k="addr:street" v="Europaplatz" /><tag k="addr:city" v="Leoben" /><tag k="addr:housenumber" v="1a" /></node>
+<node id="-7583043001" lat="47.3831" lon="15.113927"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8700" /><tag k="addr:street" v="Europaplatz" /><tag k="addr:city" v="Leoben" /><tag k="addr:housenumber" v="1b" /></node>
+<node id="-7583044001" lat="47.38297" lon="15.113471"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8700" /><tag k="addr:street" v="Europaplatz" /><tag k="addr:city" v="Leoben" /><tag k="addr:housenumber" v="1c" /></node>
+<node id="-7583045001" lat="47.382872" lon="15.113439"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8700" /><tag k="addr:street" v="Europaplatz" /><tag k="addr:city" v="Leoben" /><tag k="addr:housenumber" v="1d" /></node>
+<bounds minlat="47.382872" minlon="15.113439" maxlat="47.383148" maxlon="15.114228" />
+</osm>

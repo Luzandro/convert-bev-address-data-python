@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7644350000" lat="48.012796" lon="14.331011"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4421" /><tag k="addr:street" v="Rathstra&#223;e" /><tag k="addr:city" v="Aschach an der Steyr" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7644351000" lat="48.012791" lon="14.330913"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4421" /><tag k="addr:street" v="Rathstra&#223;e" /><tag k="addr:city" v="Aschach an der Steyr" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7644352000" lat="48.012568" lon="14.33098"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4421" /><tag k="addr:street" v="Rathstra&#223;e" /><tag k="addr:city" v="Aschach an der Steyr" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7644353000" lat="48.012563" lon="14.330885"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4421" /><tag k="addr:street" v="Rathstra&#223;e" /><tag k="addr:city" v="Aschach an der Steyr" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="48.012563" minlon="14.330885" maxlat="48.012796" maxlon="14.331011" />
+</osm>

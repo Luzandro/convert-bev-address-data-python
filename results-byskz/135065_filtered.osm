@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7652399001" lat="48.243078" lon="15.340556"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3644" /><tag k="addr:street" v="Donaul&#228;nde" /><tag k="addr:city" v="Emmersdorf an der Donau" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7652400001" lat="48.243478" lon="15.341034"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3644" /><tag k="addr:street" v="Donaul&#228;nde" /><tag k="addr:city" v="Emmersdorf an der Donau" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7652404001" lat="48.243639" lon="15.341098"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3644" /><tag k="addr:street" v="Donaul&#228;nde" /><tag k="addr:city" v="Emmersdorf an der Donau" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="48.243078" minlon="15.340556" maxlat="48.243639" maxlon="15.341098" />
+</osm>

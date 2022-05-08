@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6718389001" lat="47.008308" lon="10.000682"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Joderweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="48" /></node>
+<node id="-6718390001" lat="47.008535" lon="10.000305"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Joderweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="49" /></node>
+<node id="-6718391001" lat="47.008497" lon="9.999715"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Joderweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="50" /></node>
+<node id="-6718392001" lat="47.008824" lon="9.999956"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Joderweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="51" /></node>
+<node id="-7124587001" lat="47.008509" lon="10.000035"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Joderweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="50a" /></node>
+<bounds minlat="47.008308" minlon="9.999715" maxlat="47.008824" maxlon="10.000682" />
+</osm>

@@ -1,0 +1,10 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6718224001" lat="46.969773" lon="9.915517"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6787" /><tag k="addr:street" v="Alptobelweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="44" /></node>
+<node id="-6718225001" lat="46.970126" lon="9.915561"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6787" /><tag k="addr:street" v="Alptobelweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="44a" /></node>
+<node id="-6718227001" lat="46.969068" lon="9.914701"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6787" /><tag k="addr:street" v="Alptobelweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="46" /></node>
+<node id="-6718228001" lat="46.969509" lon="9.915592"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6787" /><tag k="addr:street" v="Alptobelweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="46a" /></node>
+<node id="-6718229001" lat="46.969365" lon="9.915257"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6787" /><tag k="addr:street" v="Alptobelweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="46b" /></node>
+<node id="-6718230001" lat="46.969546" lon="9.914431"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6787" /><tag k="addr:street" v="Alptobelweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="70" /></node>
+<node id="-7183407001" lat="46.969485" lon="9.915007"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6787" /><tag k="addr:street" v="Alptobelweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="70a" /></node>
+<bounds minlat="46.969068" minlon="9.914431" maxlat="46.970126" maxlon="9.915592" />
+</osm>

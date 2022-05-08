@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7615386000" lat="47.344521" lon="9.951608"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6882" /><tag k="addr:street" v="B&#252;hlen" /><tag k="addr:city" v="Schnepfau" /><tag k="addr:housenumber" v="112" /></node>
+<node id="-7615387000" lat="47.344445" lon="9.951412"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6882" /><tag k="addr:street" v="B&#252;hlen" /><tag k="addr:city" v="Schnepfau" /><tag k="addr:housenumber" v="113" /></node>
+<node id="-7615388000" lat="47.34474" lon="9.951642"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6882" /><tag k="addr:street" v="B&#252;hlen" /><tag k="addr:city" v="Schnepfau" /><tag k="addr:housenumber" v="114" /></node>
+<node id="-7615389000" lat="47.344771" lon="9.951459"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6882" /><tag k="addr:street" v="B&#252;hlen" /><tag k="addr:city" v="Schnepfau" /><tag k="addr:housenumber" v="115" /></node>
+<node id="-7615392000" lat="47.344866" lon="9.951293"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6882" /><tag k="addr:street" v="B&#252;hlen" /><tag k="addr:city" v="Schnepfau" /><tag k="addr:housenumber" v="116" /></node>
+<bounds minlat="47.344445" minlon="9.951293" maxlat="47.344866" maxlon="9.951642" />
+</osm>

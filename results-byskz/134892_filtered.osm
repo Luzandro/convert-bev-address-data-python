@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7647871000" lat="48.194976" lon="15.502798"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3385" /><tag k="addr:street" v="Dahliengasse" /><tag k="addr:city" v="Markersdorf-Haindorf" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7647879000" lat="48.194919" lon="15.502782"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3385" /><tag k="addr:street" v="Dahliengasse" /><tag k="addr:city" v="Markersdorf-Haindorf" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7647881000" lat="48.194856" lon="15.502819"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3385" /><tag k="addr:street" v="Dahliengasse" /><tag k="addr:city" v="Markersdorf-Haindorf" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7647884000" lat="48.194826" lon="15.502946"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3385" /><tag k="addr:street" v="Dahliengasse" /><tag k="addr:city" v="Markersdorf-Haindorf" /><tag k="addr:housenumber" v="8" /></node>
+<bounds minlat="48.194826" minlon="15.502782" maxlat="48.194976" maxlon="15.502946" />
+</osm>

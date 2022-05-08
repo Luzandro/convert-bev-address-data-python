@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6986860001" lat="46.853891" lon="14.161751"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9345" /><tag k="addr:street" v="Sonnenweg" /><tag k="addr:city" v="Gl&#246;dnitz" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-6986868001" lat="46.854011" lon="14.161399"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9345" /><tag k="addr:street" v="Sonnenweg" /><tag k="addr:city" v="Gl&#246;dnitz" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7205102001" lat="46.853806" lon="14.162089"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9345" /><tag k="addr:street" v="Sonnenweg" /><tag k="addr:city" v="Gl&#246;dnitz" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7504871001" lat="46.853461" lon="14.161588"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9345" /><tag k="addr:street" v="Sonnenweg" /><tag k="addr:city" v="Gl&#246;dnitz" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7582254000" lat="46.854039" lon="14.160757"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9345" /><tag k="addr:street" v="Sonnenweg" /><tag k="addr:city" v="Gl&#246;dnitz" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7641376000" lat="46.854271" lon="14.160273"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9345" /><tag k="addr:street" v="Sonnenweg" /><tag k="addr:city" v="Gl&#246;dnitz" /><tag k="addr:housenumber" v="7" /></node>
+<bounds minlat="46.853461" minlon="14.160273" maxlat="46.854271" maxlon="14.162089" />
+</osm>

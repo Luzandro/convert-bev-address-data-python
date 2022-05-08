@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7523525001" lat="47.801353" lon="13.762766"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4802" /><tag k="addr:street" v="Traunwiese" /><tag k="addr:city" v="Ebensee am Traunsee" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7523529001" lat="47.801457" lon="13.763017"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4802" /><tag k="addr:street" v="Traunwiese" /><tag k="addr:city" v="Ebensee am Traunsee" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7528756001" lat="47.80117" lon="13.762641"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4802" /><tag k="addr:street" v="Traunwiese" /><tag k="addr:city" v="Ebensee am Traunsee" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7528757001" lat="47.801037" lon="13.762774"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4802" /><tag k="addr:street" v="Traunwiese" /><tag k="addr:city" v="Ebensee am Traunsee" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7627913001" lat="47.801038" lon="13.763415"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4802" /><tag k="addr:street" v="Traunwiese" /><tag k="addr:city" v="Ebensee am Traunsee" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="47.801037" minlon="13.762641" maxlat="47.801457" maxlon="13.763415" />
+</osm>

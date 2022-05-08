@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7563223001" lat="47.896482" lon="13.195833"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5302" /><tag k="addr:street" v="Eulenweg" /><tag k="addr:city" v="Henndorf am Wallersee" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7563225001" lat="47.896388" lon="13.196147"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5302" /><tag k="addr:street" v="Eulenweg" /><tag k="addr:city" v="Henndorf am Wallersee" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7563226001" lat="47.896205" lon="13.195888"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5302" /><tag k="addr:street" v="Eulenweg" /><tag k="addr:city" v="Henndorf am Wallersee" /><tag k="addr:housenumber" v="7" /></node>
+<bounds minlat="47.896205" minlon="13.195833" maxlat="47.896482" maxlon="13.196147" />
+</osm>

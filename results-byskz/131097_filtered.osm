@@ -1,0 +1,4 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7564391000" lat="48.327625" lon="15.810798"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3454" /><tag k="addr:street" v="Lilienweg" /><tag k="addr:city" v="Sitzenberg-Reidling" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="48.327625" minlon="15.810798" maxlat="48.327902" maxlon="15.811993" />
+</osm>

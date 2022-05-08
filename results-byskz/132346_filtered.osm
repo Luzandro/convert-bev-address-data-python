@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7582130000" lat="48.316595" lon="16.059697"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3430" /><tag k="addr:street" v="Hans-Sinabell-Gasse" /><tag k="addr:city" v="Tulln an der Donau" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7582131000" lat="48.316578" lon="16.059964"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3430" /><tag k="addr:street" v="Hans-Sinabell-Gasse" /><tag k="addr:city" v="Tulln an der Donau" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7582134000" lat="48.316691" lon="16.059319"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3430" /><tag k="addr:street" v="Hans-Sinabell-Gasse" /><tag k="addr:city" v="Tulln an der Donau" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7582136000" lat="48.31661" lon="16.060598"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3430" /><tag k="addr:street" v="Hans-Sinabell-Gasse" /><tag k="addr:city" v="Tulln an der Donau" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7582137000" lat="48.31665" lon="16.059968"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3430" /><tag k="addr:street" v="Hans-Sinabell-Gasse" /><tag k="addr:city" v="Tulln an der Donau" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="48.31647" minlon="16.059319" maxlat="48.316691" maxlon="16.060598" />
+</osm>

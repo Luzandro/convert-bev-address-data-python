@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7610324001" lat="47.648154" lon="15.630591"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8691" /><tag k="addr:street" v="Feldgasse" /><tag k="addr:city" v="Neuberg an der M&#252;rz" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7610325001" lat="47.648183" lon="15.630331"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8691" /><tag k="addr:street" v="Feldgasse" /><tag k="addr:city" v="Neuberg an der M&#252;rz" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7610327001" lat="47.648141" lon="15.63015"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8691" /><tag k="addr:street" v="Feldgasse" /><tag k="addr:city" v="Neuberg an der M&#252;rz" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7610330001" lat="47.648089" lon="15.629947"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8691" /><tag k="addr:street" v="Feldgasse" /><tag k="addr:city" v="Neuberg an der M&#252;rz" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="47.648089" minlon="15.629947" maxlat="47.648183" maxlon="15.630591" />
+</osm>

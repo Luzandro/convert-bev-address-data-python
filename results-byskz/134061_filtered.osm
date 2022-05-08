@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7624476000" lat="47.932393" lon="13.755972"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4812" /><tag k="addr:street" v="L&#228;rchenweg" /><tag k="addr:city" v="Pinsdorf" /><tag k="addr:housenumber" v="4a" /></node>
+<node id="-7624478000" lat="47.93239" lon="13.755904"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4812" /><tag k="addr:street" v="L&#228;rchenweg" /><tag k="addr:city" v="Pinsdorf" /><tag k="addr:housenumber" v="4b" /></node>
+<node id="-7624777001" lat="47.932348" lon="13.756208"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4812" /><tag k="addr:street" v="L&#228;rchenweg" /><tag k="addr:city" v="Pinsdorf" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7631420000" lat="47.9322" lon="13.755086"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4812" /><tag k="addr:street" v="L&#228;rchenweg" /><tag k="addr:city" v="Pinsdorf" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7631421000" lat="47.932309" lon="13.755382"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4812" /><tag k="addr:street" v="L&#228;rchenweg" /><tag k="addr:city" v="Pinsdorf" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7641635000" lat="47.932373" lon="13.755657"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4812" /><tag k="addr:street" v="L&#228;rchenweg" /><tag k="addr:city" v="Pinsdorf" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="47.9322" minlon="13.755086" maxlat="47.932393" maxlon="13.756208" />
+</osm>

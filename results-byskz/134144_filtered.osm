@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7627498000" lat="48.329676" lon="16.121952"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3425" /><tag k="addr:street" v="Friedrich-Schindlecker-Stra&#223;e" /><tag k="addr:city" v="Tulln an der Donau" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7627501000" lat="48.329802" lon="16.122634"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3425" /><tag k="addr:street" v="Friedrich-Schindlecker-Stra&#223;e" /><tag k="addr:city" v="Tulln an der Donau" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7627517000" lat="48.329627" lon="16.122292"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3425" /><tag k="addr:street" v="Friedrich-Schindlecker-Stra&#223;e" /><tag k="addr:city" v="Tulln an der Donau" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="48.329627" minlon="16.121952" maxlat="48.329802" maxlon="16.122634" />
+</osm>

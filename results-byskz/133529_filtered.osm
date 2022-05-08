@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7612564001" lat="48.106702" lon="14.112885"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4621" /><tag k="addr:street" v="Schnarrndorferstra&#223;e" /><tag k="addr:city" v="Sipbachzell" /><tag k="addr:housenumber" v="10" /></node>
+<node id="-7612565001" lat="48.106773" lon="14.112605"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4621" /><tag k="addr:street" v="Schnarrndorferstra&#223;e" /><tag k="addr:city" v="Sipbachzell" /><tag k="addr:housenumber" v="8" /></node>
+<bounds minlat="48.106702" minlon="14.112605" maxlat="48.106773" maxlon="14.112885" />
+</osm>

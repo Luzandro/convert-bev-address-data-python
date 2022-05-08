@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7602673001" lat="48.187386" lon="13.70632"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4675" /><tag k="addr:street" v="Pintergasse" /><tag k="addr:city" v="Weibern" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7602683001" lat="48.187624" lon="13.706537"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4675" /><tag k="addr:street" v="Pintergasse" /><tag k="addr:city" v="Weibern" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7604530001" lat="48.187248" lon="13.707311"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4675" /><tag k="addr:street" v="Pintergasse" /><tag k="addr:city" v="Weibern" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7604556001" lat="48.187442" lon="13.706973"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4675" /><tag k="addr:street" v="Pintergasse" /><tag k="addr:city" v="Weibern" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7604589001" lat="48.187188" lon="13.706667"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4675" /><tag k="addr:street" v="Pintergasse" /><tag k="addr:city" v="Weibern" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7610196001" lat="48.187089" lon="13.707051"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4675" /><tag k="addr:street" v="Pintergasse" /><tag k="addr:city" v="Weibern" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="48.187089" minlon="13.70632" maxlat="48.187624" maxlon="13.707311" />
+</osm>

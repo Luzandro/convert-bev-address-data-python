@@ -1,0 +1,4 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7645031000" lat="47.076384" lon="15.125316"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8572" /><tag k="addr:street" v="Mohnfeldgasse" /><tag k="addr:city" v="B&#228;rnbach" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="47.076384" minlon="15.125316" maxlat="47.076384" maxlon="15.125316" />
+</osm>

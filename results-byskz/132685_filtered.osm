@@ -1,0 +1,10 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7590141001" lat="46.71193" lon="15.772524"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8480" /><tag k="addr:street" v="Dieter Dorner-Weg" /><tag k="addr:city" v="Mureck" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7593480001" lat="46.712658" lon="15.772765"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8480" /><tag k="addr:street" v="Dieter Dorner-Weg" /><tag k="addr:city" v="Mureck" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7593554001" lat="46.712471" lon="15.772733"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8480" /><tag k="addr:street" v="Dieter Dorner-Weg" /><tag k="addr:city" v="Mureck" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7606140001" lat="46.712204" lon="15.772486"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8480" /><tag k="addr:street" v="Dieter Dorner-Weg" /><tag k="addr:city" v="Mureck" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7613189001" lat="46.712326" lon="15.772819"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8480" /><tag k="addr:street" v="Dieter Dorner-Weg" /><tag k="addr:city" v="Mureck" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7613190001" lat="46.712149" lon="15.772835"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8480" /><tag k="addr:street" v="Dieter Dorner-Weg" /><tag k="addr:city" v="Mureck" /><tag k="addr:housenumber" v="10" /></node>
+<node id="-7637262000" lat="46.712836" lon="15.772587"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8480" /><tag k="addr:street" v="Dieter Dorner-Weg" /><tag k="addr:city" v="Mureck" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="46.71193" minlon="15.772486" maxlat="46.712836" maxlon="15.772835" />
+</osm>

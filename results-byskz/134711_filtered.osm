@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7644798000" lat="48.284585" lon="16.051138"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3441" /><tag k="addr:street" v="Beethovengasse" /><tag k="addr:city" v="Judenau-Baumgarten" /><tag k="addr:housenumber" v="11" /></node>
+<node id="-7644799000" lat="48.284528" lon="16.050971"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3441" /><tag k="addr:street" v="Beethovengasse" /><tag k="addr:city" v="Judenau-Baumgarten" /><tag k="addr:housenumber" v="13" /></node>
+<node id="-7651809000" lat="48.284648" lon="16.050894"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3441" /><tag k="addr:street" v="Beethovengasse" /><tag k="addr:city" v="Judenau-Baumgarten" /><tag k="addr:housenumber" v="14" /></node>
+<bounds minlat="48.284528" minlon="16.050894" maxlat="48.284648" maxlon="16.051138" />
+</osm>

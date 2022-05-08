@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5667111001" lat="48.007368" lon="13.297781"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5204" /><tag k="addr:place" v="Haselreith" /><tag k="addr:city" v="Stra&#223;walchen" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-5667112001" lat="48.006888" lon="13.298306"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5204" /><tag k="addr:place" v="Haselreith" /><tag k="addr:city" v="Stra&#223;walchen" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-5667113001" lat="48.00719" lon="13.298345"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5204" /><tag k="addr:place" v="Haselreith" /><tag k="addr:city" v="Stra&#223;walchen" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-5667114001" lat="48.006811" lon="13.297715"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5204" /><tag k="addr:place" v="Haselreith" /><tag k="addr:city" v="Stra&#223;walchen" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5667115000" lat="48.006615" lon="13.297594"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5204" /><tag k="addr:place" v="Haselreith" /><tag k="addr:city" v="Stra&#223;walchen" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5667118001" lat="48.007326" lon="13.297064"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5204" /><tag k="addr:place" v="Haselreith" /><tag k="addr:city" v="Stra&#223;walchen" /><tag k="addr:housenumber" v="7" /></node>
+<bounds minlat="48.006615" minlon="13.297064" maxlat="48.007368" maxlon="13.298345" />
+</osm>

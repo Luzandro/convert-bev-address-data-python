@@ -1,0 +1,4 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7639115000" lat="48.198343" lon="13.211767"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5272" /><tag k="addr:street" v="Schachaberg" /><tag k="addr:city" v="Treubach" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="48.198343" minlon="13.211767" maxlat="48.198343" maxlon="13.211767" />
+</osm>

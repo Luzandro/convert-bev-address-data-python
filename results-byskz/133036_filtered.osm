@@ -1,0 +1,10 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7604491001" lat="48.116782" lon="14.803122"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3311" /><tag k="addr:street" v="Ahornstra&#223;e" /><tag k="addr:city" v="Zeillern" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7604502000" lat="48.116987" lon="14.80307"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3311" /><tag k="addr:street" v="Ahornstra&#223;e" /><tag k="addr:city" v="Zeillern" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7608890000" lat="48.11702" lon="14.801989"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3311" /><tag k="addr:street" v="Ahornstra&#223;e" /><tag k="addr:city" v="Zeillern" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7609614001" lat="48.117047" lon="14.803423"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3311" /><tag k="addr:street" v="Ahornstra&#223;e" /><tag k="addr:city" v="Zeillern" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7610702001" lat="48.116828" lon="14.803433"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3311" /><tag k="addr:street" v="Ahornstra&#223;e" /><tag k="addr:city" v="Zeillern" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7615611001" lat="48.11718" lon="14.802792"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3311" /><tag k="addr:street" v="Ahornstra&#223;e" /><tag k="addr:city" v="Zeillern" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7626065000" lat="48.116936" lon="14.801972"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3311" /><tag k="addr:street" v="Ahornstra&#223;e" /><tag k="addr:city" v="Zeillern" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="48.116782" minlon="14.801972" maxlat="48.11718" maxlon="14.803433" />
+</osm>

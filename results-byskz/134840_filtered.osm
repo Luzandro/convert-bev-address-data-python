@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7645761000" lat="47.449776" lon="10.729718"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6611" /><tag k="addr:street" v="Karlift" /><tag k="addr:city" v="Heiterwang" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7645763000" lat="47.449754" lon="10.729718"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6611" /><tag k="addr:street" v="Karlift" /><tag k="addr:city" v="Heiterwang" /><tag k="addr:housenumber" v="1a" /></node>
+<bounds minlat="47.449754" minlon="10.729718" maxlat="47.449776" maxlon="10.729718" />
+</osm>

@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5507707001" lat="48.361449" lon="13.68329"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4762" /><tag k="addr:place" v="Dick" /><tag k="addr:city" v="St. Willibald" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7578651001" lat="48.37508" lon="13.682426"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4762" /><tag k="addr:place" v="Dick" /><tag k="addr:city" v="St. Willibald" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="48.361449" minlon="13.679395" maxlat="48.37613" maxlon="13.68329" />
+</osm>

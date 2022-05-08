@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7641281000" lat="47.340501" lon="16.078517"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="7410" /><tag k="addr:street" v="Panoramaweg" /><tag k="addr:city" v="Loipersdorf-Kitzladen" /><tag k="addr:housenumber" v="17" /></node>
+<node id="-7641375000" lat="47.340024" lon="16.080119"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="7410" /><tag k="addr:street" v="Panoramaweg" /><tag k="addr:city" v="Loipersdorf-Kitzladen" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7642090000" lat="47.339566" lon="16.080157"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="7410" /><tag k="addr:street" v="Panoramaweg" /><tag k="addr:city" v="Loipersdorf-Kitzladen" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7648884000" lat="47.340199" lon="16.079815"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="7410" /><tag k="addr:street" v="Panoramaweg" /><tag k="addr:city" v="Loipersdorf-Kitzladen" /><tag k="addr:housenumber" v="18" /></node>
+<bounds minlat="47.339566" minlon="16.078517" maxlat="47.340501" maxlon="16.080157" />
+</osm>

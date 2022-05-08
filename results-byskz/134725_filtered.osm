@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5985557001" lat="46.711891" lon="15.656894"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8472" /><tag k="addr:street" v="Hofgartenweg" /><tag k="addr:city" v="Stra&#223; in Steiermark" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5985558001" lat="46.711972" lon="15.656251"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8472" /><tag k="addr:street" v="Hofgartenweg" /><tag k="addr:city" v="Stra&#223; in Steiermark" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5985562001" lat="46.711164" lon="15.65703"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8472" /><tag k="addr:street" v="Hofgartenweg" /><tag k="addr:city" v="Stra&#223; in Steiermark" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-5985563000" lat="46.70769" lon="15.656905"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8472" /><tag k="addr:street" v="Hofgartenweg" /><tag k="addr:city" v="Stra&#223; in Steiermark" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7302933001" lat="46.71131" lon="15.656639"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8472" /><tag k="addr:street" v="Hofgartenweg" /><tag k="addr:city" v="Stra&#223; in Steiermark" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7369851001" lat="46.711029" lon="15.657349"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8472" /><tag k="addr:street" v="Hofgartenweg" /><tag k="addr:city" v="Stra&#223; in Steiermark" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="46.70769" minlon="15.656251" maxlat="46.711972" maxlon="15.657349" />
+</osm>

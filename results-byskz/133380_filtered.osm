@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7609173001" lat="46.524008" lon="14.161881"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9181" /><tag k="addr:street" v="Zurkbachweg" /><tag k="addr:city" v="Feistritz im Rosental" /><tag k="addr:housenumber" v="322" /></node>
+<node id="-7616272001" lat="46.524281" lon="14.161972"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9181" /><tag k="addr:street" v="Zurkbachweg" /><tag k="addr:city" v="Feistritz im Rosental" /><tag k="addr:housenumber" v="323" /></node>
+<node id="-7620437001" lat="46.524296" lon="14.162514"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9181" /><tag k="addr:street" v="Zurkbachweg" /><tag k="addr:city" v="Feistritz im Rosental" /><tag k="addr:housenumber" v="325" /></node>
+<bounds minlat="46.524008" minlon="14.161881" maxlat="46.524296" maxlon="14.162514" />
+</osm>

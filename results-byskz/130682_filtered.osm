@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7552734000" lat="48.063031" lon="14.389739"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4493" /><tag k="addr:street" v="Holzweg" /><tag k="addr:city" v="Wolfern" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7552735000" lat="48.06276" lon="14.389336"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4493" /><tag k="addr:street" v="Holzweg" /><tag k="addr:city" v="Wolfern" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="48.06276" minlon="14.389336" maxlat="48.063031" maxlon="14.389739" />
+</osm>

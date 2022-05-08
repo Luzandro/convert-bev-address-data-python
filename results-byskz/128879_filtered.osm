@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7518450001" lat="48.149168" lon="15.54022"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3200" /><tag k="addr:street" v="Rudolf-Krippl-Platz" /><tag k="addr:city" v="Ober-Grafendorf" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7518453001" lat="48.14928" lon="15.540229"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3200" /><tag k="addr:street" v="Rudolf-Krippl-Platz" /><tag k="addr:city" v="Ober-Grafendorf" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="48.149168" minlon="15.54022" maxlat="48.14928" maxlon="15.540229" />
+</osm>

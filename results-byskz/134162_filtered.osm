@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7627973000" lat="48.158259" lon="15.682287"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3143" /><tag k="addr:street" v="Am See" /><tag k="addr:city" v="Pyhra" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7627977000" lat="48.157628" lon="15.682365"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3143" /><tag k="addr:street" v="Am See" /><tag k="addr:city" v="Pyhra" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7627978000" lat="48.157561" lon="15.682403"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3143" /><tag k="addr:street" v="Am See" /><tag k="addr:city" v="Pyhra" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7627979000" lat="48.157555" lon="15.682123"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3143" /><tag k="addr:street" v="Am See" /><tag k="addr:city" v="Pyhra" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7627981000" lat="48.157512" lon="15.682144"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3143" /><tag k="addr:street" v="Am See" /><tag k="addr:city" v="Pyhra" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="48.157512" minlon="15.682123" maxlat="48.158259" maxlon="15.682403" />
+</osm>

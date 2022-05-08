@@ -1,0 +1,4 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7584616000" lat="48.268363" lon="14.56672"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4311" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Schwertberg" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="48.267948" minlon="14.56672" maxlat="48.268363" maxlon="14.567147" />
+</osm>

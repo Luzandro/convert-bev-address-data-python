@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6172631001" lat="46.831627" lon="14.796699"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Lausingerstra&#223;e" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="16" /></node>
+<node id="-6172634001" lat="46.827731" lon="14.796083"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Lausingerstra&#223;e" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="11" /></node>
+<node id="-6172636000" lat="46.829128" lon="14.800415"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Lausingerstra&#223;e" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="9" /></node>
+<node id="-6172650001" lat="46.833813" lon="14.798135"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Lausingerstra&#223;e" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7445154001" lat="46.829252" lon="14.800239"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Lausingerstra&#223;e" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="9a" /></node>
+<bounds minlat="46.827731" minlon="14.796083" maxlat="46.833813" maxlon="14.800415" />
+</osm>

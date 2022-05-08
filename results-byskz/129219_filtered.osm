@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6151754001" lat="46.726852" lon="14.755539"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9112" /><tag k="addr:street" v="Langeggweg" /><tag k="addr:city" v="Griffen" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-6151756001" lat="46.725042" lon="14.754235"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9112" /><tag k="addr:street" v="Langeggweg" /><tag k="addr:city" v="Griffen" /><tag k="addr:housenumber" v="8" /></node>
+<bounds minlat="46.723916" minlon="14.75301" maxlat="46.726852" maxlon="14.755539" />
+</osm>

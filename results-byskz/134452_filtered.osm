@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7636595000" lat="48.033183" lon="16.7696"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2460" /><tag k="addr:street" v="Ernst Bayer-Gasse" /><tag k="addr:city" v="Bruck an der Leitha" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7638711000" lat="48.033211" lon="16.769429"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2460" /><tag k="addr:street" v="Ernst Bayer-Gasse" /><tag k="addr:city" v="Bruck an der Leitha" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7638714000" lat="48.033379" lon="16.769718"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2460" /><tag k="addr:street" v="Ernst Bayer-Gasse" /><tag k="addr:city" v="Bruck an der Leitha" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="48.033183" minlon="16.769429" maxlat="48.033379" maxlon="16.769718" />
+</osm>

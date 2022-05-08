@@ -1,0 +1,4 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7588347001" lat="48.00478" lon="14.857163"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3340" /><tag k="addr:street" v="Mostviertler H&#246;henstra&#223;e" /><tag k="addr:city" v="Waidhofen an der Ybbs" /><tag k="addr:housenumber" v="22" /></node>
+<bounds minlat="47.995558" minlon="14.843483" maxlat="48.010549" maxlon="14.872652" />
+</osm>

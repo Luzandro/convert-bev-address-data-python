@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6172566001" lat="46.850355" lon="14.784069"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Koppweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-6172567001" lat="46.847368" lon="14.789089"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Koppweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="10" /></node>
+<node id="-6172613001" lat="46.847826" lon="14.788433"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Koppweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="16" /></node>
+<node id="-6172614001" lat="46.847498" lon="14.788752"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9411" /><tag k="addr:street" v="Koppweg" /><tag k="addr:city" v="Wolfsberg" /><tag k="addr:housenumber" v="12" /></node>
+<bounds minlat="46.847368" minlon="14.784069" maxlat="46.850355" maxlon="14.789089" />
+</osm>

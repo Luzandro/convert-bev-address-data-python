@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7645962000" lat="47.973993" lon="16.318114"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2522" /><tag k="addr:street" v="Brunnenweg" /><tag k="addr:city" v="Oberwaltersdorf" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7645963000" lat="47.974295" lon="16.318415"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2522" /><tag k="addr:street" v="Brunnenweg" /><tag k="addr:city" v="Oberwaltersdorf" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7645965000" lat="47.974554" lon="16.31864"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2522" /><tag k="addr:street" v="Brunnenweg" /><tag k="addr:city" v="Oberwaltersdorf" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7645966000" lat="47.974848" lon="16.318785"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2522" /><tag k="addr:street" v="Brunnenweg" /><tag k="addr:city" v="Oberwaltersdorf" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7645967000" lat="47.973958" lon="16.319252"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2522" /><tag k="addr:street" v="Brunnenweg" /><tag k="addr:city" v="Oberwaltersdorf" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7645968000" lat="47.974769" lon="16.319627"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2522" /><tag k="addr:street" v="Brunnenweg" /><tag k="addr:city" v="Oberwaltersdorf" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="47.973958" minlon="16.318114" maxlat="47.974848" maxlon="16.319627" />
+</osm>

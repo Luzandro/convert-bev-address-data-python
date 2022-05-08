@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7597229000" lat="48.091191" lon="13.925063"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4652" /><tag k="addr:street" v="Fl&#246;&#223;erstra&#223;e" /><tag k="addr:city" v="Fischlham" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7597230001" lat="48.090864" lon="13.924862"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4652" /><tag k="addr:street" v="Fl&#246;&#223;erstra&#223;e" /><tag k="addr:city" v="Fischlham" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7597231000" lat="48.090533" lon="13.924376"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4652" /><tag k="addr:street" v="Fl&#246;&#223;erstra&#223;e" /><tag k="addr:city" v="Fischlham" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="48.090533" minlon="13.924376" maxlat="48.091191" maxlon="13.925063" />
+</osm>

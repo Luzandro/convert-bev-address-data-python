@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6421775001" lat="48.460634" lon="15.531308"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3541" /><tag k="addr:street" v="Reicheck" /><tag k="addr:city" v="Senftenberg" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-6421781001" lat="48.457056" lon="15.533322"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3541" /><tag k="addr:street" v="Reicheck" /><tag k="addr:city" v="Senftenberg" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-6421783002" lat="48.458434" lon="15.534143"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3541" /><tag k="addr:street" v="Reicheck" /><tag k="addr:city" v="Senftenberg" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-6421785001" lat="48.460683" lon="15.532495"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3541" /><tag k="addr:street" v="Reicheck" /><tag k="addr:city" v="Senftenberg" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-6421795001" lat="48.457544" lon="15.532716"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3541" /><tag k="addr:street" v="Reicheck" /><tag k="addr:city" v="Senftenberg" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7528786001" lat="48.457196" lon="15.533996"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3541" /><tag k="addr:street" v="Reicheck" /><tag k="addr:city" v="Senftenberg" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="48.457056" minlon="15.531308" maxlat="48.460683" maxlon="15.534143" />
+</osm>

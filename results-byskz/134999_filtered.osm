@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5183830001" lat="47.057735" lon="16.476455"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="7546" /><tag k="addr:street" v="Gemeindeweg" /><tag k="addr:city" v="Moschendorf" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-5183831001" lat="47.057848" lon="16.476644"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="7546" /><tag k="addr:street" v="Gemeindeweg" /><tag k="addr:city" v="Moschendorf" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-5183832001" lat="47.057758" lon="16.477324"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="7546" /><tag k="addr:street" v="Gemeindeweg" /><tag k="addr:city" v="Moschendorf" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5183833001" lat="47.058138" lon="16.477096"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="7546" /><tag k="addr:street" v="Gemeindeweg" /><tag k="addr:city" v="Moschendorf" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5183834001" lat="47.058296" lon="16.476712"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="7546" /><tag k="addr:street" v="Gemeindeweg" /><tag k="addr:city" v="Moschendorf" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="47.057735" minlon="16.476455" maxlat="47.058296" maxlon="16.477324" />
+</osm>

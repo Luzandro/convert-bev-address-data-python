@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6718457001" lat="47.009991" lon="9.99656"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Zacherweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="78" /></node>
+<node id="-6718458001" lat="47.010132" lon="9.997266"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Zacherweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="78a" /></node>
+<bounds minlat="47.009991" minlon="9.99656" maxlat="47.010132" maxlon="9.997266" />
+</osm>

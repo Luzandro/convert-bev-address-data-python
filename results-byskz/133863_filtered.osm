@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5853568001" lat="47.216781" lon="15.257223"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8124" /><tag k="addr:street" v="Am Gewerbegrund" /><tag k="addr:city" v="&#220;belbach" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5853585001" lat="47.218794" lon="15.255588"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8124" /><tag k="addr:street" v="Am Gewerbegrund" /><tag k="addr:city" v="&#220;belbach" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7594296001" lat="47.218487" lon="15.262886"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8124" /><tag k="addr:street" v="Am Gewerbegrund" /><tag k="addr:city" v="&#220;belbach" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="47.216781" minlon="15.255588" maxlat="47.218794" maxlon="15.262886" />
+</osm>

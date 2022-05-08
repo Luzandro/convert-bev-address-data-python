@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7598606000" lat="47.987819" lon="13.556535"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4851" /><tag k="addr:street" v="Muldenstra&#223;e" /><tag k="addr:city" v="Gampern" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7598607000" lat="47.987566" lon="13.556469"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4851" /><tag k="addr:street" v="Muldenstra&#223;e" /><tag k="addr:city" v="Gampern" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7598608000" lat="47.987568" lon="13.555983"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4851" /><tag k="addr:street" v="Muldenstra&#223;e" /><tag k="addr:city" v="Gampern" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7598609000" lat="47.987269" lon="13.555967"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4851" /><tag k="addr:street" v="Muldenstra&#223;e" /><tag k="addr:city" v="Gampern" /><tag k="addr:housenumber" v="7" /></node>
+<bounds minlat="47.987269" minlon="13.555967" maxlat="47.987819" maxlon="13.556535" />
+</osm>

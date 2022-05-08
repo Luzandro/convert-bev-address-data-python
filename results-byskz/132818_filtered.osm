@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7596420000" lat="47.707315" lon="16.498558"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="7022" /><tag k="addr:street" v="Wacholderweg" /><tag k="addr:city" v="Schattendorf" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7596421000" lat="47.707593" lon="16.498661"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="7022" /><tag k="addr:street" v="Wacholderweg" /><tag k="addr:city" v="Schattendorf" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7596422000" lat="47.707202" lon="16.49857"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="7022" /><tag k="addr:street" v="Wacholderweg" /><tag k="addr:city" v="Schattendorf" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7596423000" lat="47.707762" lon="16.4987"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="7022" /><tag k="addr:street" v="Wacholderweg" /><tag k="addr:city" v="Schattendorf" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7596425000" lat="47.707931" lon="16.498739"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="7022" /><tag k="addr:street" v="Wacholderweg" /><tag k="addr:city" v="Schattendorf" /><tag k="addr:housenumber" v="9" /></node>
+<bounds minlat="47.707202" minlon="16.498558" maxlat="47.707931" maxlon="16.498739" />
+</osm>

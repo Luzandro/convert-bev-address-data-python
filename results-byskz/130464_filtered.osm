@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6770605001" lat="47.221815" lon="9.718172"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6822" /><tag k="addr:street" v="Tuniaweg" /><tag k="addr:city" v="D&#252;ns" /><tag k="addr:housenumber" v="21" /></node>
+<node id="-6770606001" lat="47.222025" lon="9.717952"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6822" /><tag k="addr:street" v="Tuniaweg" /><tag k="addr:city" v="D&#252;ns" /><tag k="addr:housenumber" v="22" /></node>
+<node id="-6770607002" lat="47.222152" lon="9.717684"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6822" /><tag k="addr:street" v="Tuniaweg" /><tag k="addr:city" v="D&#252;ns" /><tag k="addr:housenumber" v="23" /></node>
+<node id="-6770608001" lat="47.22228" lon="9.717403"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6822" /><tag k="addr:street" v="Tuniaweg" /><tag k="addr:city" v="D&#252;ns" /><tag k="addr:housenumber" v="24" /></node>
+<node id="-6770609001" lat="47.222424" lon="9.717352"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6822" /><tag k="addr:street" v="Tuniaweg" /><tag k="addr:city" v="D&#252;ns" /><tag k="addr:housenumber" v="25" /></node>
+<node id="-7504100001" lat="47.222188" lon="9.717565"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6822" /><tag k="addr:street" v="Tuniaweg" /><tag k="addr:city" v="D&#252;ns" /><tag k="addr:housenumber" v="157" /></node>
+<bounds minlat="47.221815" minlon="9.717352" maxlat="47.222424" maxlon="9.718172" />
+</osm>

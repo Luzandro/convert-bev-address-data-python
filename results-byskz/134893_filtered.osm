@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7647874000" lat="48.612466" lon="15.179034"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3910" /><tag k="addr:street" v="Weinbergstra&#223;e" /><tag k="addr:city" v="Zwettl-Nieder&#246;sterreich" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7647875000" lat="48.612541" lon="15.178685"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3910" /><tag k="addr:street" v="Weinbergstra&#223;e" /><tag k="addr:city" v="Zwettl-Nieder&#246;sterreich" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7647876000" lat="48.612619" lon="15.178218"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3910" /><tag k="addr:street" v="Weinbergstra&#223;e" /><tag k="addr:city" v="Zwettl-Nieder&#246;sterreich" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7647877000" lat="48.612679" lon="15.177859"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3910" /><tag k="addr:street" v="Weinbergstra&#223;e" /><tag k="addr:city" v="Zwettl-Nieder&#246;sterreich" /><tag k="addr:housenumber" v="7" /></node>
+<bounds minlat="48.612466" minlon="15.177859" maxlat="48.612679" maxlon="15.179034" />
+</osm>

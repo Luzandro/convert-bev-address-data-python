@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7615151000" lat="47.35318" lon="9.966231"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6882" /><tag k="addr:street" v="Sonnberg" /><tag k="addr:city" v="Schnepfau" /><tag k="addr:housenumber" v="96" /></node>
+<node id="-7615152000" lat="47.353307" lon="9.965889"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6882" /><tag k="addr:street" v="Sonnberg" /><tag k="addr:city" v="Schnepfau" /><tag k="addr:housenumber" v="97" /></node>
+<node id="-7615403000" lat="47.34995" lon="9.972206"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6882" /><tag k="addr:street" v="Sonnberg" /><tag k="addr:city" v="Schnepfau" /><tag k="addr:housenumber" v="104" /></node>
+<bounds minlat="47.34995" minlon="9.965889" maxlat="47.353307" maxlon="9.972206" />
+</osm>

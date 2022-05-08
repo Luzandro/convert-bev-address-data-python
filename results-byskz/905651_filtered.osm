@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7636211000" lat="48.230148" lon="16.508015"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="1220" /><tag k="addr:street" v="Sabine-Oberhauser-Stra&#223;e" /><tag k="addr:suburb" v="Donaustadt" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7636216000" lat="48.229689" lon="16.508152"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="1220" /><tag k="addr:street" v="Sabine-Oberhauser-Stra&#223;e" /><tag k="addr:suburb" v="Donaustadt" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="48.229689" minlon="16.508015" maxlat="48.230148" maxlon="16.508152" />
+</osm>

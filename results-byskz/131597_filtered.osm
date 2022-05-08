@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5378258001" lat="48.022871" lon="13.822421"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4661" /><tag k="addr:street" v="Rosenweg" /><tag k="addr:city" v="Roitham am Traunfall" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5378264001" lat="48.022843" lon="13.821066"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4661" /><tag k="addr:street" v="Rosenweg" /><tag k="addr:city" v="Roitham am Traunfall" /><tag k="addr:housenumber" v="10" /></node>
+<node id="-7295666001" lat="48.022544" lon="13.820682"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4661" /><tag k="addr:street" v="Rosenweg" /><tag k="addr:city" v="Roitham am Traunfall" /><tag k="addr:housenumber" v="11" /></node>
+<node id="-7414091001" lat="48.023063" lon="13.822019"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4661" /><tag k="addr:street" v="Rosenweg" /><tag k="addr:city" v="Roitham am Traunfall" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7469416001" lat="48.02275" lon="13.821761"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4661" /><tag k="addr:street" v="Rosenweg" /><tag k="addr:city" v="Roitham am Traunfall" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7634737001" lat="48.02215" lon="13.821528"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4661" /><tag k="addr:street" v="Rosenweg" /><tag k="addr:city" v="Roitham am Traunfall" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="48.02215" minlon="13.820682" maxlat="48.023063" maxlon="13.822421" />
+</osm>

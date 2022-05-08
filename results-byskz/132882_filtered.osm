@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7598536000" lat="48.104638" lon="14.434301"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4407" /><tag k="addr:street" v="Panhalmstra&#223;e" /><tag k="addr:city" v="Dietach" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7598537001" lat="48.104725" lon="14.434227"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4407" /><tag k="addr:street" v="Panhalmstra&#223;e" /><tag k="addr:city" v="Dietach" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7598538001" lat="48.104528" lon="14.433943"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4407" /><tag k="addr:street" v="Panhalmstra&#223;e" /><tag k="addr:city" v="Dietach" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7598539001" lat="48.104703" lon="14.433884"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4407" /><tag k="addr:street" v="Panhalmstra&#223;e" /><tag k="addr:city" v="Dietach" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7598540001" lat="48.10452" lon="14.433605"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4407" /><tag k="addr:street" v="Panhalmstra&#223;e" /><tag k="addr:city" v="Dietach" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7598541000" lat="48.104639" lon="14.433525"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4407" /><tag k="addr:street" v="Panhalmstra&#223;e" /><tag k="addr:city" v="Dietach" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="48.10452" minlon="14.433525" maxlat="48.104725" maxlon="14.434301" />
+</osm>

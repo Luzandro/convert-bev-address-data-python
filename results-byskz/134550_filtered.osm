@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7639529001" lat="48.054256" lon="14.145348"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4550" /><tag k="addr:street" v="Schloss Kremsegg" /><tag k="addr:city" v="Kremsm&#252;nster" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7639530001" lat="48.054227" lon="14.145873"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4550" /><tag k="addr:street" v="Schloss Kremsegg" /><tag k="addr:city" v="Kremsm&#252;nster" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7639531001" lat="48.054374" lon="14.14619"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4550" /><tag k="addr:street" v="Schloss Kremsegg" /><tag k="addr:city" v="Kremsm&#252;nster" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7639532000" lat="48.053839" lon="14.147025"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4550" /><tag k="addr:street" v="Schloss Kremsegg" /><tag k="addr:city" v="Kremsm&#252;nster" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7639540000" lat="48.054192" lon="14.146896"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4550" /><tag k="addr:street" v="Schloss Kremsegg" /><tag k="addr:city" v="Kremsm&#252;nster" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="48.053839" minlon="14.145348" maxlat="48.054374" maxlon="14.147025" />
+</osm>

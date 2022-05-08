@@ -1,0 +1,4 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7604053000" lat="47.36791" lon="15.323718"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8132" /><tag k="addr:street" v="Hubmannweg" /><tag k="addr:city" v="Pernegg an der Mur" /><tag k="addr:housenumber" v="11" /></node>
+<bounds minlat="47.36791" minlon="15.323718" maxlat="47.36791" maxlon="15.323718" />
+</osm>

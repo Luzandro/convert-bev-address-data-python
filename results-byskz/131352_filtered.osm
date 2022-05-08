@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7567755000" lat="48.729573" lon="15.401856"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3800" /><tag k="addr:street" v="Tennisweg" /><tag k="addr:city" v="G&#246;pfritz an der Wild" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7633845000" lat="48.729648" lon="15.402273"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3800" /><tag k="addr:street" v="Tennisweg" /><tag k="addr:city" v="G&#246;pfritz an der Wild" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="48.729396" minlon="15.401856" maxlat="48.729648" maxlon="15.402273" />
+</osm>

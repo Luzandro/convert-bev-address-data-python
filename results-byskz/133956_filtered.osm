@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6718462001" lat="47.00605" lon="9.99818"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Schattenort" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="82" /></node>
+<node id="-6718463001" lat="47.006296" lon="9.997504"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Schattenort" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="83" /></node>
+<node id="-6718464001" lat="47.006417" lon="9.997819"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Schattenort" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="83a" /></node>
+<bounds minlat="47.00605" minlon="9.997504" maxlat="47.006417" maxlon="9.99818" />
+</osm>

@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7652017000" lat="48.376537" lon="14.131681"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4112" /><tag k="addr:street" v="Weingarten" /><tag k="addr:city" v="St. Gotthard im M&#252;hlkreis" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7652019000" lat="48.37641" lon="14.131626"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4112" /><tag k="addr:street" v="Weingarten" /><tag k="addr:city" v="St. Gotthard im M&#252;hlkreis" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7652020000" lat="48.376564" lon="14.131991"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4112" /><tag k="addr:street" v="Weingarten" /><tag k="addr:city" v="St. Gotthard im M&#252;hlkreis" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7652021000" lat="48.376346" lon="14.131942"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4112" /><tag k="addr:street" v="Weingarten" /><tag k="addr:city" v="St. Gotthard im M&#252;hlkreis" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7652022000" lat="48.376566" lon="14.132398"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4112" /><tag k="addr:street" v="Weingarten" /><tag k="addr:city" v="St. Gotthard im M&#252;hlkreis" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7652023000" lat="48.376347" lon="14.13228"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4112" /><tag k="addr:street" v="Weingarten" /><tag k="addr:city" v="St. Gotthard im M&#252;hlkreis" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="48.376346" minlon="14.131626" maxlat="48.376566" maxlon="14.132398" />
+</osm>

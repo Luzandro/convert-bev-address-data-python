@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7622268001" lat="47.278543" lon="12.64801"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5722" /><tag k="addr:street" v="Moosweg" /><tag k="addr:city" v="Niedernsill" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7622269001" lat="47.278618" lon="12.648407"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5722" /><tag k="addr:street" v="Moosweg" /><tag k="addr:city" v="Niedernsill" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7622270001" lat="47.27872" lon="12.647919"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5722" /><tag k="addr:street" v="Moosweg" /><tag k="addr:city" v="Niedernsill" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7622271001" lat="47.278829" lon="12.648321"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5722" /><tag k="addr:street" v="Moosweg" /><tag k="addr:city" v="Niedernsill" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7622272001" lat="47.278909" lon="12.647855"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5722" /><tag k="addr:street" v="Moosweg" /><tag k="addr:city" v="Niedernsill" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7622273001" lat="47.279026" lon="12.64823"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5722" /><tag k="addr:street" v="Moosweg" /><tag k="addr:city" v="Niedernsill" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="47.278543" minlon="12.647855" maxlat="47.279026" maxlon="12.648407" />
+</osm>

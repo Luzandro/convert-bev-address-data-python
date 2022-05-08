@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7578735001" lat="48.139538" lon="15.285248"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3243" /><tag k="addr:street" v="Baumeisterstra&#223;e" /><tag k="addr:city" v="St. Leonhard am Forst" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7578739001" lat="48.139335" lon="15.285303"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3243" /><tag k="addr:street" v="Baumeisterstra&#223;e" /><tag k="addr:city" v="St. Leonhard am Forst" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7578741001" lat="48.139105" lon="15.285367"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3243" /><tag k="addr:street" v="Baumeisterstra&#223;e" /><tag k="addr:city" v="St. Leonhard am Forst" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7578745001" lat="48.138999" lon="15.285459"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3243" /><tag k="addr:street" v="Baumeisterstra&#223;e" /><tag k="addr:city" v="St. Leonhard am Forst" /><tag k="addr:housenumber" v="8" /></node>
+<bounds minlat="48.138891" minlon="15.285248" maxlat="48.139538" maxlon="15.286773" />
+</osm>

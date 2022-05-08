@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7555162001" lat="48.40968" lon="13.774709"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4724" /><tag k="addr:street" v="Eichenweg" /><tag k="addr:city" v="Neukirchen am Walde" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7555250001" lat="48.409961" lon="13.775147"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4724" /><tag k="addr:street" v="Eichenweg" /><tag k="addr:city" v="Neukirchen am Walde" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7567519001" lat="48.409232" lon="13.774704"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4724" /><tag k="addr:street" v="Eichenweg" /><tag k="addr:city" v="Neukirchen am Walde" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7586319001" lat="48.409705" lon="13.774305"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4724" /><tag k="addr:street" v="Eichenweg" /><tag k="addr:city" v="Neukirchen am Walde" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7650755000" lat="48.409265" lon="13.774492"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4724" /><tag k="addr:street" v="Eichenweg" /><tag k="addr:city" v="Neukirchen am Walde" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="48.409232" minlon="13.774305" maxlat="48.409961" maxlon="13.775147" />
+</osm>

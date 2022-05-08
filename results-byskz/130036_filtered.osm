@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5667180001" lat="47.961029" lon="13.341741"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5204" /><tag k="addr:place" v="Reitzing" /><tag k="addr:city" v="Stra&#223;walchen" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-5667225001" lat="47.960614" lon="13.338829"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5204" /><tag k="addr:place" v="Reitzing" /><tag k="addr:city" v="Stra&#223;walchen" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7552513001" lat="47.959501" lon="13.34297"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5204" /><tag k="addr:place" v="Reitzing" /><tag k="addr:city" v="Stra&#223;walchen" /><tag k="addr:housenumber" v="14" /></node>
+<bounds minlat="47.957418" minlon="13.338829" maxlat="47.961143" maxlon="13.343995" />
+</osm>

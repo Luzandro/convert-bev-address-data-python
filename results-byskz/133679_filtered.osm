@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7043118001" lat="47.352804" lon="9.934682"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6882" /><tag k="addr:street" v="Schnepfauer Gschwend" /><tag k="addr:city" v="Schnepfau" /><tag k="addr:housenumber" v="47" /></node>
+<node id="-7649966000" lat="47.35297" lon="9.934977"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6882" /><tag k="addr:street" v="Schnepfauer Gschwend" /><tag k="addr:city" v="Schnepfau" /><tag k="addr:housenumber" v="188" /></node>
+<bounds minlat="47.352804" minlon="9.934682" maxlat="47.353008" maxlon="9.935492" />
+</osm>

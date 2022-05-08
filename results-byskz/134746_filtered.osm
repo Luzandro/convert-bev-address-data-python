@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5985702001" lat="46.713691" lon="15.66937"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8472" /><tag k="addr:street" v="Wiesenbachweg" /><tag k="addr:city" v="Stra&#223; in Steiermark" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5985704001" lat="46.713149" lon="15.669358"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8472" /><tag k="addr:street" v="Wiesenbachweg" /><tag k="addr:city" v="Stra&#223; in Steiermark" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-5985709001" lat="46.716786" lon="15.669814"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8472" /><tag k="addr:street" v="Wiesenbachweg" /><tag k="addr:city" v="Stra&#223; in Steiermark" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5985724001" lat="46.712365" lon="15.66964"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8472" /><tag k="addr:street" v="Wiesenbachweg" /><tag k="addr:city" v="Stra&#223; in Steiermark" /><tag k="addr:housenumber" v="10" /></node>
+<node id="-5985740001" lat="46.71346" lon="15.669483"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8472" /><tag k="addr:street" v="Wiesenbachweg" /><tag k="addr:city" v="Stra&#223; in Steiermark" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7525903001" lat="46.712982" lon="15.669424"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8472" /><tag k="addr:street" v="Wiesenbachweg" /><tag k="addr:city" v="Stra&#223; in Steiermark" /><tag k="addr:housenumber" v="8" /></node>
+<bounds minlat="46.712365" minlon="15.669358" maxlat="46.716786" maxlon="15.669814" />
+</osm>

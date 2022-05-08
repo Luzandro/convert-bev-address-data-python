@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7589450001" lat="46.661193" lon="14.244316"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9061" /><tag k="addr:street" v="Eichenwaldstra&#223;e" /><tag k="addr:suburb" v="W&#246;lfnitz" /><tag k="addr:city" v="Klagenfurt am W&#246;rthersee" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7589451001" lat="46.661702" lon="14.244536"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9061" /><tag k="addr:street" v="Eichenwaldstra&#223;e" /><tag k="addr:suburb" v="W&#246;lfnitz" /><tag k="addr:city" v="Klagenfurt am W&#246;rthersee" /><tag k="addr:housenumber" v="12" /></node>
+<bounds minlat="46.661193" minlon="14.244316" maxlat="46.661702" maxlon="14.244536" />
+</osm>

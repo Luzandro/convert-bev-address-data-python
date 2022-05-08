@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7576054000" lat="47.081916" lon="10.031475"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6782" /><tag k="addr:street" v="Gretschweg" /><tag k="addr:city" v="Silbertal" /><tag k="addr:housenumber" v="11" /></node>
+<node id="-7576056000" lat="47.083574" lon="10.030695"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6782" /><tag k="addr:street" v="Gretschweg" /><tag k="addr:city" v="Silbertal" /><tag k="addr:housenumber" v="12" /></node>
+<bounds minlat="47.069272" minlon="10.025038" maxlat="47.088691" maxlon="10.04179" />
+</osm>

@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7591526001" lat="47.785053" lon="12.983563"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5071" /><tag k="addr:street" v="Webersdorferweg" /><tag k="addr:city" v="Wals-Siezenheim" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7591527001" lat="47.785204" lon="12.983981"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5071" /><tag k="addr:street" v="Webersdorferweg" /><tag k="addr:city" v="Wals-Siezenheim" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7591528001" lat="47.785354" lon="12.984407"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="5071" /><tag k="addr:street" v="Webersdorferweg" /><tag k="addr:city" v="Wals-Siezenheim" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="47.785053" minlon="12.983563" maxlat="47.785354" maxlon="12.984407" />
+</osm>

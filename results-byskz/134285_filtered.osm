@@ -1,0 +1,10 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7631438000" lat="48.07537" lon="14.424303"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4407" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Dietach" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7631439000" lat="48.075502" lon="14.424485"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4407" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Dietach" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7631441000" lat="48.075249" lon="14.423818"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4407" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Dietach" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7631449000" lat="48.075262" lon="14.423348"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4407" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Dietach" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7631450000" lat="48.075176" lon="14.423329"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4407" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Dietach" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7631452000" lat="48.075872" lon="14.423003"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4407" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Dietach" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7631453000" lat="48.075546" lon="14.42305"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4407" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Dietach" /><tag k="addr:housenumber" v="7" /></node>
+<bounds minlat="48.075176" minlon="14.423003" maxlat="48.075872" maxlon="14.424485" />
+</osm>

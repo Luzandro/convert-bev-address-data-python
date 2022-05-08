@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7607194000" lat="48.418243" lon="15.940086"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3465" /><tag k="addr:street" v="Birkenstra&#223;e" /><tag k="addr:city" v="K&#246;nigsbrunn am Wagram" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7608846001" lat="48.417726" lon="15.939638"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3465" /><tag k="addr:street" v="Birkenstra&#223;e" /><tag k="addr:city" v="K&#246;nigsbrunn am Wagram" /><tag k="addr:housenumber" v="10" /></node>
+<node id="-7615672001" lat="48.417569" lon="15.939558"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3465" /><tag k="addr:street" v="Birkenstra&#223;e" /><tag k="addr:city" v="K&#246;nigsbrunn am Wagram" /><tag k="addr:housenumber" v="12" /></node>
+<node id="-7631476000" lat="48.417437" lon="15.939397"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3465" /><tag k="addr:street" v="Birkenstra&#223;e" /><tag k="addr:city" v="K&#246;nigsbrunn am Wagram" /><tag k="addr:housenumber" v="14" /></node>
+<node id="-7636114000" lat="48.418309" lon="15.940154"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3465" /><tag k="addr:street" v="Birkenstra&#223;e" /><tag k="addr:city" v="K&#246;nigsbrunn am Wagram" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="48.417437" minlon="15.939397" maxlat="48.418309" maxlon="15.940154" />
+</osm>

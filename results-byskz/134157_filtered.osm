@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6088071001" lat="46.855165" lon="14.158277"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9345" /><tag k="addr:street" v="Zwischenbergenstra&#223;e" /><tag k="addr:city" v="Gl&#246;dnitz" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-6088072001" lat="46.855147" lon="14.157207"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9345" /><tag k="addr:street" v="Zwischenbergenstra&#223;e" /><tag k="addr:city" v="Gl&#246;dnitz" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-6088073001" lat="46.854812" lon="14.15875"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9345" /><tag k="addr:street" v="Zwischenbergenstra&#223;e" /><tag k="addr:city" v="Gl&#246;dnitz" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-6088105001" lat="46.855861" lon="14.156825"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9345" /><tag k="addr:street" v="Zwischenbergenstra&#223;e" /><tag k="addr:city" v="Gl&#246;dnitz" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-6986856001" lat="46.855787" lon="14.157112"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9345" /><tag k="addr:street" v="Zwischenbergenstra&#223;e" /><tag k="addr:city" v="Gl&#246;dnitz" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7502156001" lat="46.856303" lon="14.156622"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9345" /><tag k="addr:street" v="Zwischenbergenstra&#223;e" /><tag k="addr:city" v="Gl&#246;dnitz" /><tag k="addr:housenumber" v="10" /></node>
+<bounds minlat="46.854812" minlon="14.156622" maxlat="46.856303" maxlon="14.15875" />
+</osm>

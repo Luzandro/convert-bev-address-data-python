@@ -1,0 +1,4 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7586917000" lat="48.242379" lon="16.639228"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2280" /><tag k="addr:street" v="Bahnstra&#223;e" /><tag k="addr:city" v="Glinzendorf" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="48.242379" minlon="16.638839" maxlat="48.243629" maxlon="16.639851" />
+</osm>

@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5559991001" lat="47.989917" lon="13.552209"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4851" /><tag k="addr:street" v="Hauptstra&#223;e" /><tag k="addr:city" v="Gampern" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7573198000" lat="47.986236" lon="13.55499"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4851" /><tag k="addr:street" v="Hauptstra&#223;e" /><tag k="addr:city" v="Gampern" /><tag k="addr:housenumber" v="32" /></node>
+<bounds minlat="47.985102" minlon="13.551287" maxlat="47.990894" maxlon="13.555433" />
+</osm>

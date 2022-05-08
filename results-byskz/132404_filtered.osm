@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7586863001" lat="47.953718" lon="13.644445"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4861" /><tag k="addr:street" v="Schneiderstra&#223;e" /><tag k="addr:city" v="Aurach am Hongar" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7586927001" lat="47.953416" lon="13.644478"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4861" /><tag k="addr:street" v="Schneiderstra&#223;e" /><tag k="addr:city" v="Aurach am Hongar" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7586934001" lat="47.953215" lon="13.644901"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4861" /><tag k="addr:street" v="Schneiderstra&#223;e" /><tag k="addr:city" v="Aurach am Hongar" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7594098001" lat="47.953197" lon="13.644741"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4861" /><tag k="addr:street" v="Schneiderstra&#223;e" /><tag k="addr:city" v="Aurach am Hongar" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7607029001" lat="47.953489" lon="13.644837"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4861" /><tag k="addr:street" v="Schneiderstra&#223;e" /><tag k="addr:city" v="Aurach am Hongar" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7624947001" lat="47.95355" lon="13.644885"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4861" /><tag k="addr:street" v="Schneiderstra&#223;e" /><tag k="addr:city" v="Aurach am Hongar" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="47.953197" minlon="13.644445" maxlat="47.953718" maxlon="13.644901" />
+</osm>
