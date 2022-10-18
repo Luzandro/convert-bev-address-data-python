@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6563549001" lat="48.20512" lon="15.956105"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3034" /><tag k="addr:street" v="Hofst&#228;dterfeld" /><tag k="addr:city" v="Maria Anzbach" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-6563550000" lat="48.205977" lon="15.958"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3034" /><tag k="addr:street" v="Hofst&#228;dterfeld" /><tag k="addr:city" v="Maria Anzbach" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-6563551000" lat="48.206026" lon="15.957309"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3034" /><tag k="addr:street" v="Hofst&#228;dterfeld" /><tag k="addr:city" v="Maria Anzbach" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-6563552001" lat="48.206429" lon="15.956866"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3034" /><tag k="addr:street" v="Hofst&#228;dterfeld" /><tag k="addr:city" v="Maria Anzbach" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="48.20512" minlon="15.956105" maxlat="48.206429" maxlon="15.958" />
+</osm>

@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7660256000" lat="48.22924" lon="15.417581"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3382" /><tag k="addr:street" v="Hochweg" /><tag k="addr:city" v="Dunkelsteinerwald" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7660257000" lat="48.229318" lon="15.416827"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3382" /><tag k="addr:street" v="Hochweg" /><tag k="addr:city" v="Dunkelsteinerwald" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7660258000" lat="48.229331" lon="15.417508"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3382" /><tag k="addr:street" v="Hochweg" /><tag k="addr:city" v="Dunkelsteinerwald" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7660259000" lat="48.229268" lon="15.41718"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3382" /><tag k="addr:street" v="Hochweg" /><tag k="addr:city" v="Dunkelsteinerwald" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7660260000" lat="48.22936" lon="15.417097"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3382" /><tag k="addr:street" v="Hochweg" /><tag k="addr:city" v="Dunkelsteinerwald" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7660262000" lat="48.22934" lon="15.416832"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3382" /><tag k="addr:street" v="Hochweg" /><tag k="addr:city" v="Dunkelsteinerwald" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="48.22924" minlon="15.416827" maxlat="48.22936" maxlon="15.417581" />
+</osm>

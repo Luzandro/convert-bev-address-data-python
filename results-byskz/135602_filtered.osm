@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7662868000" lat="47.812024" lon="15.298463"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8630" /><tag k="addr:street" v="Brunnfeld" /><tag k="addr:city" v="Mariazell" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7662869000" lat="47.812272" lon="15.298324"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8630" /><tag k="addr:street" v="Brunnfeld" /><tag k="addr:city" v="Mariazell" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7662870000" lat="47.812481" lon="15.298249"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8630" /><tag k="addr:street" v="Brunnfeld" /><tag k="addr:city" v="Mariazell" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7662871000" lat="47.812694" lon="15.298141"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8630" /><tag k="addr:street" v="Brunnfeld" /><tag k="addr:city" v="Mariazell" /><tag k="addr:housenumber" v="7" /></node>
+<bounds minlat="47.812024" minlon="15.298141" maxlat="47.812694" maxlon="15.298463" />
+</osm>

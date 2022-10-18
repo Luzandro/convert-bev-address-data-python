@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7226611001" lat="47.272102" lon="14.778838"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Liliengasse" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7310650002" lat="47.27185" lon="14.778401"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Liliengasse" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7346855001" lat="47.272198" lon="14.779215"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Liliengasse" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7383541001" lat="47.271877" lon="14.778999"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Liliengasse" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7615909000" lat="47.271609" lon="14.778115"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Liliengasse" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="47.271609" minlon="14.778115" maxlat="47.272198" maxlon="14.779215" />
+</osm>

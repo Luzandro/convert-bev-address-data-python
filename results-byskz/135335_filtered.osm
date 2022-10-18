@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5895861001" lat="47.267614" lon="14.77997"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Tremmelbergstra&#223;e" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5895862001" lat="47.267602" lon="14.780968"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Tremmelbergstra&#223;e" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="47.267602" minlon="14.77997" maxlat="47.267614" maxlon="14.780968" />
+</osm>

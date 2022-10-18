@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6564381001" lat="48.181465" lon="15.963582"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3034" /><tag k="addr:street" v="Kudlichgasse" /><tag k="addr:city" v="Maria Anzbach" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-6564387001" lat="48.18163" lon="15.962402"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3034" /><tag k="addr:street" v="Kudlichgasse" /><tag k="addr:city" v="Maria Anzbach" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="48.181465" minlon="15.962402" maxlat="48.18163" maxlon="15.963582" />
+</osm>

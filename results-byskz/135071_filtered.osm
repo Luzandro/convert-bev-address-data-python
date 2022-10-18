@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5241119000" lat="47.443139" lon="16.508037"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7451" /><tag k="addr:street" v="Florianiweg" /><tag k="addr:city" v="Oberloisdorf" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7652685001" lat="47.44288" lon="16.506529"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7451" /><tag k="addr:street" v="Florianiweg" /><tag k="addr:city" v="Oberloisdorf" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7657740001" lat="47.442987" lon="16.506754"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7451" /><tag k="addr:street" v="Florianiweg" /><tag k="addr:city" v="Oberloisdorf" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="47.44288" minlon="16.506529" maxlat="47.443139" maxlon="16.508037" />
+</osm>

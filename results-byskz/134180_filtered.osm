@@ -1,6 +1,6 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7628927000" lat="48.190258" lon="14.17769"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4055" /><tag k="addr:street" v="Pelzweg" /><tag k="addr:city" v="Pucking" /><tag k="addr:housenumber" v="2" /></node>
-<node id="-7628928000" lat="48.190322" lon="14.17791"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4055" /><tag k="addr:street" v="Pelzweg" /><tag k="addr:city" v="Pucking" /><tag k="addr:housenumber" v="4" /></node>
-<node id="-7628929000" lat="48.190376" lon="14.178205"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="4055" /><tag k="addr:street" v="Pelzweg" /><tag k="addr:city" v="Pucking" /><tag k="addr:housenumber" v="6" /></node>
-<bounds minlat="48.190258" minlon="14.17769" maxlat="48.190376" maxlon="14.178205" />
+<node id="-7628927000" lat="48.190258" lon="14.17769"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="4055" /><tag k="addr:street" v="Pelzweg" /><tag k="addr:city" v="Pucking" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7628928000" lat="48.190322" lon="14.17791"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="4055" /><tag k="addr:street" v="Pelzweg" /><tag k="addr:city" v="Pucking" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7628929001" lat="48.190457" lon="14.178178"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="4055" /><tag k="addr:street" v="Pelzweg" /><tag k="addr:city" v="Pucking" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="48.190258" minlon="14.17769" maxlat="48.190457" maxlon="14.178178" />
 </osm>

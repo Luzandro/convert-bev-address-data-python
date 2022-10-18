@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6364787001" lat="48.595541" lon="15.888494"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3714" /><tag k="addr:street" v="G&#228;rtnerstra&#223;e" /><tag k="addr:city" v="Sitzendorf an der Schmida" /><tag k="addr:housenumber" v="10" /></node>
+<node id="-6364789001" lat="48.595063" lon="15.889659"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3714" /><tag k="addr:street" v="G&#228;rtnerstra&#223;e" /><tag k="addr:city" v="Sitzendorf an der Schmida" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-6364861001" lat="48.594527" lon="15.889765"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3714" /><tag k="addr:street" v="G&#228;rtnerstra&#223;e" /><tag k="addr:city" v="Sitzendorf an der Schmida" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-6364862001" lat="48.594974" lon="15.89001"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3714" /><tag k="addr:street" v="G&#228;rtnerstra&#223;e" /><tag k="addr:city" v="Sitzendorf an der Schmida" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7463692002" lat="48.595106" lon="15.889247"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3714" /><tag k="addr:street" v="G&#228;rtnerstra&#223;e" /><tag k="addr:city" v="Sitzendorf an der Schmida" /><tag k="addr:housenumber" v="8" /></node>
+<bounds minlat="48.594527" minlon="15.888494" maxlat="48.595541" maxlon="15.89001" />
+</osm>

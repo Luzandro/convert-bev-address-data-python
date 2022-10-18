@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7656897000" lat="46.651792" lon="14.472334"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="9130" /><tag k="addr:street" v="Sch&#246;ngasse" /><tag k="addr:city" v="Poggersdorf" /><tag k="addr:housenumber" v="9" /></node>
+<node id="-7657020000" lat="46.652241" lon="14.472624"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="9130" /><tag k="addr:street" v="Sch&#246;ngasse" /><tag k="addr:city" v="Poggersdorf" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="46.651792" minlon="14.472334" maxlat="46.652241" maxlon="14.472624" />
+</osm>

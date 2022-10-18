@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7653275000" lat="46.732704" lon="15.667703"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8423" /><tag k="addr:street" v="Kranichgasse" /><tag k="addr:city" v="Sankt Veit in der S&#252;dsteiermark" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7653277000" lat="46.731998" lon="15.667655"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8423" /><tag k="addr:street" v="Kranichgasse" /><tag k="addr:city" v="Sankt Veit in der S&#252;dsteiermark" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="46.731998" minlon="15.667655" maxlat="46.732704" maxlon="15.667703" />
+</osm>

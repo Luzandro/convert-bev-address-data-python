@@ -1,4 +1,10 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7645031000" lat="47.076384" lon="15.125316"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8572" /><tag k="addr:street" v="Mohnfeldgasse" /><tag k="addr:city" v="B&#228;rnbach" /><tag k="addr:housenumber" v="1" /></node>
-<bounds minlat="47.076384" minlon="15.125316" maxlat="47.076384" maxlon="15.125316" />
+<node id="-7645031000" lat="47.076388" lon="15.12589"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8572" /><tag k="addr:street" v="Mohnfeldgasse" /><tag k="addr:city" v="B&#228;rnbach" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7661876000" lat="47.076183" lon="15.124672"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8572" /><tag k="addr:street" v="Mohnfeldgasse" /><tag k="addr:city" v="B&#228;rnbach" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7661877000" lat="47.076268" lon="15.125192"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8572" /><tag k="addr:street" v="Mohnfeldgasse" /><tag k="addr:city" v="B&#228;rnbach" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7661878000" lat="47.076088" lon="15.12406"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8572" /><tag k="addr:street" v="Mohnfeldgasse" /><tag k="addr:city" v="B&#228;rnbach" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7661880000" lat="47.076078" lon="15.12405"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8572" /><tag k="addr:street" v="Mohnfeldgasse" /><tag k="addr:city" v="B&#228;rnbach" /><tag k="addr:housenumber" v="4A" /></node>
+<node id="-7661882000" lat="47.076004" lon="15.123637"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8572" /><tag k="addr:street" v="Mohnfeldgasse" /><tag k="addr:city" v="B&#228;rnbach" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7661883000" lat="47.075972" lon="15.123427"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8572" /><tag k="addr:street" v="Mohnfeldgasse" /><tag k="addr:city" v="B&#228;rnbach" /><tag k="addr:housenumber" v="5A" /></node>
+<bounds minlat="47.075972" minlon="15.123427" maxlat="47.076388" maxlon="15.12589" />
 </osm>

@@ -1,4 +1,4 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7599710000" lat="47.662139" lon="15.577348"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8692" /><tag k="addr:street" v="Stift Neuberg" /><tag k="addr:city" v="Neuberg an der M&#252;rz" /><tag k="addr:housenumber" v="1a" /></node>
+<node id="-7599710000" lat="47.662139" lon="15.577348"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8692" /><tag k="addr:street" v="Stift Neuberg" /><tag k="addr:city" v="Neuberg an der M&#252;rz" /><tag k="addr:housenumber" v="1a" /></node>
 <bounds minlat="47.662139" minlon="15.577348" maxlat="47.662139" maxlon="15.577348" />
 </osm>

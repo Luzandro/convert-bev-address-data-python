@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7660313000" lat="48.246225" lon="15.338298"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3644" /><tag k="addr:street" v="Nepomukgasse" /><tag k="addr:city" v="Emmersdorf an der Donau" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7660320000" lat="48.246293" lon="15.338271"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3644" /><tag k="addr:street" v="Nepomukgasse" /><tag k="addr:city" v="Emmersdorf an der Donau" /><tag k="addr:housenumber" v="1a" /></node>
+<node id="-7660321000" lat="48.246375" lon="15.338234"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3644" /><tag k="addr:street" v="Nepomukgasse" /><tag k="addr:city" v="Emmersdorf an der Donau" /><tag k="addr:housenumber" v="1b" /></node>
+<node id="-7660323000" lat="48.246436" lon="15.338175"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3644" /><tag k="addr:street" v="Nepomukgasse" /><tag k="addr:city" v="Emmersdorf an der Donau" /><tag k="addr:housenumber" v="1c" /></node>
+<bounds minlat="48.246225" minlon="15.338175" maxlat="48.246436" maxlon="15.338298" />
+</osm>

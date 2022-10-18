@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7653731001" lat="47.647642" lon="16.378536"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7223" /><tag k="addr:street" v="Kurze Gasse" /><tag k="addr:city" v="Sieggraben" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7653734001" lat="47.647532" lon="16.377975"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7223" /><tag k="addr:street" v="Kurze Gasse" /><tag k="addr:city" v="Sieggraben" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7653736001" lat="47.647645" lon="16.377748"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7223" /><tag k="addr:street" v="Kurze Gasse" /><tag k="addr:city" v="Sieggraben" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="47.647532" minlon="16.377748" maxlat="47.647645" maxlon="16.378536" />
+</osm>

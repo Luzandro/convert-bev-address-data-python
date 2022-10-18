@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5895871001" lat="47.270982" lon="14.784583"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Rosenweg" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7615899000" lat="47.27053" lon="14.784495"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Rosenweg" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7615901000" lat="47.270358" lon="14.784813"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Rosenweg" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="47.270358" minlon="14.784495" maxlat="47.270982" maxlon="14.784813" />
+</osm>

@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7658542000" lat="48.248379" lon="16.426697"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="1210" /><tag k="addr:street" v="Antonie-Lehr-Stra&#223;e" /><tag k="addr:suburb" v="Floridsdorf" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="18" /></node>
+<node id="-7659117000" lat="48.248537" lon="16.42711"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="1210" /><tag k="addr:street" v="Antonie-Lehr-Stra&#223;e" /><tag k="addr:suburb" v="Floridsdorf" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="17" /></node>
+<bounds minlat="48.248379" minlon="16.426697" maxlat="48.248537" maxlon="16.42711" />
+</osm>

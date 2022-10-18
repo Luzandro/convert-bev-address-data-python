@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7139284001" lat="48.060529" lon="14.571982"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3351" /><tag k="addr:street" v="Betriebsgebiet" /><tag k="addr:city" v="Weistrach" /><tag k="addr:housenumber" v="11" /></node>
+<node id="-7146796001" lat="48.061648" lon="14.571287"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3351" /><tag k="addr:street" v="Betriebsgebiet" /><tag k="addr:city" v="Weistrach" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7640443000" lat="48.060839" lon="14.570254"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3351" /><tag k="addr:street" v="Betriebsgebiet" /><tag k="addr:city" v="Weistrach" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="48.060529" minlon="14.570254" maxlat="48.061648" maxlon="14.571982" />
+</osm>

@@ -1,6 +1,6 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-6151827001" lat="46.705604" lon="14.737302"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9112" /><tag k="addr:street" v="Poppendorfstra&#223;e" /><tag k="addr:city" v="Griffen" /><tag k="addr:housenumber" v="20" /></node>
-<node id="-6151831001" lat="46.705806" lon="14.736941"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9112" /><tag k="addr:street" v="Poppendorfstra&#223;e" /><tag k="addr:city" v="Griffen" /><tag k="addr:housenumber" v="18" /></node>
-<node id="-6151844001" lat="46.705673" lon="14.737539"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9112" /><tag k="addr:street" v="Poppendorfstra&#223;e" /><tag k="addr:city" v="Griffen" /><tag k="addr:housenumber" v="22" /></node>
+<node id="-6151827001" lat="46.705604" lon="14.737302"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="9112" /><tag k="addr:street" v="Poppendorfstra&#223;e" /><tag k="addr:city" v="Griffen" /><tag k="addr:housenumber" v="20" /></node>
+<node id="-6151831001" lat="46.705806" lon="14.736941"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="9112" /><tag k="addr:street" v="Poppendorfstra&#223;e" /><tag k="addr:city" v="Griffen" /><tag k="addr:housenumber" v="18" /></node>
+<node id="-6151844001" lat="46.705673" lon="14.737539"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="9112" /><tag k="addr:street" v="Poppendorfstra&#223;e" /><tag k="addr:city" v="Griffen" /><tag k="addr:housenumber" v="22" /></node>
 <bounds minlat="46.699253" minlon="14.735587" maxlat="46.706543" maxlon="14.743191" />
 </osm>

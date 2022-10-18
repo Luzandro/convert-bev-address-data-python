@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7660143000" lat="46.932808" lon="15.249421"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8511" /><tag k="addr:street" v="Reicherfeldweg" /><tag k="addr:city" v="Sankt Stefan ob Stainz" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7660145000" lat="46.932936" lon="15.249268"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8511" /><tag k="addr:street" v="Reicherfeldweg" /><tag k="addr:city" v="Sankt Stefan ob Stainz" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7660146000" lat="46.933113" lon="15.249061"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8511" /><tag k="addr:street" v="Reicherfeldweg" /><tag k="addr:city" v="Sankt Stefan ob Stainz" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7660147000" lat="46.933215" lon="15.248935"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8511" /><tag k="addr:street" v="Reicherfeldweg" /><tag k="addr:city" v="Sankt Stefan ob Stainz" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7660148000" lat="46.933364" lon="15.248766"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8511" /><tag k="addr:street" v="Reicherfeldweg" /><tag k="addr:city" v="Sankt Stefan ob Stainz" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="46.932808" minlon="15.248766" maxlat="46.933364" maxlon="15.249421" />
+</osm>

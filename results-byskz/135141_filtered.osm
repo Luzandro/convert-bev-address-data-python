@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5182530001" lat="47.221366" lon="16.090418"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Siedlungsweg" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5182613001" lat="47.221099" lon="16.090567"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Siedlungsweg" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7170471001" lat="47.220938" lon="16.089802"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Siedlungsweg" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="47.220938" minlon="16.089802" maxlat="47.221366" maxlon="16.090567" />
+</osm>

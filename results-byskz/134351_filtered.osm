@@ -1,7 +1,7 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7636327000" lat="47.04292" lon="15.229887"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8152" /><tag k="addr:street" v="Auenbauerweg" /><tag k="addr:city" v="Stallhofen" /><tag k="addr:housenumber" v="1" /></node>
-<node id="-7636329000" lat="47.043002" lon="15.229851"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8152" /><tag k="addr:street" v="Auenbauerweg" /><tag k="addr:city" v="Stallhofen" /><tag k="addr:housenumber" v="2" /></node>
-<node id="-7636330000" lat="47.043285" lon="15.229585"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8152" /><tag k="addr:street" v="Auenbauerweg" /><tag k="addr:city" v="Stallhofen" /><tag k="addr:housenumber" v="4" /></node>
-<node id="-7636331000" lat="47.043268" lon="15.22952"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8152" /><tag k="addr:street" v="Auenbauerweg" /><tag k="addr:city" v="Stallhofen" /><tag k="addr:housenumber" v="3" /></node>
-<bounds minlat="47.04292" minlon="15.22952" maxlat="47.043285" maxlon="15.229887" />
+<node id="-7636327000" lat="47.04312" lon="15.229733"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8152" /><tag k="addr:street" v="Auenbauerweg" /><tag k="addr:city" v="Stallhofen" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7636329000" lat="47.04312" lon="15.229733"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8152" /><tag k="addr:street" v="Auenbauerweg" /><tag k="addr:city" v="Stallhofen" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7636330001" lat="47.043415" lon="15.229554"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8152" /><tag k="addr:street" v="Auenbauerweg" /><tag k="addr:city" v="Stallhofen" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7636331000" lat="47.043268" lon="15.22952"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8152" /><tag k="addr:street" v="Auenbauerweg" /><tag k="addr:city" v="Stallhofen" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="47.04312" minlon="15.22952" maxlat="47.043415" maxlon="15.229733" />
 </osm>

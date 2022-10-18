@@ -1,6 +1,6 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7043107000" lat="47.353823" lon="9.982203"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6882" /><tag k="addr:street" v="Hirschberg" /><tag k="addr:city" v="Schnepfau" /><tag k="addr:housenumber" v="107" /></node>
-<node id="-7615405000" lat="47.35577" lon="9.985671"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6882" /><tag k="addr:street" v="Hirschberg" /><tag k="addr:city" v="Schnepfau" /><tag k="addr:housenumber" v="108" /></node>
-<node id="-7615406000" lat="47.355096" lon="9.998674"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="6882" /><tag k="addr:street" v="Hirschberg" /><tag k="addr:city" v="Schnepfau" /><tag k="addr:housenumber" v="109" /></node>
+<node id="-7043107000" lat="47.353823" lon="9.982203"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="6882" /><tag k="addr:street" v="Hirschberg" /><tag k="addr:city" v="Schnepfau" /><tag k="addr:housenumber" v="107" /></node>
+<node id="-7615405000" lat="47.35577" lon="9.985671"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="6882" /><tag k="addr:street" v="Hirschberg" /><tag k="addr:city" v="Schnepfau" /><tag k="addr:housenumber" v="108" /></node>
+<node id="-7615406000" lat="47.355096" lon="9.998674"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="6882" /><tag k="addr:street" v="Hirschberg" /><tag k="addr:city" v="Schnepfau" /><tag k="addr:housenumber" v="109" /></node>
 <bounds minlat="47.353823" minlon="9.982203" maxlat="47.35577" maxlon="9.998674" />
 </osm>

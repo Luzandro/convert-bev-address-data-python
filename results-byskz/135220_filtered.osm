@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5895771001" lat="47.274705" lon="14.77385"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Almgasse" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-5895772001" lat="47.274837" lon="14.773501"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Almgasse" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-5895773001" lat="47.275087" lon="14.773478"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Almgasse" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-5895774001" lat="47.275299" lon="14.773528"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Almgasse" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7106556001" lat="47.27494" lon="14.773942"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Almgasse" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7131990001" lat="47.275245" lon="14.773946"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Almgasse" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="47.274705" minlon="14.773478" maxlat="47.275299" maxlon="14.773946" />
+</osm>

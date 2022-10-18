@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5182584001" lat="47.21909" lon="16.099726"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Am Sonnenhang" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5182596001" lat="47.218858" lon="16.099583"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Am Sonnenhang" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-5182632001" lat="47.218484" lon="16.099658"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Am Sonnenhang" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-5182633001" lat="47.2188" lon="16.099383"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Am Sonnenhang" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="47.218484" minlon="16.099383" maxlat="47.21909" maxlon="16.099726" />
+</osm>

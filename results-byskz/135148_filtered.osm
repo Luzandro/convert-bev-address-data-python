@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5182504001" lat="47.2161" lon="16.100782"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Wiesengasse" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="10" /></node>
+<node id="-5182586001" lat="47.21519" lon="16.101652"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Wiesengasse" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="9" /></node>
+<node id="-5182598001" lat="47.215528" lon="16.101486"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Wiesengasse" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-5182607001" lat="47.215646" lon="16.101725"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Wiesengasse" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7306727001" lat="47.21537" lon="16.101212"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Wiesengasse" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="7" /></node>
+<bounds minlat="47.21519" minlon="16.100782" maxlat="47.2161" maxlon="16.101725" />
+</osm>

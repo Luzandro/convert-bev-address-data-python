@@ -1,4 +1,4 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-5956481000" lat="47.555712" lon="14.342604"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8900" /><tag k="addr:street" v="Schattseite" /><tag k="addr:city" v="Selzthal" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-5956481000" lat="47.555712" lon="14.342604"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8900" /><tag k="addr:street" v="Schattseite" /><tag k="addr:city" v="Selzthal" /><tag k="addr:housenumber" v="3" /></node>
 <bounds minlat="47.555712" minlon="14.333693" maxlat="47.564239" maxlon="14.342675" />
 </osm>

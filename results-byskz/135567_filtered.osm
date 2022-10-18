@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6364476000" lat="48.573963" lon="15.934619"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3714" /><tag k="addr:street" v="Wienerstra&#223;e" /><tag k="addr:city" v="Sitzendorf an der Schmida" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-6364478001" lat="48.574153" lon="15.934471"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3714" /><tag k="addr:street" v="Wienerstra&#223;e" /><tag k="addr:city" v="Sitzendorf an der Schmida" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-6364483001" lat="48.573791" lon="15.934169"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3714" /><tag k="addr:street" v="Wienerstra&#223;e" /><tag k="addr:city" v="Sitzendorf an der Schmida" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-6364572001" lat="48.573635" lon="15.935163"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3714" /><tag k="addr:street" v="Wienerstra&#223;e" /><tag k="addr:city" v="Sitzendorf an der Schmida" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7210404000" lat="48.573779" lon="15.934795"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3714" /><tag k="addr:street" v="Wienerstra&#223;e" /><tag k="addr:city" v="Sitzendorf an der Schmida" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="48.573635" minlon="15.934169" maxlat="48.574153" maxlon="15.935163" />
+</osm>

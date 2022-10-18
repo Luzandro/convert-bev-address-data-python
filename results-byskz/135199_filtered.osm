@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7656538001" lat="46.862337" lon="14.474434"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="9330" /><tag k="addr:street" v="Rudolf-Printschitz-Stra&#223;e" /><tag k="addr:city" v="Althofen" /><tag k="addr:housenumber" v="15" /></node>
+<node id="-7657304001" lat="46.862948" lon="14.474869"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="9330" /><tag k="addr:street" v="Rudolf-Printschitz-Stra&#223;e" /><tag k="addr:city" v="Althofen" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7657306000" lat="46.862874" lon="14.474876"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="9330" /><tag k="addr:street" v="Rudolf-Printschitz-Stra&#223;e" /><tag k="addr:city" v="Althofen" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7657307001" lat="46.862518" lon="14.474454"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="9330" /><tag k="addr:street" v="Rudolf-Printschitz-Stra&#223;e" /><tag k="addr:city" v="Althofen" /><tag k="addr:housenumber" v="9" /></node>
+<node id="-7657309000" lat="46.86234" lon="14.474864"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="9330" /><tag k="addr:street" v="Rudolf-Printschitz-Stra&#223;e" /><tag k="addr:city" v="Althofen" /><tag k="addr:housenumber" v="13" /></node>
+<bounds minlat="46.862337" minlon="14.474434" maxlat="46.862948" maxlon="14.474876" />
+</osm>

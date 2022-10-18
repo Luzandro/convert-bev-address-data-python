@@ -1,6 +1,6 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7650371000" lat="48.47014" lon="16.850297"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2263" /><tag k="addr:street" v="Apfelweg" /><tag k="addr:city" v="D&#252;rnkrut" /><tag k="addr:housenumber" v="1" /></node>
-<node id="-7650372000" lat="48.470329" lon="16.84976"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2263" /><tag k="addr:street" v="Apfelweg" /><tag k="addr:city" v="D&#252;rnkrut" /><tag k="addr:housenumber" v="2" /></node>
-<node id="-7650374000" lat="48.470503" lon="16.849369"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="2263" /><tag k="addr:street" v="Apfelweg" /><tag k="addr:city" v="D&#252;rnkrut" /><tag k="addr:housenumber" v="3" /></node>
-<bounds minlat="48.47014" minlon="16.849369" maxlat="48.470503" maxlon="16.850297" />
+<node id="-7650371000" lat="48.470211" lon="16.850335"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="2263" /><tag k="addr:street" v="Apfelweg" /><tag k="addr:city" v="D&#252;rnkrut" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7650372000" lat="48.470392" lon="16.849821"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="2263" /><tag k="addr:street" v="Apfelweg" /><tag k="addr:city" v="D&#252;rnkrut" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7650374000" lat="48.470554" lon="16.849418"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="2263" /><tag k="addr:street" v="Apfelweg" /><tag k="addr:city" v="D&#252;rnkrut" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="48.470211" minlon="16.849418" maxlat="48.470554" maxlon="16.850335" />
 </osm>

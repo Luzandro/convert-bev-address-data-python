@@ -1,6 +1,6 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7642506001" lat="46.53042" lon="14.311956"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9170" /><tag k="addr:street" v="Dr.-Helmut-Krainer-Stra&#223;e" /><tag k="addr:city" v="Ferlach" /><tag k="addr:housenumber" v="9" /></node>
-<node id="-7645319000" lat="46.530711" lon="14.311503"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9170" /><tag k="addr:street" v="Dr.-Helmut-Krainer-Stra&#223;e" /><tag k="addr:city" v="Ferlach" /><tag k="addr:housenumber" v="6" /></node>
-<node id="-7648896000" lat="46.531197" lon="14.311519"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="9170" /><tag k="addr:street" v="Dr.-Helmut-Krainer-Stra&#223;e" /><tag k="addr:city" v="Ferlach" /><tag k="addr:housenumber" v="2" /></node>
-<bounds minlat="46.53042" minlon="14.311503" maxlat="46.531197" maxlon="14.311956" />
+<node id="-7642506001" lat="46.53042" lon="14.311956"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="9170" /><tag k="addr:street" v="Dr.-Helmut-Krainer-Stra&#223;e" /><tag k="addr:city" v="Ferlach" /><tag k="addr:housenumber" v="9" /></node>
+<node id="-7645319001" lat="46.530676" lon="14.311404"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="9170" /><tag k="addr:street" v="Dr.-Helmut-Krainer-Stra&#223;e" /><tag k="addr:city" v="Ferlach" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7648896001" lat="46.531226" lon="14.311339"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="9170" /><tag k="addr:street" v="Dr.-Helmut-Krainer-Stra&#223;e" /><tag k="addr:city" v="Ferlach" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="46.53042" minlon="14.311339" maxlat="46.531226" maxlon="14.311956" />
 </osm>

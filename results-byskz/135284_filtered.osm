@@ -1,0 +1,10 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5895836001" lat="47.274787" lon="14.785856"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Marienplatz" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-5895906001" lat="47.273562" lon="14.785606"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Marienplatz" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-5895909001" lat="47.274225" lon="14.785778"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Marienplatz" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-5895931001" lat="47.274459" lon="14.785622"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Marienplatz" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7657528000" lat="47.273736" lon="14.78614"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Marienplatz" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7657533000" lat="47.273785" lon="14.785843"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Marienplatz" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7657575001" lat="47.274545" lon="14.786686"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Marienplatz" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="47.273562" minlon="14.785606" maxlat="47.274787" maxlon="14.786686" />
+</osm>

@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5182562001" lat="47.209536" lon="16.107174"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Panoramaweg" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5182622001" lat="47.209666" lon="16.105964"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Panoramaweg" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-5182623001" lat="47.209624" lon="16.105535"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Panoramaweg" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7183978001" lat="47.208385" lon="16.099407"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Panoramaweg" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7656399001" lat="47.208501" lon="16.099323"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Panoramaweg" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="6a" /></node>
+<bounds minlat="47.208385" minlon="16.099323" maxlat="47.209666" maxlon="16.107174" />
+</osm>

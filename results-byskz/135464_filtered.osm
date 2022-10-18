@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7319788001" lat="47.120382" lon="16.169766"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7554" /><tag k="addr:street" v="Eichenweg" /><tag k="addr:city" v="Rohr im Burgenland" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7391660001" lat="47.120439" lon="16.169373"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7554" /><tag k="addr:street" v="Eichenweg" /><tag k="addr:city" v="Rohr im Burgenland" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7543979000" lat="47.120519" lon="16.170104"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7554" /><tag k="addr:street" v="Eichenweg" /><tag k="addr:city" v="Rohr im Burgenland" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="47.120382" minlon="16.169373" maxlat="47.120519" maxlon="16.170104" />
+</osm>

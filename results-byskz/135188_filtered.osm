@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7658844000" lat="48.221269" lon="15.409761"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3382" /><tag k="addr:street" v="Am Maurerberg" /><tag k="addr:city" v="Dunkelsteinerwald" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7659496000" lat="48.22103" lon="15.409707"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3382" /><tag k="addr:street" v="Am Maurerberg" /><tag k="addr:city" v="Dunkelsteinerwald" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7659497000" lat="48.221045" lon="15.40971"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3382" /><tag k="addr:street" v="Am Maurerberg" /><tag k="addr:city" v="Dunkelsteinerwald" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7659498000" lat="48.221058" lon="15.409713"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3382" /><tag k="addr:street" v="Am Maurerberg" /><tag k="addr:city" v="Dunkelsteinerwald" /><tag k="addr:housenumber" v="9" /></node>
+<node id="-7662438000" lat="48.221366" lon="15.409654"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3382" /><tag k="addr:street" v="Am Maurerberg" /><tag k="addr:city" v="Dunkelsteinerwald" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="48.22103" minlon="15.409654" maxlat="48.221366" maxlon="15.409761" />
+</osm>

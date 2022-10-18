@@ -1,4 +1,5 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7635954000" lat="46.708698" lon="15.76439"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8480" /><tag k="addr:street" v="Helmtraut Frohnwieser-Weg" /><tag k="addr:city" v="Mureck" /><tag k="addr:housenumber" v="7" /></node>
-<bounds minlat="46.708698" minlon="15.76439" maxlat="46.708698" maxlon="15.76439" />
+<node id="-7635954001" lat="46.708669" lon="15.764466"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8480" /><tag k="addr:street" v="Helmtraut Frohnwieser-Weg" /><tag k="addr:city" v="Mureck" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7656785000" lat="46.708294" lon="15.764685"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8480" /><tag k="addr:street" v="Helmtraut Frohnwieser-Weg" /><tag k="addr:city" v="Mureck" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="46.708294" minlon="15.764466" maxlat="46.708669" maxlon="15.764685" />
 </osm>

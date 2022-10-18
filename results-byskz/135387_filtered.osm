@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7271014001" lat="47.957024" lon="13.306082"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="4894" /><tag k="addr:street" v="Sportplatzstra&#223;e" /><tag k="addr:city" v="Oberhofen am Irrsee" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7291795001" lat="47.959318" lon="13.305843"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="4894" /><tag k="addr:street" v="Sportplatzstra&#223;e" /><tag k="addr:city" v="Oberhofen am Irrsee" /><tag k="addr:housenumber" v="18" /></node>
+<node id="-7378004001" lat="47.95837" lon="13.306687"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="4894" /><tag k="addr:street" v="Sportplatzstra&#223;e" /><tag k="addr:city" v="Oberhofen am Irrsee" /><tag k="addr:housenumber" v="14" /></node>
+<node id="-7466515001" lat="47.957508" lon="13.308476"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="4894" /><tag k="addr:street" v="Sportplatzstra&#223;e" /><tag k="addr:city" v="Oberhofen am Irrsee" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7466516000" lat="47.956915" lon="13.306762"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="4894" /><tag k="addr:street" v="Sportplatzstra&#223;e" /><tag k="addr:city" v="Oberhofen am Irrsee" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7466517000" lat="47.957115" lon="13.3072"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="4894" /><tag k="addr:street" v="Sportplatzstra&#223;e" /><tag k="addr:city" v="Oberhofen am Irrsee" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="47.956915" minlon="13.305843" maxlat="47.959318" maxlon="13.308476" />
+</osm>

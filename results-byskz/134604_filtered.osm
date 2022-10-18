@@ -1,5 +1,5 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7641321001" lat="47.251392" lon="14.489305"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8762" /><tag k="addr:street" v="Erzgasse" /><tag k="addr:city" v="P&#246;lstal" /><tag k="addr:housenumber" v="1" /></node>
-<node id="-7641465000" lat="47.251177" lon="14.489236"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="8762" /><tag k="addr:street" v="Erzgasse" /><tag k="addr:city" v="P&#246;lstal" /><tag k="addr:housenumber" v="5" /></node>
-<bounds minlat="47.251177" minlon="14.489236" maxlat="47.251392" maxlon="14.489305" />
+<node id="-7641321001" lat="47.251392" lon="14.489305"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8762" /><tag k="addr:street" v="Erzgasse" /><tag k="addr:city" v="P&#246;lstal" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7641465001" lat="47.251119" lon="14.489339"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8762" /><tag k="addr:street" v="Erzgasse" /><tag k="addr:city" v="P&#246;lstal" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="47.251119" minlon="14.489305" maxlat="47.251392" maxlon="14.489339" />
 </osm>

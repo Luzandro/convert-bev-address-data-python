@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7662437000" lat="47.835997" lon="16.479396"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7051" /><tag k="addr:street" v="Osdorferweg" /><tag k="addr:city" v="Gro&#223;h&#246;flein" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7662439000" lat="47.836303" lon="16.479439"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7051" /><tag k="addr:street" v="Osdorferweg" /><tag k="addr:city" v="Gro&#223;h&#246;flein" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7662440000" lat="47.836576" lon="16.479417"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7051" /><tag k="addr:street" v="Osdorferweg" /><tag k="addr:city" v="Gro&#223;h&#246;flein" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7662441000" lat="47.836652" lon="16.479428"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7051" /><tag k="addr:street" v="Osdorferweg" /><tag k="addr:city" v="Gro&#223;h&#246;flein" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7662442000" lat="47.836702" lon="16.479412"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7051" /><tag k="addr:street" v="Osdorferweg" /><tag k="addr:city" v="Gro&#223;h&#246;flein" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="47.835997" minlon="16.479396" maxlat="47.836702" maxlon="16.479439" />
+</osm>

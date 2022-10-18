@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5183232001" lat="47.117694" lon="16.163914"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7554" /><tag k="addr:street" v="Florianiweg" /><tag k="addr:city" v="Rohr im Burgenland" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-5183336001" lat="47.117383" lon="16.162799"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7554" /><tag k="addr:street" v="Florianiweg" /><tag k="addr:city" v="Rohr im Burgenland" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-6995047001" lat="47.117393" lon="16.163334"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7554" /><tag k="addr:street" v="Florianiweg" /><tag k="addr:city" v="Rohr im Burgenland" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-6997152000" lat="47.117552" lon="16.16225"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7554" /><tag k="addr:street" v="Florianiweg" /><tag k="addr:city" v="Rohr im Burgenland" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7027824001" lat="47.118145" lon="16.163577"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7554" /><tag k="addr:street" v="Florianiweg" /><tag k="addr:city" v="Rohr im Burgenland" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7339848001" lat="47.11704" lon="16.161985"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7554" /><tag k="addr:street" v="Florianiweg" /><tag k="addr:city" v="Rohr im Burgenland" /><tag k="addr:housenumber" v="9" /></node>
+<bounds minlat="47.11704" minlon="16.161985" maxlat="47.118145" maxlon="16.163914" />
+</osm>

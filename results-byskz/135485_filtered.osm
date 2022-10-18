@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5183287001" lat="47.120401" lon="16.144198"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7554" /><tag k="addr:street" v="Waldh&#252;terweg" /><tag k="addr:city" v="Rohr im Burgenland" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-5183288001" lat="47.12158" lon="16.146282"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7554" /><tag k="addr:street" v="Waldh&#252;terweg" /><tag k="addr:city" v="Rohr im Burgenland" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="47.120401" minlon="16.144198" maxlat="47.12158" maxlon="16.146282" />
+</osm>

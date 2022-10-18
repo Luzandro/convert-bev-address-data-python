@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7653002000" lat="47.954537" lon="16.516026"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="2444" /><tag k="addr:street" v="Erlenweg" /><tag k="addr:city" v="Seibersdorf" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7653004000" lat="47.954402" lon="16.516299"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="2444" /><tag k="addr:street" v="Erlenweg" /><tag k="addr:city" v="Seibersdorf" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7653005000" lat="47.954736" lon="16.516158"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="2444" /><tag k="addr:street" v="Erlenweg" /><tag k="addr:city" v="Seibersdorf" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7653006000" lat="47.95455" lon="16.516528"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="2444" /><tag k="addr:street" v="Erlenweg" /><tag k="addr:city" v="Seibersdorf" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7653008000" lat="47.954982" lon="16.516368"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="2444" /><tag k="addr:street" v="Erlenweg" /><tag k="addr:city" v="Seibersdorf" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7653009000" lat="47.954834" lon="16.516633"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="2444" /><tag k="addr:street" v="Erlenweg" /><tag k="addr:city" v="Seibersdorf" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="47.954402" minlon="16.516026" maxlat="47.954982" maxlon="16.516633" />
+</osm>

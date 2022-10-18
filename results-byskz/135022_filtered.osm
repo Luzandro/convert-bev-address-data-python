@@ -1,6 +1,6 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7649945000" lat="48.164987" lon="14.72021"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3313" /><tag k="addr:street" v="R&#246;merweg" /><tag k="addr:city" v="Wallsee-Sindelburg" /><tag k="addr:housenumber" v="1" /></node>
-<node id="-7649946000" lat="48.164701" lon="14.720478"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3313" /><tag k="addr:street" v="R&#246;merweg" /><tag k="addr:city" v="Wallsee-Sindelburg" /><tag k="addr:housenumber" v="2" /></node>
-<node id="-7649947000" lat="48.164451" lon="14.720601"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-04-03" /><tag k="addr:postcode" v="3313" /><tag k="addr:street" v="R&#246;merweg" /><tag k="addr:city" v="Wallsee-Sindelburg" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7649945000" lat="48.164987" lon="14.72021"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3313" /><tag k="addr:street" v="R&#246;merweg" /><tag k="addr:city" v="Wallsee-Sindelburg" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7649946000" lat="48.164701" lon="14.720478"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3313" /><tag k="addr:street" v="R&#246;merweg" /><tag k="addr:city" v="Wallsee-Sindelburg" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7649947000" lat="48.164451" lon="14.720601"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3313" /><tag k="addr:street" v="R&#246;merweg" /><tag k="addr:city" v="Wallsee-Sindelburg" /><tag k="addr:housenumber" v="3" /></node>
 <bounds minlat="48.164451" minlon="14.72021" maxlat="48.164987" maxlon="14.720601" />
 </osm>

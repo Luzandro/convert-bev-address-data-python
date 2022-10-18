@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5182640001" lat="47.211262" lon="16.105853"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Am Fernblick" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7535468001" lat="47.212481" lon="16.104997"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Am Fernblick" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="47.211262" minlon="16.104997" maxlat="47.212481" maxlon="16.105853" />
+</osm>
