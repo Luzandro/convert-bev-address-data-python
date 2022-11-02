@@ -1,6 +1,6 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7157900000" lat="47.957241" lon="13.30573"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="4894" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Oberhofen am Irrsee" /><tag k="addr:housenumber" v="1" /></node>
-<node id="-7269391001" lat="47.959099" lon="13.305246"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="4894" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Oberhofen am Irrsee" /><tag k="addr:housenumber" v="5" /></node>
-<node id="-7269398001" lat="47.958543" lon="13.305704"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="4894" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Oberhofen am Irrsee" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7157900000" lat="47.957241" lon="13.30573"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="4894" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Oberhofen am Irrsee" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7269391001" lat="47.959099" lon="13.305246"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="4894" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Oberhofen am Irrsee" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7269398001" lat="47.958543" lon="13.305704"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="4894" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Oberhofen am Irrsee" /><tag k="addr:housenumber" v="4" /></node>
 <bounds minlat="47.957241" minlon="13.305246" maxlat="47.959099" maxlon="13.30573" />
 </osm>

@@ -1,4 +1,4 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7652727001" lat="48.217168" lon="15.22174"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3660" /><tag k="addr:street" v="Bienenparkweg" /><tag k="addr:city" v="Klein-P&#246;chlarn" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7652727001" lat="48.217168" lon="15.22174"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="3660" /><tag k="addr:street" v="Bienenparkweg" /><tag k="addr:city" v="Klein-P&#246;chlarn" /><tag k="addr:housenumber" v="2" /></node>
 <bounds minlat="48.216899" minlon="15.22174" maxlat="48.217168" maxlon="15.223269" />
 </osm>

@@ -1,5 +1,5 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-6452836001" lat="48.202901" lon="15.378767"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3382" /><tag k="addr:street" v="L&#228;rchenweg" /><tag k="addr:city" v="Schollach" /><tag k="addr:housenumber" v="5" /></node>
-<node id="-7653745000" lat="48.202763" lon="15.379424"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3382" /><tag k="addr:street" v="L&#228;rchenweg" /><tag k="addr:city" v="Schollach" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-6452836001" lat="48.202901" lon="15.378767"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="3382" /><tag k="addr:street" v="L&#228;rchenweg" /><tag k="addr:city" v="Schollach" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7653745000" lat="48.202763" lon="15.379424"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="3382" /><tag k="addr:street" v="L&#228;rchenweg" /><tag k="addr:city" v="Schollach" /><tag k="addr:housenumber" v="3" /></node>
 <bounds minlat="48.202763" minlon="15.378767" maxlat="48.202901" maxlon="15.379424" />
 </osm>

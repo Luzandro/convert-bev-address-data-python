@@ -1,5 +1,5 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-6770637001" lat="47.231244" lon="9.700821"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="6822" /><tag k="addr:street" v="Gartis G&#252;ll-Weg" /><tag k="addr:city" v="D&#252;ns" /><tag k="addr:housenumber" v="54" /></node>
-<node id="-6770638001" lat="47.231457" lon="9.700396"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="6822" /><tag k="addr:street" v="Gartis G&#252;ll-Weg" /><tag k="addr:city" v="D&#252;ns" /><tag k="addr:housenumber" v="55" /></node>
+<node id="-6770637001" lat="47.231244" lon="9.700821"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="6822" /><tag k="addr:street" v="Gartis G&#252;ll-Weg" /><tag k="addr:city" v="D&#252;ns" /><tag k="addr:housenumber" v="54" /></node>
+<node id="-6770638001" lat="47.231457" lon="9.700396"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="6822" /><tag k="addr:street" v="Gartis G&#252;ll-Weg" /><tag k="addr:city" v="D&#252;ns" /><tag k="addr:housenumber" v="55" /></node>
 <bounds minlat="47.231244" minlon="9.700396" maxlat="47.231457" maxlon="9.700821" />
 </osm>

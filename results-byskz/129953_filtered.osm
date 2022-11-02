@@ -1,5 +1,5 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7542893000" lat="47.247591" lon="12.719486"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="5710" /><tag k="addr:street" v="Astenweg" /><tag k="addr:city" v="Kaprun" /><tag k="addr:housenumber" v="20" /></node>
-<node id="-7626163000" lat="47.224274" lon="12.710091"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="5710" /><tag k="addr:street" v="Astenweg" /><tag k="addr:city" v="Kaprun" /><tag k="addr:housenumber" v="57" /></node>
+<node id="-7542893000" lat="47.247591" lon="12.719486"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="5710" /><tag k="addr:street" v="Astenweg" /><tag k="addr:city" v="Kaprun" /><tag k="addr:housenumber" v="20" /></node>
+<node id="-7626163000" lat="47.224274" lon="12.710091"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="5710" /><tag k="addr:street" v="Astenweg" /><tag k="addr:city" v="Kaprun" /><tag k="addr:housenumber" v="57" /></node>
 <bounds minlat="47.222983" minlon="12.704649" maxlat="47.247591" maxlon="12.719486" />
 </osm>

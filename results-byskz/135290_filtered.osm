@@ -1,5 +1,5 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-5895673001" lat="47.27857" lon="14.817668"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="M&#252;hlbacherweg" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="2" /></node>
-<node id="-5895674001" lat="47.27834" lon="14.81759"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="M&#252;hlbacherweg" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-5895673001" lat="47.27857" lon="14.817668"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="M&#252;hlbacherweg" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5895674001" lat="47.27834" lon="14.81759"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="M&#252;hlbacherweg" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="4" /></node>
 <bounds minlat="47.27834" minlon="14.81759" maxlat="47.27857" maxlon="14.817668" />
 </osm>

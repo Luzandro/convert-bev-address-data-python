@@ -1,7 +1,7 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-5895985001" lat="47.27114" lon="14.785342"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Gartenweg" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="6" /></node>
-<node id="-5895986001" lat="47.270703" lon="14.784635"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Gartenweg" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="2" /></node>
-<node id="-7615895000" lat="47.271276" lon="14.785354"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Gartenweg" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="3" /></node>
-<node id="-7615897000" lat="47.271089" lon="14.785168"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Gartenweg" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-5895985001" lat="47.27114" lon="14.785342"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Gartenweg" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-5895986001" lat="47.270703" lon="14.784635"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Gartenweg" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7615895000" lat="47.271276" lon="14.785354"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Gartenweg" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7615897000" lat="47.271089" lon="14.785168"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Gartenweg" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="4" /></node>
 <bounds minlat="47.270703" minlon="14.784635" maxlat="47.271276" maxlon="14.785354" />
 </osm>

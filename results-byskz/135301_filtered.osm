@@ -1,5 +1,5 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-5895959001" lat="47.269822" lon="14.775282"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Rainweg" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="2" /></node>
-<node id="-5895960001" lat="47.269617" lon="14.775562"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Rainweg" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5895959001" lat="47.269822" lon="14.775282"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Rainweg" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5895960001" lat="47.269617" lon="14.775562"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Rainweg" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="1" /></node>
 <bounds minlat="47.269617" minlon="14.775282" maxlat="47.269822" maxlon="14.775562" />
 </osm>

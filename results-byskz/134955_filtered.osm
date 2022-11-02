@@ -1,4 +1,4 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7649037000" lat="48.217902" lon="14.108171"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="4615" /><tag k="addr:street" v="Weberstra&#223;e" /><tag k="addr:city" v="Holzhausen" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7649037000" lat="48.217902" lon="14.108171"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="4615" /><tag k="addr:street" v="Weberstra&#223;e" /><tag k="addr:city" v="Holzhausen" /><tag k="addr:housenumber" v="1" /></node>
 <bounds minlat="48.217902" minlon="14.107351" maxlat="48.219183" maxlon="14.109151" />
 </osm>

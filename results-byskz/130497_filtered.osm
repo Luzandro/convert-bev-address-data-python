@@ -1,4 +1,4 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-5412527001" lat="47.702946" lon="14.461714"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="4581" /><tag k="addr:street" v="Am Hengstpa&#223;" /><tag k="addr:city" v="Rosenau am Hengstpa&#223;" /><tag k="addr:housenumber" v="12" /></node>
+<node id="-5412527001" lat="47.702946" lon="14.461714"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="4581" /><tag k="addr:street" v="Am Hengstpa&#223;" /><tag k="addr:city" v="Rosenau am Hengstpa&#223;" /><tag k="addr:housenumber" v="12" /></node>
 <bounds minlat="47.679762" minlon="14.415235" maxlat="47.726247" maxlon="14.480392" />
 </osm>

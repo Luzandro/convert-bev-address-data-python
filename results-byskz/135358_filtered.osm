@@ -1,5 +1,5 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-6718367001" lat="47.001466" lon="10.010431"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Feschaweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="38" /></node>
-<node id="-7616693001" lat="47.00173" lon="10.010567"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Feschaweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="38c" /></node>
+<node id="-6718367001" lat="47.001466" lon="10.010431"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Feschaweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="38" /></node>
+<node id="-7616693001" lat="47.00173" lon="10.010567"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Feschaweg" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="38c" /></node>
 <bounds minlat="47.001466" minlon="10.010431" maxlat="47.00173" maxlon="10.010567" />
 </osm>

@@ -1,6 +1,6 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-6997147001" lat="47.119067" lon="16.158241"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7554" /><tag k="addr:street" v="Sonnengasse" /><tag k="addr:city" v="Rohr im Burgenland" /><tag k="addr:housenumber" v="2" /></node>
-<node id="-6997148001" lat="47.118929" lon="16.157706"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7554" /><tag k="addr:street" v="Sonnengasse" /><tag k="addr:city" v="Rohr im Burgenland" /><tag k="addr:housenumber" v="4" /></node>
-<node id="-7467194001" lat="47.118817" lon="16.157107"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7554" /><tag k="addr:street" v="Sonnengasse" /><tag k="addr:city" v="Rohr im Burgenland" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-6997147001" lat="47.119067" lon="16.158241"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="7554" /><tag k="addr:street" v="Sonnengasse" /><tag k="addr:city" v="Rohr im Burgenland" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-6997148001" lat="47.118929" lon="16.157706"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="7554" /><tag k="addr:street" v="Sonnengasse" /><tag k="addr:city" v="Rohr im Burgenland" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7467194001" lat="47.118817" lon="16.157107"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="7554" /><tag k="addr:street" v="Sonnengasse" /><tag k="addr:city" v="Rohr im Burgenland" /><tag k="addr:housenumber" v="6" /></node>
 <bounds minlat="47.118817" minlon="16.157107" maxlat="47.119067" maxlon="16.158241" />
 </osm>

@@ -1,6 +1,6 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7652775000" lat="48.439843" lon="15.738687"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3485" /><tag k="addr:street" v="Nepomukgasse" /><tag k="addr:city" v="Grafenegg" /><tag k="addr:housenumber" v="1" /></node>
-<node id="-7652776000" lat="48.439928" lon="15.739396"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3485" /><tag k="addr:street" v="Nepomukgasse" /><tag k="addr:city" v="Grafenegg" /><tag k="addr:housenumber" v="2" /></node>
-<node id="-7652777000" lat="48.439964" lon="15.740613"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3485" /><tag k="addr:street" v="Nepomukgasse" /><tag k="addr:city" v="Grafenegg" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7652775000" lat="48.439843" lon="15.738687"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="3485" /><tag k="addr:street" v="Nepomukgasse" /><tag k="addr:city" v="Grafenegg" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7652776000" lat="48.439928" lon="15.739396"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="3485" /><tag k="addr:street" v="Nepomukgasse" /><tag k="addr:city" v="Grafenegg" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7652777000" lat="48.439964" lon="15.740613"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="3485" /><tag k="addr:street" v="Nepomukgasse" /><tag k="addr:city" v="Grafenegg" /><tag k="addr:housenumber" v="3" /></node>
 <bounds minlat="48.439843" minlon="15.738687" maxlat="48.439964" maxlon="15.740613" />
 </osm>

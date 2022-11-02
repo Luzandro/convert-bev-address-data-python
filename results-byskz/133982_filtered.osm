@@ -1,4 +1,4 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-6719032001" lat="47.011972" lon="9.981271"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Grandau" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="362" /></node>
+<node id="-6719032001" lat="47.011972" lon="9.981271"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Grandau" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="362" /></node>
 <bounds minlat="47.010646" minlon="9.979655" maxlat="47.01384" maxlon="9.988406" />
 </osm>

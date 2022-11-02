@@ -1,5 +1,5 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7655470000" lat="48.059577" lon="13.899033"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="4654" /><tag k="addr:street" v="Biberstra&#223;e" /><tag k="addr:city" v="Bad Wimsbach-Neydharting" /><tag k="addr:housenumber" v="2" /></node>
-<node id="-7655473000" lat="48.059588" lon="13.899057"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="4654" /><tag k="addr:street" v="Biberstra&#223;e" /><tag k="addr:city" v="Bad Wimsbach-Neydharting" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7655470000" lat="48.059577" lon="13.899033"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="4654" /><tag k="addr:street" v="Biberstra&#223;e" /><tag k="addr:city" v="Bad Wimsbach-Neydharting" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7655473000" lat="48.059588" lon="13.899057"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="4654" /><tag k="addr:street" v="Biberstra&#223;e" /><tag k="addr:city" v="Bad Wimsbach-Neydharting" /><tag k="addr:housenumber" v="4" /></node>
 <bounds minlat="48.059577" minlon="13.899033" maxlat="48.059588" maxlon="13.899057" />
 </osm>

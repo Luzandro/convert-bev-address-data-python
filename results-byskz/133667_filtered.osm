@@ -1,6 +1,6 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7043109000" lat="47.348752" lon="9.978663"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="6882" /><tag k="addr:street" v="Gieblen" /><tag k="addr:city" v="Schnepfau" /><tag k="addr:housenumber" v="111" /></node>
-<node id="-7615401000" lat="47.350076" lon="9.972503"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="6882" /><tag k="addr:street" v="Gieblen" /><tag k="addr:city" v="Schnepfau" /><tag k="addr:housenumber" v="103" /></node>
-<node id="-7615404000" lat="47.349812" lon="9.972335"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="6882" /><tag k="addr:street" v="Gieblen" /><tag k="addr:city" v="Schnepfau" /><tag k="addr:housenumber" v="105" /></node>
+<node id="-7043109000" lat="47.348752" lon="9.978663"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="6882" /><tag k="addr:street" v="Gieblen" /><tag k="addr:city" v="Schnepfau" /><tag k="addr:housenumber" v="111" /></node>
+<node id="-7615401000" lat="47.350076" lon="9.972503"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="6882" /><tag k="addr:street" v="Gieblen" /><tag k="addr:city" v="Schnepfau" /><tag k="addr:housenumber" v="103" /></node>
+<node id="-7615404000" lat="47.349812" lon="9.972335"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="6882" /><tag k="addr:street" v="Gieblen" /><tag k="addr:city" v="Schnepfau" /><tag k="addr:housenumber" v="105" /></node>
 <bounds minlat="47.348752" minlon="9.972335" maxlat="47.350076" maxlon="9.978663" />
 </osm>

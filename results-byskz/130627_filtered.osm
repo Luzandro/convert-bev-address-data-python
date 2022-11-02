@@ -1,5 +1,5 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7552117000" lat="47.810544" lon="13.042268"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="5020" /><tag k="addr:street" v="Auslands&#246;sterreicher" /><tag k="addr:city" v="Salzburg" /><tag k="addr:housenumber" v="1" /></node>
-<node id="-7552249000" lat="47.810565" lon="13.042311"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="5020" /><tag k="addr:street" v="Auslands&#246;sterreicher" /><tag k="addr:city" v="Salzburg" /><tag k="addr:housenumber" v="1A" /></node>
+<node id="-7552117000" lat="47.810544" lon="13.042268"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="5020" /><tag k="addr:street" v="Auslands&#246;sterreicher" /><tag k="addr:city" v="Salzburg" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7552249000" lat="47.810565" lon="13.042311"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="5020" /><tag k="addr:street" v="Auslands&#246;sterreicher" /><tag k="addr:city" v="Salzburg" /><tag k="addr:housenumber" v="1A" /></node>
 <bounds minlat="47.810544" minlon="13.042268" maxlat="47.810565" maxlon="13.042311" />
 </osm>

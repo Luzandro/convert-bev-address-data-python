@@ -1,6 +1,6 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7652132000" lat="48.087755" lon="13.901785"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="4650" /><tag k="addr:street" v="Kropfingerstra&#223;e" /><tag k="addr:city" v="Edt bei Lambach" /><tag k="addr:housenumber" v="19" /></node>
-<node id="-7652140000" lat="48.08763" lon="13.902045"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="4650" /><tag k="addr:street" v="Kropfingerstra&#223;e" /><tag k="addr:city" v="Edt bei Lambach" /><tag k="addr:housenumber" v="21" /></node>
-<node id="-7657865000" lat="48.087489" lon="13.902355"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="4650" /><tag k="addr:street" v="Kropfingerstra&#223;e" /><tag k="addr:city" v="Edt bei Lambach" /><tag k="addr:housenumber" v="23" /></node>
+<node id="-7652132000" lat="48.087755" lon="13.901785"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="4650" /><tag k="addr:street" v="Kropfingerstra&#223;e" /><tag k="addr:city" v="Edt bei Lambach" /><tag k="addr:housenumber" v="19" /></node>
+<node id="-7652140000" lat="48.08763" lon="13.902045"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="4650" /><tag k="addr:street" v="Kropfingerstra&#223;e" /><tag k="addr:city" v="Edt bei Lambach" /><tag k="addr:housenumber" v="21" /></node>
+<node id="-7657865000" lat="48.087489" lon="13.902355"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="4650" /><tag k="addr:street" v="Kropfingerstra&#223;e" /><tag k="addr:city" v="Edt bei Lambach" /><tag k="addr:housenumber" v="23" /></node>
 <bounds minlat="48.087489" minlon="13.901785" maxlat="48.087755" maxlon="13.902355" />
 </osm>

@@ -1,6 +1,6 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7656383000" lat="48.311862" lon="16.088346"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3430" /><tag k="addr:street" v="Walnussweg" /><tag k="addr:city" v="Tulln an der Donau" /><tag k="addr:housenumber" v="1" /></node>
-<node id="-7656384000" lat="48.311827" lon="16.088104"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3430" /><tag k="addr:street" v="Walnussweg" /><tag k="addr:city" v="Tulln an der Donau" /><tag k="addr:housenumber" v="3" /></node>
-<node id="-7656385000" lat="48.311691" lon="16.087981"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3430" /><tag k="addr:street" v="Walnussweg" /><tag k="addr:city" v="Tulln an der Donau" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7656383000" lat="48.311862" lon="16.088346"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="3430" /><tag k="addr:street" v="Walnussweg" /><tag k="addr:city" v="Tulln an der Donau" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7656384000" lat="48.311827" lon="16.088104"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="3430" /><tag k="addr:street" v="Walnussweg" /><tag k="addr:city" v="Tulln an der Donau" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7656385000" lat="48.311691" lon="16.087981"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="3430" /><tag k="addr:street" v="Walnussweg" /><tag k="addr:city" v="Tulln an der Donau" /><tag k="addr:housenumber" v="5" /></node>
 <bounds minlat="48.311691" minlon="16.087981" maxlat="48.311862" maxlon="16.088346" />
 </osm>

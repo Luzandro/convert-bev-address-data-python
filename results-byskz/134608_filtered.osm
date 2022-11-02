@@ -1,5 +1,5 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7641370000" lat="47.926169" lon="16.221541"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="2544" /><tag k="addr:street" v="Bienenweg" /><tag k="addr:city" v="Leobersdorf" /><tag k="addr:housenumber" v="3" /></node>
-<node id="-7641371000" lat="47.925655" lon="16.22196"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="2544" /><tag k="addr:street" v="Bienenweg" /><tag k="addr:city" v="Leobersdorf" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7641370000" lat="47.926169" lon="16.221541"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="2544" /><tag k="addr:street" v="Bienenweg" /><tag k="addr:city" v="Leobersdorf" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7641371000" lat="47.925655" lon="16.22196"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="2544" /><tag k="addr:street" v="Bienenweg" /><tag k="addr:city" v="Leobersdorf" /><tag k="addr:housenumber" v="1" /></node>
 <bounds minlat="47.925655" minlon="16.221541" maxlat="47.926169" maxlon="16.22196" />
 </osm>

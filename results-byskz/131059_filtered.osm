@@ -1,5 +1,5 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7565726000" lat="48.297281" lon="15.985334"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3451" /><tag k="addr:street" v="Stierpark" /><tag k="addr:city" v="Michelhausen" /><tag k="addr:housenumber" v="3" /></node>
-<node id="-7619214000" lat="48.297033" lon="15.985383"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3451" /><tag k="addr:street" v="Stierpark" /><tag k="addr:city" v="Michelhausen" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7565726000" lat="48.297281" lon="15.985334"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="3451" /><tag k="addr:street" v="Stierpark" /><tag k="addr:city" v="Michelhausen" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7619214000" lat="48.297033" lon="15.985383"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="3451" /><tag k="addr:street" v="Stierpark" /><tag k="addr:city" v="Michelhausen" /><tag k="addr:housenumber" v="2" /></node>
 <bounds minlat="48.297033" minlon="15.985334" maxlat="48.297281" maxlon="15.985574" />
 </osm>

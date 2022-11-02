@@ -1,5 +1,5 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7212046001" lat="47.222411" lon="16.097476"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Hubertusweg" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="5" /></node>
-<node id="-7633504000" lat="47.222036" lon="16.093138"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Hubertusweg" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="13" /></node>
+<node id="-7212046001" lat="47.222411" lon="16.097476"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Hubertusweg" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7633504000" lat="47.222036" lon="16.093138"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Hubertusweg" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="13" /></node>
 <bounds minlat="47.222036" minlon="16.093138" maxlat="47.222411" maxlon="16.097476" />
 </osm>

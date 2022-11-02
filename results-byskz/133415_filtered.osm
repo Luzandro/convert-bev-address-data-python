@@ -1,6 +1,6 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7609970000" lat="48.042257" lon="16.291438"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="2352" /><tag k="addr:street" v="Rieslingweg" /><tag k="addr:city" v="Gumpoldskirchen" /><tag k="addr:housenumber" v="8" /></node>
-<node id="-7609990000" lat="48.042165" lon="16.291704"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="2352" /><tag k="addr:street" v="Rieslingweg" /><tag k="addr:city" v="Gumpoldskirchen" /><tag k="addr:housenumber" v="14" /></node>
-<node id="-7610000000" lat="48.041941" lon="16.292005"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="2352" /><tag k="addr:street" v="Rieslingweg" /><tag k="addr:city" v="Gumpoldskirchen" /><tag k="addr:housenumber" v="22" /></node>
+<node id="-7609970000" lat="48.042257" lon="16.291438"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="2352" /><tag k="addr:street" v="Rieslingweg" /><tag k="addr:city" v="Gumpoldskirchen" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7609990000" lat="48.042165" lon="16.291704"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="2352" /><tag k="addr:street" v="Rieslingweg" /><tag k="addr:city" v="Gumpoldskirchen" /><tag k="addr:housenumber" v="14" /></node>
+<node id="-7610000000" lat="48.041941" lon="16.292005"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="2352" /><tag k="addr:street" v="Rieslingweg" /><tag k="addr:city" v="Gumpoldskirchen" /><tag k="addr:housenumber" v="22" /></node>
 <bounds minlat="48.041634" minlon="16.290965" maxlat="48.042602" maxlon="16.292567" />
 </osm>

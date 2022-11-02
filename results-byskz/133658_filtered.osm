@@ -1,5 +1,5 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-6747630001" lat="47.35022" lon="9.90453"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="6882" /><tag k="addr:street" v="Gschwend" /><tag k="addr:city" v="Schnepfau" /><tag k="addr:housenumber" v="30" /></node>
-<node id="-6747637001" lat="47.349807" lon="9.903634"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="6882" /><tag k="addr:street" v="Gschwend" /><tag k="addr:city" v="Schnepfau" /><tag k="addr:housenumber" v="40" /></node>
+<node id="-6747630001" lat="47.35022" lon="9.90453"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="6882" /><tag k="addr:street" v="Gschwend" /><tag k="addr:city" v="Schnepfau" /><tag k="addr:housenumber" v="30" /></node>
+<node id="-6747637001" lat="47.349807" lon="9.903634"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="6882" /><tag k="addr:street" v="Gschwend" /><tag k="addr:city" v="Schnepfau" /><tag k="addr:housenumber" v="40" /></node>
 <bounds minlat="47.349807" minlon="9.903634" maxlat="47.35022" maxlon="9.90453" />
 </osm>

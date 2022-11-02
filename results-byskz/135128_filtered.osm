@@ -1,5 +1,5 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-5182534001" lat="47.22349" lon="16.090954"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Hofgraben" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="1" /></node>
-<node id="-5182614001" lat="47.223255" lon="16.08976"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Hofgraben" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-5182534001" lat="47.22349" lon="16.090954"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Hofgraben" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5182614001" lat="47.223255" lon="16.08976"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Hofgraben" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="5" /></node>
 <bounds minlat="47.223255" minlon="16.08976" maxlat="47.22349" maxlon="16.090954" />
 </osm>

@@ -1,6 +1,6 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-5183221001" lat="47.120537" lon="16.16401"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7554" /><tag k="addr:street" v="Friedhofgasse" /><tag k="addr:city" v="Rohr im Burgenland" /><tag k="addr:housenumber" v="2" /></node>
-<node id="-5183223001" lat="47.12062" lon="16.164375"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7554" /><tag k="addr:street" v="Friedhofgasse" /><tag k="addr:city" v="Rohr im Burgenland" /><tag k="addr:housenumber" v="3" /></node>
-<node id="-5183224001" lat="47.12092" lon="16.162797"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7554" /><tag k="addr:street" v="Friedhofgasse" /><tag k="addr:city" v="Rohr im Burgenland" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5183221001" lat="47.120537" lon="16.16401"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="7554" /><tag k="addr:street" v="Friedhofgasse" /><tag k="addr:city" v="Rohr im Burgenland" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5183223001" lat="47.12062" lon="16.164375"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="7554" /><tag k="addr:street" v="Friedhofgasse" /><tag k="addr:city" v="Rohr im Burgenland" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-5183224001" lat="47.12092" lon="16.162797"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="7554" /><tag k="addr:street" v="Friedhofgasse" /><tag k="addr:city" v="Rohr im Burgenland" /><tag k="addr:housenumber" v="1" /></node>
 <bounds minlat="47.120537" minlon="16.162797" maxlat="47.12092" maxlon="16.164375" />
 </osm>

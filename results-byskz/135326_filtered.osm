@@ -1,5 +1,5 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-6984839001" lat="47.284758" lon="14.787995"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Sonnenwiese" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="2" /></node>
-<node id="-7631323000" lat="47.284996" lon="14.787548"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Sonnenwiese" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-6984839001" lat="47.284758" lon="14.787995"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Sonnenwiese" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7631323000" lat="47.284996" lon="14.787548"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Sonnenwiese" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="1" /></node>
 <bounds minlat="47.284758" minlon="14.787548" maxlat="47.284996" maxlon="14.787995" />
 </osm>

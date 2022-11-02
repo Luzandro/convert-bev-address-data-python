@@ -1,5 +1,5 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-5895999001" lat="47.286549" lon="14.7917"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Am Teich" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="1" /></node>
-<node id="-5896000001" lat="47.287324" lon="14.791719"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Am Teich" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5895999001" lat="47.286549" lon="14.7917"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Am Teich" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5896000001" lat="47.287324" lon="14.791719"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Am Teich" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="2" /></node>
 <bounds minlat="47.286549" minlon="14.7917" maxlat="47.287324" maxlon="14.791719" />
 </osm>

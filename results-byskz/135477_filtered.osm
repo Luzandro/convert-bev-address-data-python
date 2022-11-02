@@ -1,5 +1,5 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-5183345001" lat="47.113896" lon="16.162011"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7554" /><tag k="addr:street" v="Obere Leiten" /><tag k="addr:city" v="Rohr im Burgenland" /><tag k="addr:housenumber" v="4" /></node>
-<node id="-7027825000" lat="47.114101" lon="16.161171"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7554" /><tag k="addr:street" v="Obere Leiten" /><tag k="addr:city" v="Rohr im Burgenland" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5183345001" lat="47.113896" lon="16.162011"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="7554" /><tag k="addr:street" v="Obere Leiten" /><tag k="addr:city" v="Rohr im Burgenland" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7027825000" lat="47.114101" lon="16.161171"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="7554" /><tag k="addr:street" v="Obere Leiten" /><tag k="addr:city" v="Rohr im Burgenland" /><tag k="addr:housenumber" v="2" /></node>
 <bounds minlat="47.113896" minlon="16.161171" maxlat="47.114101" maxlon="16.162011" />
 </osm>

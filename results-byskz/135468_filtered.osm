@@ -1,6 +1,6 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-5183303001" lat="47.135056" lon="16.162478"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7554" /><tag k="addr:street" v="Grenzweg" /><tag k="addr:city" v="Rohr im Burgenland" /><tag k="addr:housenumber" v="5" /></node>
-<node id="-5183331001" lat="47.135125" lon="16.161999"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7554" /><tag k="addr:street" v="Grenzweg" /><tag k="addr:city" v="Rohr im Burgenland" /><tag k="addr:housenumber" v="7" /></node>
-<node id="-7456152001" lat="47.134854" lon="16.163036"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7554" /><tag k="addr:street" v="Grenzweg" /><tag k="addr:city" v="Rohr im Burgenland" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5183303001" lat="47.135056" lon="16.162478"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="7554" /><tag k="addr:street" v="Grenzweg" /><tag k="addr:city" v="Rohr im Burgenland" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-5183331001" lat="47.135125" lon="16.161999"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="7554" /><tag k="addr:street" v="Grenzweg" /><tag k="addr:city" v="Rohr im Burgenland" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7456152001" lat="47.134854" lon="16.163036"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="7554" /><tag k="addr:street" v="Grenzweg" /><tag k="addr:city" v="Rohr im Burgenland" /><tag k="addr:housenumber" v="1" /></node>
 <bounds minlat="47.134854" minlon="16.161999" maxlat="47.135125" maxlon="16.163036" />
 </osm>

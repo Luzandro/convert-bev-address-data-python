@@ -1,5 +1,5 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-5895809001" lat="47.265528" lon="14.784818"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Kristallweg" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="1" /></node>
-<node id="-7131992001" lat="47.265528" lon="14.784818"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Kristallweg" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5895809001" lat="47.265528" lon="14.784818"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Kristallweg" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7131992001" lat="47.265528" lon="14.784818"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Kristallweg" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="2" /></node>
 <bounds minlat="47.265528" minlon="14.784818" maxlat="47.265528" maxlon="14.784818" />
 </osm>

@@ -1,6 +1,6 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7641530001" lat="47.217448" lon="10.811528"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="6426" /><tag k="addr:street" v="Harland" /><tag k="addr:city" v="Roppen" /><tag k="addr:housenumber" v="2" /></node>
-<node id="-7641531001" lat="47.217491" lon="10.811341"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="6426" /><tag k="addr:street" v="Harland" /><tag k="addr:city" v="Roppen" /><tag k="addr:housenumber" v="4" /></node>
-<node id="-7643697001" lat="47.217506" lon="10.81114"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="6426" /><tag k="addr:street" v="Harland" /><tag k="addr:city" v="Roppen" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7641530001" lat="47.217448" lon="10.811528"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="6426" /><tag k="addr:street" v="Harland" /><tag k="addr:city" v="Roppen" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7641531001" lat="47.217491" lon="10.811341"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="6426" /><tag k="addr:street" v="Harland" /><tag k="addr:city" v="Roppen" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7643697001" lat="47.217506" lon="10.81114"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="6426" /><tag k="addr:street" v="Harland" /><tag k="addr:city" v="Roppen" /><tag k="addr:housenumber" v="6" /></node>
 <bounds minlat="47.217448" minlon="10.81114" maxlat="47.217506" maxlon="10.811528" />
 </osm>

@@ -1,5 +1,5 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-5182490001" lat="47.221599" lon="16.097971"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Kirchengasse" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="3" /></node>
-<node id="-7590626000" lat="47.22174" lon="16.097999"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Kirchengasse" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5182490001" lat="47.221599" lon="16.097971"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Kirchengasse" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7590626000" lat="47.22174" lon="16.097999"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Kirchengasse" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="2" /></node>
 <bounds minlat="47.221599" minlon="16.097971" maxlat="47.22174" maxlon="16.097999" />
 </osm>

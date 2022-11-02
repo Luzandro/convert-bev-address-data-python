@@ -1,6 +1,6 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7607407000" lat="48.041686" lon="16.292878"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="2352" /><tag k="addr:street" v="Burgunderweg" /><tag k="addr:city" v="Gumpoldskirchen" /><tag k="addr:housenumber" v="2" /></node>
-<node id="-7609916000" lat="48.042786" lon="16.29158"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="2352" /><tag k="addr:street" v="Burgunderweg" /><tag k="addr:city" v="Gumpoldskirchen" /><tag k="addr:housenumber" v="10" /></node>
-<node id="-7609932000" lat="48.042192" lon="16.292627"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="2352" /><tag k="addr:street" v="Burgunderweg" /><tag k="addr:city" v="Gumpoldskirchen" /><tag k="addr:housenumber" v="24" /></node>
+<node id="-7607407000" lat="48.041686" lon="16.292878"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="2352" /><tag k="addr:street" v="Burgunderweg" /><tag k="addr:city" v="Gumpoldskirchen" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7609916000" lat="48.042786" lon="16.29158"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="2352" /><tag k="addr:street" v="Burgunderweg" /><tag k="addr:city" v="Gumpoldskirchen" /><tag k="addr:housenumber" v="10" /></node>
+<node id="-7609932000" lat="48.042192" lon="16.292627"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="2352" /><tag k="addr:street" v="Burgunderweg" /><tag k="addr:city" v="Gumpoldskirchen" /><tag k="addr:housenumber" v="24" /></node>
 <bounds minlat="48.041686" minlon="16.291355" maxlat="48.043007" maxlon="16.292923" />
 </osm>

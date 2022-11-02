@@ -1,5 +1,5 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-5182468001" lat="47.2275" lon="16.097774"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Kurze Gasse" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="4" /></node>
-<node id="-5182469001" lat="47.227481" lon="16.098467"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Kurze Gasse" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5182468001" lat="47.2275" lon="16.097774"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Kurze Gasse" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-5182469001" lat="47.227481" lon="16.098467"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Kurze Gasse" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="2" /></node>
 <bounds minlat="47.227481" minlon="16.097774" maxlat="47.2275" maxlon="16.098467" />
 </osm>

@@ -1,6 +1,6 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-5895988000" lat="47.278093" lon="14.797291"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Brunnbauerweg" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="1" /></node>
-<node id="-5895989001" lat="47.278291" lon="14.79679"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Brunnbauerweg" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="2" /></node>
-<node id="-7020544001" lat="47.27851" lon="14.796023"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Brunnbauerweg" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-5895988000" lat="47.278093" lon="14.797291"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Brunnbauerweg" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5895989001" lat="47.278291" lon="14.79679"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Brunnbauerweg" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7020544001" lat="47.27851" lon="14.796023"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Brunnbauerweg" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="3" /></node>
 <bounds minlat="47.278093" minlon="14.796023" maxlat="47.27851" maxlon="14.797291" />
 </osm>

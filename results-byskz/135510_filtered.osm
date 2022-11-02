@@ -1,5 +1,5 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7388911000" lat="48.478002" lon="13.573442"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="4792" /><tag k="addr:street" v="Fichtenweg" /><tag k="addr:city" v="M&#252;nzkirchen" /><tag k="addr:housenumber" v="4" /></node>
-<node id="-7601608001" lat="48.478096" lon="13.573238"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="4792" /><tag k="addr:street" v="Fichtenweg" /><tag k="addr:city" v="M&#252;nzkirchen" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7388911000" lat="48.478002" lon="13.573442"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="4792" /><tag k="addr:street" v="Fichtenweg" /><tag k="addr:city" v="M&#252;nzkirchen" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7601608001" lat="48.478096" lon="13.573238"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="4792" /><tag k="addr:street" v="Fichtenweg" /><tag k="addr:city" v="M&#252;nzkirchen" /><tag k="addr:housenumber" v="2" /></node>
 <bounds minlat="48.478002" minlon="13.573238" maxlat="48.478096" maxlon="13.573442" />
 </osm>

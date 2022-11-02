@@ -1,5 +1,5 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-5182514001" lat="47.214256" lon="16.104232"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Unterbergen" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="13" /></node>
-<node id="-5182589001" lat="47.213561" lon="16.104984"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Unterbergen" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="11" /></node>
+<node id="-5182514001" lat="47.214256" lon="16.104232"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Unterbergen" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="13" /></node>
+<node id="-5182589001" lat="47.213561" lon="16.104984"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Unterbergen" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="11" /></node>
 <bounds minlat="47.213561" minlon="16.104232" maxlat="47.214256" maxlon="16.104984" />
 </osm>

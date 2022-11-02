@@ -1,5 +1,5 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7513517001" lat="47.279083" lon="14.817436"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Edelwei&#223;weg" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="4" /></node>
-<node id="-7514191001" lat="47.278851" lon="14.817559"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Edelwei&#223;weg" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7513517001" lat="47.279083" lon="14.817436"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Edelwei&#223;weg" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7514191001" lat="47.278851" lon="14.817559"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="8732" /><tag k="addr:street" v="Edelwei&#223;weg" /><tag k="addr:city" v="Seckau" /><tag k="addr:housenumber" v="3" /></node>
 <bounds minlat="47.278851" minlon="14.817436" maxlat="47.279083" maxlon="14.817559" />
 </osm>

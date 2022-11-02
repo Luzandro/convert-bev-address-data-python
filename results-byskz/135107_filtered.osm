@@ -1,6 +1,6 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-6599637001" lat="48.300744" lon="16.160942"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3433" /><tag k="addr:street" v="Schillerweg" /><tag k="addr:city" v="K&#246;nigstetten" /><tag k="addr:housenumber" v="3" /></node>
-<node id="-7662698000" lat="48.30079" lon="16.161514"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3433" /><tag k="addr:street" v="Schillerweg" /><tag k="addr:city" v="K&#246;nigstetten" /><tag k="addr:housenumber" v="1" /></node>
-<node id="-7662699000" lat="48.300671" lon="16.16068"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3433" /><tag k="addr:street" v="Schillerweg" /><tag k="addr:city" v="K&#246;nigstetten" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-6599637001" lat="48.300744" lon="16.160942"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="3433" /><tag k="addr:street" v="Schillerweg" /><tag k="addr:city" v="K&#246;nigstetten" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7662698000" lat="48.30079" lon="16.161514"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="3433" /><tag k="addr:street" v="Schillerweg" /><tag k="addr:city" v="K&#246;nigstetten" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7662699000" lat="48.300671" lon="16.16068"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="3433" /><tag k="addr:street" v="Schillerweg" /><tag k="addr:city" v="K&#246;nigstetten" /><tag k="addr:housenumber" v="5" /></node>
 <bounds minlat="48.300671" minlon="16.16068" maxlat="48.30079" maxlon="16.161514" />
 </osm>

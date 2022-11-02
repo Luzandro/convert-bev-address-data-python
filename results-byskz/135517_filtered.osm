@@ -1,5 +1,5 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7661608001" lat="48.278356" lon="13.166154"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="4962" /><tag k="addr:street" v="Ahornweg" /><tag k="addr:city" v="Mining" /><tag k="addr:housenumber" v="2" /></node>
-<node id="-7661804001" lat="48.27826" lon="13.165682"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="4962" /><tag k="addr:street" v="Ahornweg" /><tag k="addr:city" v="Mining" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7661608001" lat="48.278356" lon="13.166154"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="4962" /><tag k="addr:street" v="Ahornweg" /><tag k="addr:city" v="Mining" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7661804001" lat="48.27826" lon="13.165682"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="4962" /><tag k="addr:street" v="Ahornweg" /><tag k="addr:city" v="Mining" /><tag k="addr:housenumber" v="1" /></node>
 <bounds minlat="48.27826" minlon="13.165682" maxlat="48.278356" maxlon="13.166154" />
 </osm>

@@ -1,4 +1,4 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-6126936001" lat="46.62947" lon="13.687155"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="9530" /><tag k="addr:street" v="Erzbergweg" /><tag k="addr:city" v="Bad Bleiberg" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-6126936001" lat="46.62947" lon="13.687155"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="9530" /><tag k="addr:street" v="Erzbergweg" /><tag k="addr:city" v="Bad Bleiberg" /><tag k="addr:housenumber" v="1" /></node>
 <bounds minlat="46.62947" minlon="13.687155" maxlat="46.62947" maxlon="13.687155" />
 </osm>

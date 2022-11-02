@@ -1,5 +1,5 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-5182599001" lat="47.217945" lon="16.102486"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Brunnengasse" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="1" /></node>
-<node id="-5182625001" lat="47.217477" lon="16.103115"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Brunnengasse" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-5182599001" lat="47.217945" lon="16.102486"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Brunnengasse" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5182625001" lat="47.217477" lon="16.103115"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="7550" /><tag k="addr:street" v="Brunnengasse" /><tag k="addr:city" v="W&#246;rterberg" /><tag k="addr:housenumber" v="4" /></node>
 <bounds minlat="47.217477" minlon="16.102486" maxlat="47.217945" maxlon="16.103115" />
 </osm>

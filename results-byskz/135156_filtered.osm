@@ -1,5 +1,5 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7654881000" lat="48.208623" lon="15.161504"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3375" /><tag k="addr:street" v="Marktplatz" /><tag k="addr:city" v="Krummnu&#223;baum" /><tag k="addr:housenumber" v="1" /></node>
-<node id="-7654882000" lat="48.208585" lon="15.162155"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-02" /><tag k="addr:postcode" v="3375" /><tag k="addr:street" v="Marktplatz" /><tag k="addr:city" v="Krummnu&#223;baum" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7654881000" lat="48.208623" lon="15.161504"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="3375" /><tag k="addr:street" v="Marktplatz" /><tag k="addr:city" v="Krummnu&#223;baum" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7654882000" lat="48.208585" lon="15.162155"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2022-10-01" /><tag k="addr:postcode" v="3375" /><tag k="addr:street" v="Marktplatz" /><tag k="addr:city" v="Krummnu&#223;baum" /><tag k="addr:housenumber" v="2" /></node>
 <bounds minlat="48.208585" minlon="15.161504" maxlat="48.208623" maxlon="15.162155" />
 </osm>
