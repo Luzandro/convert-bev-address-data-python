@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7667281001" lat="47.281367" lon="11.506549"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="6060" /><tag k="addr:street" v="Franz-Reinisch-Platz" /><tag k="addr:city" v="Hall in Tirol" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7667282001" lat="47.281331" lon="11.506757"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="6060" /><tag k="addr:street" v="Franz-Reinisch-Platz" /><tag k="addr:city" v="Hall in Tirol" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7667283001" lat="47.28131" lon="11.506881"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="6060" /><tag k="addr:street" v="Franz-Reinisch-Platz" /><tag k="addr:city" v="Hall in Tirol" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7667284001" lat="47.281276" lon="11.507065"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="6060" /><tag k="addr:street" v="Franz-Reinisch-Platz" /><tag k="addr:city" v="Hall in Tirol" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="47.281276" minlon="11.506549" maxlat="47.281367" maxlon="11.507065" />
+</osm>

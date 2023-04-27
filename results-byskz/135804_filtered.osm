@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7588411000" lat="47.867365" lon="16.394075"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2491" /><tag k="addr:street" v="Seesiedlung XV. Stra&#223;e" /><tag k="addr:city" v="Neufeld an der Leitha" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7588412001" lat="47.867074" lon="16.394037"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2491" /><tag k="addr:street" v="Seesiedlung XV. Stra&#223;e" /><tag k="addr:city" v="Neufeld an der Leitha" /><tag k="addr:housenumber" v="9" /></node>
+<node id="-7588413000" lat="47.866834" lon="16.394101"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2491" /><tag k="addr:street" v="Seesiedlung XV. Stra&#223;e" /><tag k="addr:city" v="Neufeld an der Leitha" /><tag k="addr:housenumber" v="10" /></node>
+<node id="-7588417000" lat="47.866205" lon="16.393382"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2491" /><tag k="addr:street" v="Seesiedlung XV. Stra&#223;e" /><tag k="addr:city" v="Neufeld an der Leitha" /><tag k="addr:housenumber" v="14" /></node>
+<bounds minlat="47.866205" minlon="16.393382" maxlat="47.867365" maxlon="16.394101" />
+</osm>

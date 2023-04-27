@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5860427001" lat="47.432203" lon="16.061646"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="8240" /><tag k="addr:street" v="Falkenweg" /><tag k="addr:city" v="Friedberg" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5860448001" lat="47.431629" lon="16.061509"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="8240" /><tag k="addr:street" v="Falkenweg" /><tag k="addr:city" v="Friedberg" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-5860449001" lat="47.43117" lon="16.061434"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="8240" /><tag k="addr:street" v="Falkenweg" /><tag k="addr:city" v="Friedberg" /><tag k="addr:housenumber" v="7" /></node>
+<bounds minlat="47.43117" minlon="16.061434" maxlat="47.432203" maxlon="16.061646" />
+</osm>

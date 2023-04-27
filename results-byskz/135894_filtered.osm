@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7672755000" lat="48.502202" lon="16.228438"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2002" /><tag k="addr:street" v="F&#252;rstenweg" /><tag k="addr:city" v="Gro&#223;mugl" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7672756000" lat="48.502073" lon="16.228609"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2002" /><tag k="addr:street" v="F&#252;rstenweg" /><tag k="addr:city" v="Gro&#223;mugl" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7672761000" lat="48.501935" lon="16.228794"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2002" /><tag k="addr:street" v="F&#252;rstenweg" /><tag k="addr:city" v="Gro&#223;mugl" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7672763000" lat="48.502226" lon="16.22855"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2002" /><tag k="addr:street" v="F&#252;rstenweg" /><tag k="addr:city" v="Gro&#223;mugl" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7672764000" lat="48.502008" lon="16.229083"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2002" /><tag k="addr:street" v="F&#252;rstenweg" /><tag k="addr:city" v="Gro&#223;mugl" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7672765000" lat="48.502107" lon="16.229304"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2002" /><tag k="addr:street" v="F&#252;rstenweg" /><tag k="addr:city" v="Gro&#223;mugl" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="48.501935" minlon="16.228438" maxlat="48.502226" maxlon="16.229304" />
+</osm>

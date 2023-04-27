@@ -1,0 +1,10 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7663723000" lat="47.587379" lon="16.264998"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2812" /><tag k="addr:street" v="Dirndlgasse" /><tag k="addr:city" v="Hollenthon" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7663730000" lat="47.587367" lon="16.26522"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2812" /><tag k="addr:street" v="Dirndlgasse" /><tag k="addr:city" v="Hollenthon" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7663731000" lat="47.587349" lon="16.265559"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2812" /><tag k="addr:street" v="Dirndlgasse" /><tag k="addr:city" v="Hollenthon" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7663732000" lat="47.587332" lon="16.265898"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2812" /><tag k="addr:street" v="Dirndlgasse" /><tag k="addr:city" v="Hollenthon" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7663733000" lat="47.587135" lon="16.266397"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2812" /><tag k="addr:street" v="Dirndlgasse" /><tag k="addr:city" v="Hollenthon" /><tag k="addr:housenumber" v="10" /></node>
+<node id="-7663734000" lat="47.587313" lon="16.266851"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2812" /><tag k="addr:street" v="Dirndlgasse" /><tag k="addr:city" v="Hollenthon" /><tag k="addr:housenumber" v="12" /></node>
+<node id="-7663735000" lat="47.587327" lon="16.267471"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2812" /><tag k="addr:street" v="Dirndlgasse" /><tag k="addr:city" v="Hollenthon" /><tag k="addr:housenumber" v="14" /></node>
+<bounds minlat="47.587135" minlon="16.264998" maxlat="47.587379" maxlon="16.267471" />
+</osm>

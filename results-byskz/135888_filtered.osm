@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5120219001" lat="46.831961" lon="12.814028"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="9990" /><tag k="addr:street" v="Prof. Jos Pirkner-Platz" /><tag k="addr:city" v="Nu&#223;dorf-Debant" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5120220001" lat="46.831995" lon="12.814511"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="9990" /><tag k="addr:street" v="Prof. Jos Pirkner-Platz" /><tag k="addr:city" v="Nu&#223;dorf-Debant" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5120229001" lat="46.831588" lon="12.813522"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="9990" /><tag k="addr:street" v="Prof. Jos Pirkner-Platz" /><tag k="addr:city" v="Nu&#223;dorf-Debant" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="46.831588" minlon="12.813522" maxlat="46.831995" maxlon="12.814511" />
+</osm>

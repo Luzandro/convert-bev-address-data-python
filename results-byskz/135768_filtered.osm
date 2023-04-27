@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5415987001" lat="47.719208" lon="14.190845"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4574" /><tag k="addr:street" v="Untertamberg" /><tag k="addr:city" v="Vorderstoder" /><tag k="addr:housenumber" v="28" /></node>
+<node id="-7667213001" lat="47.726542" lon="14.194239"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4574" /><tag k="addr:street" v="Untertamberg" /><tag k="addr:city" v="Vorderstoder" /><tag k="addr:housenumber" v="52" /></node>
+<bounds minlat="47.711587" minlon="14.188233" maxlat="47.729217" maxlon="14.219559" />
+</osm>

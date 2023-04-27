@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7667661000" lat="48.291638" lon="16.470986"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2201" /><tag k="addr:street" v="Hermine Czaak Gasse" /><tag k="addr:city" v="Gerasdorf bei Wien" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7667664000" lat="48.291682" lon="16.471201"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2201" /><tag k="addr:street" v="Hermine Czaak Gasse" /><tag k="addr:city" v="Gerasdorf bei Wien" /><tag k="addr:housenumber" v="2-4" /></node>
+<node id="-7667665000" lat="48.291542" lon="16.471739"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2201" /><tag k="addr:street" v="Hermine Czaak Gasse" /><tag k="addr:city" v="Gerasdorf bei Wien" /><tag k="addr:housenumber" v="6-8" /></node>
+<node id="-7667666000" lat="48.291493" lon="16.471536"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2201" /><tag k="addr:street" v="Hermine Czaak Gasse" /><tag k="addr:city" v="Gerasdorf bei Wien" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7667667000" lat="48.291413" lon="16.471847"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2201" /><tag k="addr:street" v="Hermine Czaak Gasse" /><tag k="addr:city" v="Gerasdorf bei Wien" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="48.291413" minlon="16.470986" maxlat="48.291682" maxlon="16.471847" />
+</osm>

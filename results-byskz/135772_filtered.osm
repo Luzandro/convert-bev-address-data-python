@@ -1,0 +1,4 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7156143001" lat="47.716196" lon="14.219186"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4574" /><tag k="addr:street" v="Bucheben" /><tag k="addr:city" v="Vorderstoder" /><tag k="addr:housenumber" v="14" /></node>
+<bounds minlat="47.711741" minlon="14.215538" maxlat="47.716196" maxlon="14.225559" />
+</osm>

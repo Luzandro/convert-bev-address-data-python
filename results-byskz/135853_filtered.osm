@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7623031000" lat="47.747835" lon="15.353757"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="8630" /><tag k="addr:street" v="Gstettnersiedlung" /><tag k="addr:city" v="Mariazell" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7670425000" lat="47.748081" lon="15.353212"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="8630" /><tag k="addr:street" v="Gstettnersiedlung" /><tag k="addr:city" v="Mariazell" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7670427000" lat="47.748048" lon="15.353482"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="8630" /><tag k="addr:street" v="Gstettnersiedlung" /><tag k="addr:city" v="Mariazell" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="47.747835" minlon="15.353212" maxlat="47.748081" maxlon="15.353757" />
+</osm>

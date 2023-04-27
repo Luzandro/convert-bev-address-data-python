@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7668244001" lat="48.474803" lon="13.444648"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4780" /><tag k="addr:street" v="Scharingerweg" /><tag k="addr:city" v="Sch&#228;rding" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7668247001" lat="48.474924" lon="13.444707"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4780" /><tag k="addr:street" v="Scharingerweg" /><tag k="addr:city" v="Sch&#228;rding" /><tag k="addr:housenumber" v="8" /></node>
+<bounds minlat="48.474803" minlon="13.444648" maxlat="48.474924" maxlon="13.444707" />
+</osm>

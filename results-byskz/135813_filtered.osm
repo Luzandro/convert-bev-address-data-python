@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7668483000" lat="48.166196" lon="15.891325"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="3033" /><tag k="addr:street" v="Buchengasse" /><tag k="addr:city" v="Altlengbach" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7669019000" lat="48.165948" lon="15.891671"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="3033" /><tag k="addr:street" v="Buchengasse" /><tag k="addr:city" v="Altlengbach" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7669024000" lat="48.16577" lon="15.89192"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="3033" /><tag k="addr:street" v="Buchengasse" /><tag k="addr:city" v="Altlengbach" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7669388000" lat="48.166546" lon="15.890836"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="3033" /><tag k="addr:street" v="Buchengasse" /><tag k="addr:city" v="Altlengbach" /><tag k="addr:housenumber" v="10" /></node>
+<bounds minlat="48.16577" minlon="15.890836" maxlat="48.166546" maxlon="15.89192" />
+</osm>

@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7665186000" lat="47.358504" lon="12.797747"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5751" /><tag k="addr:street" v="Dillingweg" /><tag k="addr:city" v="Maishofen" /><tag k="addr:housenumber" v="17" /></node>
+<node id="-7665187001" lat="47.358472" lon="12.797994"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5751" /><tag k="addr:street" v="Dillingweg" /><tag k="addr:city" v="Maishofen" /><tag k="addr:housenumber" v="15" /></node>
+<bounds minlat="47.358472" minlon="12.797747" maxlat="47.358504" maxlon="12.797994" />
+</osm>

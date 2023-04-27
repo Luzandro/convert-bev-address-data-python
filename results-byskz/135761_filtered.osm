@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7598835001" lat="48.190134" lon="13.650491"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4680" /><tag k="addr:street" v="An der Umfahrungsstra&#223;e" /><tag k="addr:city" v="Haag am Hausruck" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7662796000" lat="48.190487" lon="13.649545"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4680" /><tag k="addr:street" v="An der Umfahrungsstra&#223;e" /><tag k="addr:city" v="Haag am Hausruck" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="48.190134" minlon="13.649545" maxlat="48.190487" maxlon="13.650491" />
+</osm>

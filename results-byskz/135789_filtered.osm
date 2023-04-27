@@ -1,0 +1,10 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7644089001" lat="48.251949" lon="13.092907"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4963" /><tag k="addr:street" v="Sonnenweg" /><tag k="addr:city" v="St. Peter am Hart" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7648003000" lat="48.251827" lon="13.091588"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4963" /><tag k="addr:street" v="Sonnenweg" /><tag k="addr:city" v="St. Peter am Hart" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7648017001" lat="48.252133" lon="13.092424"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4963" /><tag k="addr:street" v="Sonnenweg" /><tag k="addr:city" v="St. Peter am Hart" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7648024001" lat="48.251652" lon="13.091208"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4963" /><tag k="addr:street" v="Sonnenweg" /><tag k="addr:city" v="St. Peter am Hart" /><tag k="addr:housenumber" v="10" /></node>
+<node id="-7653278000" lat="48.251861" lon="13.092271"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4963" /><tag k="addr:street" v="Sonnenweg" /><tag k="addr:city" v="St. Peter am Hart" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7653578000" lat="48.251837" lon="13.092115"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4963" /><tag k="addr:street" v="Sonnenweg" /><tag k="addr:city" v="St. Peter am Hart" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7654203000" lat="48.252056" lon="13.093033"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4963" /><tag k="addr:street" v="Sonnenweg" /><tag k="addr:city" v="St. Peter am Hart" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="48.251652" minlon="13.091208" maxlat="48.252133" maxlon="13.093033" />
+</osm>

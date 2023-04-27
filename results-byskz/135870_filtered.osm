@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7670796000" lat="47.91921" lon="16.852967"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="7121" /><tag k="addr:street" v="Seepark-Feriendorf" /><tag k="addr:city" v="Weiden am See" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7670797000" lat="47.919385" lon="16.853246"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="7121" /><tag k="addr:street" v="Seepark-Feriendorf" /><tag k="addr:city" v="Weiden am See" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7670798000" lat="47.919756" lon="16.854075"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="7121" /><tag k="addr:street" v="Seepark-Feriendorf" /><tag k="addr:city" v="Weiden am See" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="47.91921" minlon="16.852967" maxlat="47.919756" maxlon="16.854075" />
+</osm>

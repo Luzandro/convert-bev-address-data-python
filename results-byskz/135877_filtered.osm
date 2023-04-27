@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7671132000" lat="47.454433" lon="16.197424"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2852" /><tag k="addr:street" v="Fernblick" /><tag k="addr:city" v="Hochneukirchen-Gschaidt" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7671133000" lat="47.454623" lon="16.197245"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2852" /><tag k="addr:street" v="Fernblick" /><tag k="addr:city" v="Hochneukirchen-Gschaidt" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7671134000" lat="47.454804" lon="16.197063"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2852" /><tag k="addr:street" v="Fernblick" /><tag k="addr:city" v="Hochneukirchen-Gschaidt" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7671135000" lat="47.45494" lon="16.197164"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2852" /><tag k="addr:street" v="Fernblick" /><tag k="addr:city" v="Hochneukirchen-Gschaidt" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7671136000" lat="47.454931" lon="16.196994"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2852" /><tag k="addr:street" v="Fernblick" /><tag k="addr:city" v="Hochneukirchen-Gschaidt" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7671137000" lat="47.454902" lon="16.19695"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2852" /><tag k="addr:street" v="Fernblick" /><tag k="addr:city" v="Hochneukirchen-Gschaidt" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="47.454433" minlon="16.19695" maxlat="47.45494" maxlon="16.197424" />
+</osm>

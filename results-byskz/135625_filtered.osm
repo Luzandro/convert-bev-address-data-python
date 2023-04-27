@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7663542000" lat="48.048954" lon="15.020172"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="3262" /><tag k="addr:street" v="S&#252;dhang" /><tag k="addr:city" v="Wang" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7663543000" lat="48.049202" lon="15.020145"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="3262" /><tag k="addr:street" v="S&#252;dhang" /><tag k="addr:city" v="Wang" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7663544000" lat="48.048563" lon="15.020435"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="3262" /><tag k="addr:street" v="S&#252;dhang" /><tag k="addr:city" v="Wang" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7663545000" lat="48.048739" lon="15.020328"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="3262" /><tag k="addr:street" v="S&#252;dhang" /><tag k="addr:city" v="Wang" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7663546000" lat="48.048764" lon="15.019603"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="3262" /><tag k="addr:street" v="S&#252;dhang" /><tag k="addr:city" v="Wang" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7663547000" lat="48.049058" lon="15.019426"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="3262" /><tag k="addr:street" v="S&#252;dhang" /><tag k="addr:city" v="Wang" /><tag k="addr:housenumber" v="7" /></node>
+<bounds minlat="48.048563" minlon="15.019426" maxlat="48.049202" maxlon="15.020435" />
+</osm>

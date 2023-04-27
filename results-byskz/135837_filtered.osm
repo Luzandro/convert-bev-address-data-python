@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7669729000" lat="47.423703" lon="16.518196"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="7444" /><tag k="addr:street" v="Goldbergweg" /><tag k="addr:city" v="Mannersdorf an der Rabnitz" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7669730000" lat="47.423866" lon="16.51801"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="7444" /><tag k="addr:street" v="Goldbergweg" /><tag k="addr:city" v="Mannersdorf an der Rabnitz" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="47.423703" minlon="16.51801" maxlat="47.423866" maxlon="16.518196" />
+</osm>

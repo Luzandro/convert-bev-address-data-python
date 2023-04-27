@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7665838000" lat="47.959738" lon="16.304076"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2523" /><tag k="addr:street" v="Zur Triestingau" /><tag k="addr:city" v="Tattendorf" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7665839000" lat="47.959781" lon="16.304333"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2523" /><tag k="addr:street" v="Zur Triestingau" /><tag k="addr:city" v="Tattendorf" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7665840000" lat="47.959813" lon="16.304559"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2523" /><tag k="addr:street" v="Zur Triestingau" /><tag k="addr:city" v="Tattendorf" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7665841000" lat="47.959842" lon="16.304779"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2523" /><tag k="addr:street" v="Zur Triestingau" /><tag k="addr:city" v="Tattendorf" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7665843000" lat="47.959885" lon="16.305025"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2523" /><tag k="addr:street" v="Zur Triestingau" /><tag k="addr:city" v="Tattendorf" /><tag k="addr:housenumber" v="10" /></node>
+<node id="-7665844000" lat="47.95991" lon="16.30524"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2523" /><tag k="addr:street" v="Zur Triestingau" /><tag k="addr:city" v="Tattendorf" /><tag k="addr:housenumber" v="12" /></node>
+<bounds minlat="47.959738" minlon="16.304076" maxlat="47.95991" maxlon="16.30524" />
+</osm>

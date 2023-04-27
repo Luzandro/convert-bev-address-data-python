@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7664109001" lat="47.388111" lon="13.473865"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5550" /><tag k="addr:street" v="Mauerleiten" /><tag k="addr:city" v="Radstadt" /><tag k="addr:housenumber" v="16" /></node>
+<node id="-7664110000" lat="47.388557" lon="13.473733"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5550" /><tag k="addr:street" v="Mauerleiten" /><tag k="addr:city" v="Radstadt" /><tag k="addr:housenumber" v="13" /></node>
+<node id="-7664135000" lat="47.38871" lon="13.474414"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5550" /><tag k="addr:street" v="Mauerleiten" /><tag k="addr:city" v="Radstadt" /><tag k="addr:housenumber" v="15" /></node>
+<node id="-7666889000" lat="47.388168" lon="13.473436"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5550" /><tag k="addr:street" v="Mauerleiten" /><tag k="addr:city" v="Radstadt" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="47.388111" minlon="13.473436" maxlat="47.38871" maxlon="13.474414" />
+</osm>

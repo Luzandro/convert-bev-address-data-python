@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7672541000" lat="48.725089" lon="16.392607"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2136" /><tag k="addr:street" v="Am Siegli&#223;graben" /><tag k="addr:city" v="Laa an der Thaya" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7672542000" lat="48.725061" lon="16.392924"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2136" /><tag k="addr:street" v="Am Siegli&#223;graben" /><tag k="addr:city" v="Laa an der Thaya" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7672543000" lat="48.725022" lon="16.393176"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2136" /><tag k="addr:street" v="Am Siegli&#223;graben" /><tag k="addr:city" v="Laa an der Thaya" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7672546000" lat="48.724806" lon="16.392634"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2136" /><tag k="addr:street" v="Am Siegli&#223;graben" /><tag k="addr:city" v="Laa an der Thaya" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7672547000" lat="48.724417" lon="16.392768"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2136" /><tag k="addr:street" v="Am Siegli&#223;graben" /><tag k="addr:city" v="Laa an der Thaya" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7672549000" lat="48.724152" lon="16.392881"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2136" /><tag k="addr:street" v="Am Siegli&#223;graben" /><tag k="addr:city" v="Laa an der Thaya" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="48.724152" minlon="16.392607" maxlat="48.725089" maxlon="16.393176" />
+</osm>

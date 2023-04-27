@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7668428000" lat="48.098211" lon="13.15222"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5230" /><tag k="addr:street" v="Trattmannspark" /><tag k="addr:city" v="Mattighofen" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7668431000" lat="48.098497" lon="13.152166"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5230" /><tag k="addr:street" v="Trattmannspark" /><tag k="addr:city" v="Mattighofen" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7668432000" lat="48.09882" lon="13.151973"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5230" /><tag k="addr:street" v="Trattmannspark" /><tag k="addr:city" v="Mattighofen" /><tag k="addr:housenumber" v="10" /></node>
+<node id="-7668433000" lat="48.098082" lon="13.151635"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5230" /><tag k="addr:street" v="Trattmannspark" /><tag k="addr:city" v="Mattighofen" /><tag k="addr:housenumber" v="12" /></node>
+<node id="-7668434000" lat="48.0984" lon="13.151533"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5230" /><tag k="addr:street" v="Trattmannspark" /><tag k="addr:city" v="Mattighofen" /><tag k="addr:housenumber" v="14" /></node>
+<node id="-7668435000" lat="48.098712" lon="13.151399"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5230" /><tag k="addr:street" v="Trattmannspark" /><tag k="addr:city" v="Mattighofen" /><tag k="addr:housenumber" v="16" /></node>
+<bounds minlat="48.098082" minlon="13.151399" maxlat="48.09882" maxlon="13.15222" />
+</osm>

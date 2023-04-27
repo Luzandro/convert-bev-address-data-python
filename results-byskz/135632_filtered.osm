@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7663929000" lat="47.554544" lon="14.152672"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="8942" /><tag k="addr:street" v="Tausingsiedlung" /><tag k="addr:city" v="W&#246;rschach" /><tag k="addr:housenumber" v="383" /></node>
+<node id="-7663934000" lat="47.554324" lon="14.152811"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="8942" /><tag k="addr:street" v="Tausingsiedlung" /><tag k="addr:city" v="W&#246;rschach" /><tag k="addr:housenumber" v="382" /></node>
+<bounds minlat="47.554324" minlon="14.152672" maxlat="47.554544" maxlon="14.152811" />
+</osm>

@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5415774000" lat="47.694821" lon="14.239404"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4574" /><tag k="addr:street" v="Hoheneck" /><tag k="addr:city" v="Vorderstoder" /><tag k="addr:housenumber" v="35" /></node>
+<node id="-5415790001" lat="47.695496" lon="14.246752"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4574" /><tag k="addr:street" v="Hoheneck" /><tag k="addr:city" v="Vorderstoder" /><tag k="addr:housenumber" v="34" /></node>
+<bounds minlat="47.694821" minlon="14.235714" maxlat="47.721839" maxlon="14.260068" />
+</osm>

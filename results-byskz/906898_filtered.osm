@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7666975000" lat="48.210328" lon="16.419248"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="1020" /><tag k="addr:street" v="Josefine-Lauterbach-Platz" /><tag k="addr:suburb" v="Leopoldstadt" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7667001000" lat="48.210736" lon="16.419052"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="1020" /><tag k="addr:street" v="Josefine-Lauterbach-Platz" /><tag k="addr:suburb" v="Leopoldstadt" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7667002000" lat="48.210094" lon="16.419314"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="1020" /><tag k="addr:street" v="Josefine-Lauterbach-Platz" /><tag k="addr:suburb" v="Leopoldstadt" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="48.210094" minlon="16.419052" maxlat="48.210736" maxlon="16.419314" />
+</osm>

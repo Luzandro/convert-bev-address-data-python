@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7664513000" lat="47.399718" lon="11.768176"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="6200" /><tag k="addr:street" v="Rofnerfeld" /><tag k="addr:city" v="Jenbach" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7664529000" lat="47.400205" lon="11.767881"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="6200" /><tag k="addr:street" v="Rofnerfeld" /><tag k="addr:city" v="Jenbach" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="47.399718" minlon="11.767881" maxlat="47.400205" maxlon="11.768176" />
+</osm>

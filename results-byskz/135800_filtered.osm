@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7667691000" lat="48.29053" lon="16.47271"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2201" /><tag k="addr:street" v="Dr. Otto Leberl Gasse" /><tag k="addr:city" v="Gerasdorf bei Wien" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7667692000" lat="48.290707" lon="16.472752"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2201" /><tag k="addr:street" v="Dr. Otto Leberl Gasse" /><tag k="addr:city" v="Gerasdorf bei Wien" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7667693000" lat="48.290512" lon="16.47282"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2201" /><tag k="addr:street" v="Dr. Otto Leberl Gasse" /><tag k="addr:city" v="Gerasdorf bei Wien" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7667694000" lat="48.290716" lon="16.472863"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2201" /><tag k="addr:street" v="Dr. Otto Leberl Gasse" /><tag k="addr:city" v="Gerasdorf bei Wien" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="48.290512" minlon="16.47271" maxlat="48.290716" maxlon="16.472863" />
+</osm>

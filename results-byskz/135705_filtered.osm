@@ -1,0 +1,10 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5681840001" lat="47.430225" lon="13.563528"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5532" /><tag k="addr:street" v="Zefererweg" /><tag k="addr:city" v="Filzmoos" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-5681850001" lat="47.430165" lon="13.562876"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5532" /><tag k="addr:street" v="Zefererweg" /><tag k="addr:city" v="Filzmoos" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-5681896001" lat="47.430523" lon="13.563279"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5532" /><tag k="addr:street" v="Zefererweg" /><tag k="addr:city" v="Filzmoos" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-5681897001" lat="47.431033" lon="13.564441"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5532" /><tag k="addr:street" v="Zefererweg" /><tag k="addr:city" v="Filzmoos" /><tag k="addr:housenumber" v="13" /></node>
+<node id="-6998678001" lat="47.43072" lon="13.564589"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5532" /><tag k="addr:street" v="Zefererweg" /><tag k="addr:city" v="Filzmoos" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7341926001" lat="47.429816" lon="13.562199"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5532" /><tag k="addr:street" v="Zefererweg" /><tag k="addr:city" v="Filzmoos" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7664398001" lat="47.429977" lon="13.562584"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5532" /><tag k="addr:street" v="Zefererweg" /><tag k="addr:city" v="Filzmoos" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="47.429816" minlon="13.562199" maxlat="47.431033" maxlon="13.564589" />
+</osm>

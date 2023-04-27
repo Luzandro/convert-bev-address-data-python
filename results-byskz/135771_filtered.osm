@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5415800000" lat="47.713789" lon="14.228705"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4574" /><tag k="addr:street" v="Dorf" /><tag k="addr:city" v="Vorderstoder" /><tag k="addr:housenumber" v="89" /></node>
+<node id="-5415942002" lat="47.712055" lon="14.221573"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4574" /><tag k="addr:street" v="Dorf" /><tag k="addr:city" v="Vorderstoder" /><tag k="addr:housenumber" v="197" /></node>
+<node id="-7406765000" lat="47.713494" lon="14.224873"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4574" /><tag k="addr:street" v="Dorf" /><tag k="addr:city" v="Vorderstoder" /><tag k="addr:housenumber" v="141" /></node>
+<node id="-7550656000" lat="47.717265" lon="14.229954"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4574" /><tag k="addr:street" v="Dorf" /><tag k="addr:city" v="Vorderstoder" /><tag k="addr:housenumber" v="37" /></node>
+<node id="-7606791001" lat="47.713981" lon="14.226572"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4574" /><tag k="addr:street" v="Dorf" /><tag k="addr:city" v="Vorderstoder" /><tag k="addr:housenumber" v="137" /></node>
+<node id="-7611507001" lat="47.717265" lon="14.229034"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4574" /><tag k="addr:street" v="Dorf" /><tag k="addr:city" v="Vorderstoder" /><tag k="addr:housenumber" v="45" /></node>
+<bounds minlat="47.710182" minlon="14.215977" maxlat="47.717265" maxlon="14.232828" />
+</osm>

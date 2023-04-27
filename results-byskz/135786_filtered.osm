@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7667154000" lat="48.203334" lon="13.960856"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4631" /><tag k="addr:street" v="Nadernberger Stra&#223;e" /><tag k="addr:city" v="Krenglbach" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7667180000" lat="48.203385" lon="13.960495"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4631" /><tag k="addr:street" v="Nadernberger Stra&#223;e" /><tag k="addr:city" v="Krenglbach" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="48.203334" minlon="13.960495" maxlat="48.203385" maxlon="13.960856" />
+</osm>

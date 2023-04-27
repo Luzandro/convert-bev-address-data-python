@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5694095001" lat="47.147607" lon="13.749844"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5571" /><tag k="addr:street" v="Weinmesser-Weg" /><tag k="addr:city" v="Mariapfarr" /><tag k="addr:housenumber" v="25" /></node>
+<node id="-5694110001" lat="47.148084" lon="13.750585"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5571" /><tag k="addr:street" v="Weinmesser-Weg" /><tag k="addr:city" v="Mariapfarr" /><tag k="addr:housenumber" v="306" /></node>
+<node id="-7653064000" lat="47.147529" lon="13.750803"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5571" /><tag k="addr:street" v="Weinmesser-Weg" /><tag k="addr:city" v="Mariapfarr" /><tag k="addr:housenumber" v="659" /></node>
+<node id="-7669925000" lat="47.14761" lon="13.750167"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5571" /><tag k="addr:street" v="Weinmesser-Weg" /><tag k="addr:city" v="Mariapfarr" /><tag k="addr:housenumber" v="666" /></node>
+<bounds minlat="47.147529" minlon="13.749844" maxlat="47.148084" maxlon="13.750803" />
+</osm>

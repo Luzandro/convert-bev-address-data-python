@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7663985000" lat="48.22906" lon="16.820744"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2291" /><tag k="addr:street" v="Zimmereiweg" /><tag k="addr:city" v="Lassee" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7663986000" lat="48.229052" lon="16.820899"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2291" /><tag k="addr:street" v="Zimmereiweg" /><tag k="addr:city" v="Lassee" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7663987000" lat="48.22919" lon="16.820913"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2291" /><tag k="addr:street" v="Zimmereiweg" /><tag k="addr:city" v="Lassee" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7663988000" lat="48.229115" lon="16.82101"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2291" /><tag k="addr:street" v="Zimmereiweg" /><tag k="addr:city" v="Lassee" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="48.229052" minlon="16.820744" maxlat="48.22919" maxlon="16.82101" />
+</osm>

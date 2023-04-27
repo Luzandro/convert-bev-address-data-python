@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7670269000" lat="48.219884" lon="14.240921"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4050" /><tag k="addr:street" v="Graumannpark" /><tag k="addr:city" v="Traun" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7670274000" lat="48.219329" lon="14.24081"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4050" /><tag k="addr:street" v="Graumannpark" /><tag k="addr:city" v="Traun" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7670275000" lat="48.219333" lon="14.24085"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4050" /><tag k="addr:street" v="Graumannpark" /><tag k="addr:city" v="Traun" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="48.219329" minlon="14.240615" maxlat="48.220367" maxlon="14.241814" />
+</osm>

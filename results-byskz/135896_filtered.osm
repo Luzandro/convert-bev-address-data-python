@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7672387000" lat="48.199797" lon="14.514838"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4300" /><tag k="addr:street" v="Westpark" /><tag k="addr:city" v="St. Valentin" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7672414000" lat="48.199343" lon="14.514211"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4300" /><tag k="addr:street" v="Westpark" /><tag k="addr:city" v="St. Valentin" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="48.199343" minlon="14.514211" maxlat="48.199797" maxlon="14.514838" />
+</osm>

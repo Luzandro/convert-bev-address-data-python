@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7672504000" lat="48.646099" lon="15.864767"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="3730" /><tag k="addr:street" v="Betriebsstra&#223;e" /><tag k="addr:city" v="Eggenburg" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7672505000" lat="48.645791" lon="15.864741"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="3730" /><tag k="addr:street" v="Betriebsstra&#223;e" /><tag k="addr:city" v="Eggenburg" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="48.645791" minlon="15.864741" maxlat="48.646099" maxlon="15.864767" />
+</osm>

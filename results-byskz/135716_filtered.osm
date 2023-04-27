@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7664265000" lat="47.978658" lon="16.398286"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2483" /><tag k="addr:street" v="Spinnereistra&#223;e" /><tag k="addr:city" v="Ebreichsdorf" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7664266000" lat="47.978691" lon="16.399348"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2483" /><tag k="addr:street" v="Spinnereistra&#223;e" /><tag k="addr:city" v="Ebreichsdorf" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7664267000" lat="47.97835" lon="16.399455"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2483" /><tag k="addr:street" v="Spinnereistra&#223;e" /><tag k="addr:city" v="Ebreichsdorf" /><tag k="addr:housenumber" v="6a" /></node>
+<node id="-7664268000" lat="47.977818" lon="16.399702"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2483" /><tag k="addr:street" v="Spinnereistra&#223;e" /><tag k="addr:city" v="Ebreichsdorf" /><tag k="addr:housenumber" v="6b" /></node>
+<node id="-7664269000" lat="47.977484" lon="16.400056"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2483" /><tag k="addr:street" v="Spinnereistra&#223;e" /><tag k="addr:city" v="Ebreichsdorf" /><tag k="addr:housenumber" v="6c" /></node>
+<node id="-7670515000" lat="47.978698" lon="16.3971"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2483" /><tag k="addr:street" v="Spinnereistra&#223;e" /><tag k="addr:city" v="Ebreichsdorf" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="47.977484" minlon="16.3971" maxlat="47.978698" maxlon="16.400056" />
+</osm>

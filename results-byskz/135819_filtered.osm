@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7668835000" lat="47.000623" lon="16.224122"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="7561" /><tag k="addr:street" v="Kastanienweg" /><tag k="addr:city" v="Heiligenkreuz im Lafnitztal" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7668839000" lat="47.000697" lon="16.224728"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="7561" /><tag k="addr:street" v="Kastanienweg" /><tag k="addr:city" v="Heiligenkreuz im Lafnitztal" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7668840000" lat="47.000254" lon="16.224551"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="7561" /><tag k="addr:street" v="Kastanienweg" /><tag k="addr:city" v="Heiligenkreuz im Lafnitztal" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7668841000" lat="46.999972" lon="16.223811"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="7561" /><tag k="addr:street" v="Kastanienweg" /><tag k="addr:city" v="Heiligenkreuz im Lafnitztal" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7668842000" lat="46.99995" lon="16.224106"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="7561" /><tag k="addr:street" v="Kastanienweg" /><tag k="addr:city" v="Heiligenkreuz im Lafnitztal" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="46.99995" minlon="16.223811" maxlat="47.000697" maxlon="16.224728" />
+</osm>

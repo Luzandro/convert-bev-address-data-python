@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7671049000" lat="48.226854" lon="16.154726"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="3003" /><tag k="addr:street" v="Am Kloster" /><tag k="addr:city" v="Gablitz" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7671050000" lat="48.227069" lon="16.153284"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="3003" /><tag k="addr:street" v="Am Kloster" /><tag k="addr:city" v="Gablitz" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7671051000" lat="48.226576" lon="16.153032"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="3003" /><tag k="addr:street" v="Am Kloster" /><tag k="addr:city" v="Gablitz" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7671054000" lat="48.226596" lon="16.153826"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="3003" /><tag k="addr:street" v="Am Kloster" /><tag k="addr:city" v="Gablitz" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="48.226576" minlon="16.153032" maxlat="48.227069" maxlon="16.154726" />
+</osm>

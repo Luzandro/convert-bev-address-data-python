@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5860406001" lat="47.436981" lon="16.058984"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="8240" /><tag k="addr:street" v="An der Bahnbr&#252;cke" /><tag k="addr:city" v="Friedberg" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5860409001" lat="47.437184" lon="16.058692"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="8240" /><tag k="addr:street" v="An der Bahnbr&#252;cke" /><tag k="addr:city" v="Friedberg" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5860410001" lat="47.437384" lon="16.059333"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="8240" /><tag k="addr:street" v="An der Bahnbr&#252;cke" /><tag k="addr:city" v="Friedberg" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-5860411001" lat="47.43729" lon="16.058907"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="8240" /><tag k="addr:street" v="An der Bahnbr&#252;cke" /><tag k="addr:city" v="Friedberg" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="47.436981" minlon="16.058692" maxlat="47.437384" maxlon="16.059333" />
+</osm>

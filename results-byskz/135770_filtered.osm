@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5416019001" lat="47.721249" lon="14.227225"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4574" /><tag k="addr:street" v="Tamberg" /><tag k="addr:city" v="Vorderstoder" /><tag k="addr:housenumber" v="30" /></node>
+<node id="-5416023001" lat="47.719667" lon="14.230552"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4574" /><tag k="addr:street" v="Tamberg" /><tag k="addr:city" v="Vorderstoder" /><tag k="addr:housenumber" v="9" /></node>
+<node id="-5416040001" lat="47.727477" lon="14.210137"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4574" /><tag k="addr:street" v="Tamberg" /><tag k="addr:city" v="Vorderstoder" /><tag k="addr:housenumber" v="103" /></node>
+<node id="-5416052001" lat="47.721301" lon="14.227025"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4574" /><tag k="addr:street" v="Tamberg" /><tag k="addr:city" v="Vorderstoder" /><tag k="addr:housenumber" v="29" /></node>
+<node id="-7667568001" lat="47.71983" lon="14.226266"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4574" /><tag k="addr:street" v="Tamberg" /><tag k="addr:city" v="Vorderstoder" /><tag k="addr:housenumber" v="16" /></node>
+<bounds minlat="47.716075" minlon="14.210137" maxlat="47.728362" maxlon="14.233114" />
+</osm>

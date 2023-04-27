@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7672704000" lat="48.183203" lon="16.372261"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="1100" /><tag k="addr:street" v="Josef-Deutsch-Stra&#223;e" /><tag k="addr:suburb" v="Favoriten" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7672705000" lat="48.183748" lon="16.372323"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="1100" /><tag k="addr:street" v="Josef-Deutsch-Stra&#223;e" /><tag k="addr:suburb" v="Favoriten" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7672706000" lat="48.183948" lon="16.372957"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="1100" /><tag k="addr:street" v="Josef-Deutsch-Stra&#223;e" /><tag k="addr:suburb" v="Favoriten" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="48.183203" minlon="16.372261" maxlat="48.183948" maxlon="16.372957" />
+</osm>

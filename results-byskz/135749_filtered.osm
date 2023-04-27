@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7665860000" lat="47.960404" lon="16.304449"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2523" /><tag k="addr:street" v="Johanna Polsterer Gasse" /><tag k="addr:city" v="Tattendorf" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7665862000" lat="47.960679" lon="16.304269"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2523" /><tag k="addr:street" v="Johanna Polsterer Gasse" /><tag k="addr:city" v="Tattendorf" /><tag k="addr:housenumber" v="12" /></node>
+<bounds minlat="47.960404" minlon="16.304269" maxlat="47.960679" maxlon="16.304449" />
+</osm>

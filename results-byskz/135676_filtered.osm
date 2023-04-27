@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5681852001" lat="47.451742" lon="13.548602"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5532" /><tag k="addr:street" v="N&#246;sslaualmweg" /><tag k="addr:city" v="Filzmoos" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7015329001" lat="47.455616" lon="13.555427"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5532" /><tag k="addr:street" v="N&#246;sslaualmweg" /><tag k="addr:city" v="Filzmoos" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="47.451742" minlon="13.548602" maxlat="47.455616" maxlon="13.555427" />
+</osm>

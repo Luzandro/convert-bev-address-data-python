@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7672665000" lat="47.768538" lon="16.529194"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="7011" /><tag k="addr:street" v="Siloweg" /><tag k="addr:city" v="Siegendorf" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7672668000" lat="47.768899" lon="16.528926"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="7011" /><tag k="addr:street" v="Siloweg" /><tag k="addr:city" v="Siegendorf" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="47.768538" minlon="16.528926" maxlat="47.768899" maxlon="16.529194" />
+</osm>

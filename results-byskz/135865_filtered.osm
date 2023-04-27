@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7670705000" lat="48.44617" lon="14.676028"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4294" /><tag k="addr:street" v="Eichenweg" /><tag k="addr:city" v="St. Leonhard bei Freistadt" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7670706000" lat="48.446166" lon="14.676313"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4294" /><tag k="addr:street" v="Eichenweg" /><tag k="addr:city" v="St. Leonhard bei Freistadt" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7670707000" lat="48.446145" lon="14.676645"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4294" /><tag k="addr:street" v="Eichenweg" /><tag k="addr:city" v="St. Leonhard bei Freistadt" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7670708000" lat="48.446173" lon="14.676983"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4294" /><tag k="addr:street" v="Eichenweg" /><tag k="addr:city" v="St. Leonhard bei Freistadt" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7670709000" lat="48.446138" lon="14.677278"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4294" /><tag k="addr:street" v="Eichenweg" /><tag k="addr:city" v="St. Leonhard bei Freistadt" /><tag k="addr:housenumber" v="9" /></node>
+<bounds minlat="48.446138" minlon="14.676028" maxlat="48.446173" maxlon="14.677278" />
+</osm>
