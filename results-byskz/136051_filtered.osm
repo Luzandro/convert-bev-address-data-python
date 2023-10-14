@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5903822001" lat="46.739354" lon="15.480822"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="8451" /><tag k="addr:street" v="Waldallee" /><tag k="addr:city" v="Heimschuh" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5903823001" lat="46.739497" lon="15.481147"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="8451" /><tag k="addr:street" v="Waldallee" /><tag k="addr:city" v="Heimschuh" /><tag k="addr:housenumber" v="4" /><tag k="addr:unit" v="1" /></node>
+<node id="-7672908000" lat="46.739684" lon="15.481391"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="8451" /><tag k="addr:street" v="Waldallee" /><tag k="addr:city" v="Heimschuh" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="46.739354" minlon="15.480822" maxlat="46.739684" maxlon="15.481391" />
+</osm>

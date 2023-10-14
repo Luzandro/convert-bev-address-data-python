@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5674837001" lat="47.883549" lon="13.108442"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5201" /><tag k="addr:street" v="Angerpoint" /><tag k="addr:city" v="Seekirchen am Wallersee" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5674838001" lat="47.883435" lon="13.109801"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5201" /><tag k="addr:street" v="Angerpoint" /><tag k="addr:city" v="Seekirchen am Wallersee" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5674882001" lat="47.88372" lon="13.110106"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5201" /><tag k="addr:street" v="Angerpoint" /><tag k="addr:city" v="Seekirchen am Wallersee" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7599231000" lat="47.883073" lon="13.109672"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5201" /><tag k="addr:street" v="Angerpoint" /><tag k="addr:city" v="Seekirchen am Wallersee" /><tag k="addr:housenumber" v="1a" /></node>
+<bounds minlat="47.883073" minlon="13.108442" maxlat="47.88372" maxlon="13.110106" />
+</osm>

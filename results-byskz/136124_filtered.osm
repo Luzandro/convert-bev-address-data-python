@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5668486001" lat="47.727916" lon="13.431265"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="Wildmoasstra&#223;e" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5668487001" lat="47.727908" lon="13.430803"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="Wildmoasstra&#223;e" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-5668488001" lat="47.727731" lon="13.431011"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="Wildmoasstra&#223;e" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="47.727731" minlon="13.430803" maxlat="47.727916" maxlon="13.431265" />
+</osm>

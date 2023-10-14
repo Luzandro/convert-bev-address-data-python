@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7677518000" lat="48.417162" lon="16.626889"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2221" /><tag k="addr:street" v="Zeisselthal K" /><tag k="addr:city" v="Gro&#223;-Schweinbarth" /><tag k="addr:housenumber" v="103" /></node>
+<node id="-7680182000" lat="48.417447" lon="16.626737"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2221" /><tag k="addr:street" v="Zeisselthal K" /><tag k="addr:city" v="Gro&#223;-Schweinbarth" /><tag k="addr:housenumber" v="109" /></node>
+<node id="-7680894000" lat="48.417563" lon="16.625198"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2221" /><tag k="addr:street" v="Zeisselthal K" /><tag k="addr:city" v="Gro&#223;-Schweinbarth" /><tag k="addr:housenumber" v="120" /></node>
+<bounds minlat="48.417162" minlon="16.625198" maxlat="48.417563" maxlon="16.626889" />
+</osm>

@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5668438001" lat="47.726047" lon="13.430572"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="Philharmonikerweg" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5668471001" lat="47.726008" lon="13.430979"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="Philharmonikerweg" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-5668482001" lat="47.726258" lon="13.431982"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="Philharmonikerweg" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7486379001" lat="47.725737" lon="13.432005"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="Philharmonikerweg" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="10" /></node>
+<node id="-7574840001" lat="47.725604" lon="13.432299"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="Philharmonikerweg" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="12" /></node>
+<node id="-7604739001" lat="47.725977" lon="13.431435"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="Philharmonikerweg" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="47.725604" minlon="13.430572" maxlat="47.726258" maxlon="13.432299" />
+</osm>

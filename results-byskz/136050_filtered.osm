@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5702757001" lat="47.285541" lon="12.422703"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5731" /><tag k="addr:street" v="Mitterhaid" /><tag k="addr:city" v="Hollersbach im Pinzgau" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-5702759001" lat="47.284783" lon="12.422352"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5731" /><tag k="addr:street" v="Mitterhaid" /><tag k="addr:city" v="Hollersbach im Pinzgau" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7672444000" lat="47.284835" lon="12.422612"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5731" /><tag k="addr:street" v="Mitterhaid" /><tag k="addr:city" v="Hollersbach im Pinzgau" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="47.284783" minlon="12.422352" maxlat="47.285541" maxlon="12.422703" />
+</osm>

@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6729971001" lat="47.496717" lon="9.713691"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="6900" /><tag k="addr:street" v="Barschweg" /><tag k="addr:city" v="Bregenz" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-6729972001" lat="47.496442" lon="9.713336"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="6900" /><tag k="addr:street" v="Barschweg" /><tag k="addr:city" v="Bregenz" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="47.496442" minlon="9.713336" maxlat="47.496717" maxlon="9.713691" />
+</osm>

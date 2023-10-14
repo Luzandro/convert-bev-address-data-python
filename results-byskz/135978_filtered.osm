@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7674701000" lat="47.977345" lon="13.942438"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4655" /><tag k="addr:street" v="Hopfenweg" /><tag k="addr:city" v="Vorchdorf" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7681017000" lat="47.976943" lon="13.943465"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4655" /><tag k="addr:street" v="Hopfenweg" /><tag k="addr:city" v="Vorchdorf" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7681079000" lat="47.976646" lon="13.943199"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4655" /><tag k="addr:street" v="Hopfenweg" /><tag k="addr:city" v="Vorchdorf" /><tag k="addr:housenumber" v="11" /></node>
+<bounds minlat="47.976646" minlon="13.942438" maxlat="47.977345" maxlon="13.943465" />
+</osm>

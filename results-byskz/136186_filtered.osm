@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7680317000" lat="48.091991" lon="13.656821"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4901" /><tag k="addr:street" v="Schwalbenweg" /><tag k="addr:city" v="Ottnang am Hausruck" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7680318000" lat="48.091776" lon="13.656451"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4901" /><tag k="addr:street" v="Schwalbenweg" /><tag k="addr:city" v="Ottnang am Hausruck" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7680319000" lat="48.09188" lon="13.657288"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4901" /><tag k="addr:street" v="Schwalbenweg" /><tag k="addr:city" v="Ottnang am Hausruck" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="48.091776" minlon="13.656451" maxlat="48.091991" maxlon="13.657288" />
+</osm>

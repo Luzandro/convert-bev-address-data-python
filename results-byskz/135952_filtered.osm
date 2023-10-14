@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6385942001" lat="48.51739" lon="16.249584"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2002" /><tag k="addr:street" v="M&#252;hlbachgasse" /><tag k="addr:city" v="Gro&#223;mugl" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-6385943000" lat="48.517126" lon="16.249541"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2002" /><tag k="addr:street" v="M&#252;hlbachgasse" /><tag k="addr:city" v="Gro&#223;mugl" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-6385975001" lat="48.516617" lon="16.249967"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2002" /><tag k="addr:street" v="M&#252;hlbachgasse" /><tag k="addr:city" v="Gro&#223;mugl" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7023717001" lat="48.51641" lon="16.250131"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2002" /><tag k="addr:street" v="M&#252;hlbachgasse" /><tag k="addr:city" v="Gro&#223;mugl" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7055739000" lat="48.51688" lon="16.249629"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2002" /><tag k="addr:street" v="M&#252;hlbachgasse" /><tag k="addr:city" v="Gro&#223;mugl" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="48.51641" minlon="16.249541" maxlat="48.51739" maxlon="16.250131" />
+</osm>

@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7675615000" lat="48.155637" lon="15.099076"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="3373" /><tag k="addr:street" v="Am Sonnenhang" /><tag k="addr:city" v="Neumarkt an der Ybbs" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7675626000" lat="48.155932" lon="15.099621"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="3373" /><tag k="addr:street" v="Am Sonnenhang" /><tag k="addr:city" v="Neumarkt an der Ybbs" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="48.155637" minlon="15.099076" maxlat="48.155932" maxlon="15.099621" />
+</osm>

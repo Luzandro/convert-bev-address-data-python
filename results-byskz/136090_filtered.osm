@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7678462000" lat="47.990822" lon="14.125832"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4552" /><tag k="addr:street" v="Wirtschaftspark Ost" /><tag k="addr:city" v="Wartberg an der Krems" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7678463000" lat="47.990565" lon="14.125787"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4552" /><tag k="addr:street" v="Wirtschaftspark Ost" /><tag k="addr:city" v="Wartberg an der Krems" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7678464000" lat="47.990222" lon="14.125718"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4552" /><tag k="addr:street" v="Wirtschaftspark Ost" /><tag k="addr:city" v="Wartberg an der Krems" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="47.990222" minlon="14.125718" maxlat="47.990822" maxlon="14.125832" />
+</osm>

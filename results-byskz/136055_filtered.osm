@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7677615000" lat="48.384178" lon="16.729312"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2242" /><tag k="addr:street" v="Rebhuhngasse" /><tag k="addr:city" v="Prottes" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7677616000" lat="48.384278" lon="16.729567"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2242" /><tag k="addr:street" v="Rebhuhngasse" /><tag k="addr:city" v="Prottes" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7677618000" lat="48.38435" lon="16.729748"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2242" /><tag k="addr:street" v="Rebhuhngasse" /><tag k="addr:city" v="Prottes" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7677619000" lat="48.384447" lon="16.729997"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2242" /><tag k="addr:street" v="Rebhuhngasse" /><tag k="addr:city" v="Prottes" /><tag k="addr:housenumber" v="8" /></node>
+<bounds minlat="48.384178" minlon="16.729312" maxlat="48.384447" maxlon="16.729997" />
+</osm>

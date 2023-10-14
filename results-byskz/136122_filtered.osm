@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5668298001" lat="47.727213" lon="13.435156"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="Weidingerweg" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-5668460001" lat="47.727214" lon="13.434729"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="Weidingerweg" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-5668474001" lat="47.727229" lon="13.435774"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="Weidingerweg" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7098915001" lat="47.727676" lon="13.436543"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="Weidingerweg" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7098919001" lat="47.727261" lon="13.436548"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="Weidingerweg" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="47.727213" minlon="13.434729" maxlat="47.727676" maxlon="13.436548" />
+</osm>

@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7676598000" lat="48.114557" lon="15.536677"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="3205" /><tag k="addr:street" v="Konrad-Gerstl-Stra&#223;e" /><tag k="addr:city" v="Weinburg" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7676599000" lat="48.114342" lon="15.536543"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="3205" /><tag k="addr:street" v="Konrad-Gerstl-Stra&#223;e" /><tag k="addr:city" v="Weinburg" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="48.114342" minlon="15.536543" maxlat="48.114557" maxlon="15.536677" />
+</osm>

@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7677502000" lat="46.784258" lon="15.555647"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="8435" /><tag k="addr:street" v="Dr.-Erwin-Schr&#246;dinger-Gasse" /><tag k="addr:city" v="Wagna" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7677503000" lat="46.78425" lon="15.555589"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="8435" /><tag k="addr:street" v="Dr.-Erwin-Schr&#246;dinger-Gasse" /><tag k="addr:city" v="Wagna" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7677504000" lat="46.784641" lon="15.555745"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="8435" /><tag k="addr:street" v="Dr.-Erwin-Schr&#246;dinger-Gasse" /><tag k="addr:city" v="Wagna" /><tag k="addr:housenumber" v="3a" /></node>
+<node id="-7677505000" lat="46.784409" lon="15.555924"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="8435" /><tag k="addr:street" v="Dr.-Erwin-Schr&#246;dinger-Gasse" /><tag k="addr:city" v="Wagna" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7677507000" lat="46.784592" lon="15.555872"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="8435" /><tag k="addr:street" v="Dr.-Erwin-Schr&#246;dinger-Gasse" /><tag k="addr:city" v="Wagna" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="46.78425" minlon="15.555589" maxlat="46.784641" maxlon="15.555924" />
+</osm>

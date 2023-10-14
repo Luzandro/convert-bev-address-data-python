@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6385939001" lat="48.518309" lon="16.250144"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2002" /><tag k="addr:street" v="Pfarrgasse" /><tag k="addr:city" v="Gro&#223;mugl" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-6385940003" lat="48.518256" lon="16.249672"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2002" /><tag k="addr:street" v="Pfarrgasse" /><tag k="addr:city" v="Gro&#223;mugl" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-6385941001" lat="48.51801" lon="16.25031"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2002" /><tag k="addr:street" v="Pfarrgasse" /><tag k="addr:city" v="Gro&#223;mugl" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-6385944001" lat="48.518805" lon="16.250269"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2002" /><tag k="addr:street" v="Pfarrgasse" /><tag k="addr:city" v="Gro&#223;mugl" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7439553001" lat="48.518446" lon="16.250066"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2002" /><tag k="addr:street" v="Pfarrgasse" /><tag k="addr:city" v="Gro&#223;mugl" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7680517001" lat="48.518256" lon="16.249672"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2002" /><tag k="addr:street" v="Pfarrgasse" /><tag k="addr:city" v="Gro&#223;mugl" /><tag k="addr:housenumber" v="3a" /></node>
+<bounds minlat="48.51801" minlon="16.249672" maxlat="48.518805" maxlon="16.25031" />
+</osm>

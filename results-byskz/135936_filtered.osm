@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7673810001" lat="47.029768" lon="9.976358"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Blenischau" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="63" /></node>
+<node id="-7675443001" lat="47.029402" lon="9.975945"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Blenischau" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="61" /></node>
+<node id="-7675444001" lat="47.029481" lon="9.975631"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="6791" /><tag k="addr:street" v="Blenischau" /><tag k="addr:city" v="St. Gallenkirch" /><tag k="addr:housenumber" v="62" /></node>
+<bounds minlat="47.029402" minlon="9.975631" maxlat="47.029768" maxlon="9.976358" />
+</osm>

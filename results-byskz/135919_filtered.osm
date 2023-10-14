@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7673381001" lat="47.460364" lon="15.317589"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="8605" /><tag k="addr:street" v="Deuchendorfer Weg" /><tag k="addr:city" v="Kapfenberg" /><tag k="addr:housenumber" v="30" /></node>
+<node id="-7673386001" lat="47.460462" lon="15.317774"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="8605" /><tag k="addr:street" v="Deuchendorfer Weg" /><tag k="addr:city" v="Kapfenberg" /><tag k="addr:housenumber" v="32" /></node>
+<bounds minlat="47.460364" minlon="15.317589" maxlat="47.460462" maxlon="15.317774" />
+</osm>

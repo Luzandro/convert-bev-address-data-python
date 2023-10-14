@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7676547000" lat="47.333126" lon="15.992163"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="8232" /><tag k="addr:street" v="Untere Masenbergstra&#223;e" /><tag k="addr:city" v="Grafendorf bei Hartberg" /><tag k="addr:housenumber" v="225" /></node>
+<node id="-7676672000" lat="47.333361" lon="15.991826"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="8232" /><tag k="addr:street" v="Untere Masenbergstra&#223;e" /><tag k="addr:city" v="Grafendorf bei Hartberg" /><tag k="addr:housenumber" v="226" /></node>
+<bounds minlat="47.333126" minlon="15.991826" maxlat="47.333361" maxlon="15.992163" />
+</osm>

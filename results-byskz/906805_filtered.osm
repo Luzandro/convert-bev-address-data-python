@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7679776000" lat="48.189585" lon="16.3935"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="1030" /><tag k="addr:street" v="Elizabeth-T.-Spira-Promenade" /><tag k="addr:suburb" v="Landstra&#223;e" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7679815000" lat="48.188983" lon="16.393325"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="1030" /><tag k="addr:street" v="Elizabeth-T.-Spira-Promenade" /><tag k="addr:suburb" v="Landstra&#223;e" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="48.188983" minlon="16.393325" maxlat="48.189585" maxlon="16.3935" />
+</osm>

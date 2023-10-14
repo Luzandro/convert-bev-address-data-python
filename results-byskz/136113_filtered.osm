@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5668367001" lat="47.723108" lon="13.437943"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="M&#252;hlbachstra&#223;e" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-5668406001" lat="47.723499" lon="13.436843"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="M&#252;hlbachstra&#223;e" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="9" /></node>
+<node id="-5668414001" lat="47.723362" lon="13.437045"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="M&#252;hlbachstra&#223;e" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-5668419001" lat="47.723102" lon="13.436995"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="M&#252;hlbachstra&#223;e" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5668449001" lat="47.72274" lon="13.437923"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="M&#252;hlbachstra&#223;e" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-5668480001" lat="47.72252" lon="13.437971"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="M&#252;hlbachstra&#223;e" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="47.72252" minlon="13.436843" maxlat="47.723499" maxlon="13.437971" />
+</osm>

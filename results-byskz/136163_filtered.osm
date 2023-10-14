@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5248882001" lat="47.299356" lon="16.393885"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="7464" /><tag k="addr:street" v="Riegelstra&#223;e" /><tag k="addr:city" v="Markt Neuhodis" /><tag k="addr:housenumber" v="25" /></node>
+<node id="-7681332000" lat="47.299055" lon="16.393655"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="7464" /><tag k="addr:street" v="Riegelstra&#223;e" /><tag k="addr:city" v="Markt Neuhodis" /><tag k="addr:housenumber" v="14" /></node>
+<bounds minlat="47.299055" minlon="16.393655" maxlat="47.299356" maxlon="16.393885" />
+</osm>

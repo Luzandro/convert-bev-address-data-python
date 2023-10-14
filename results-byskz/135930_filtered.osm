@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7674595000" lat="47.57425" lon="16.43442"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="7331" /><tag k="addr:street" v="Tannenweg" /><tag k="addr:city" v="Weppersdorf" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7674602000" lat="47.575254" lon="16.433507"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="7331" /><tag k="addr:street" v="Tannenweg" /><tag k="addr:city" v="Weppersdorf" /><tag k="addr:housenumber" v="19" /></node>
+<bounds minlat="47.57425" minlon="16.433507" maxlat="47.575254" maxlon="16.43442" />
+</osm>

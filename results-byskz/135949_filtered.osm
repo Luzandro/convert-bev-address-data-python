@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6385919001" lat="48.518678" lon="16.252148"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2002" /><tag k="addr:street" v="Feldstra&#223;e" /><tag k="addr:city" v="Gro&#223;mugl" /><tag k="addr:housenumber" v="21" /></node>
+<node id="-6385970001" lat="48.516368" lon="16.251632"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2002" /><tag k="addr:street" v="Feldstra&#223;e" /><tag k="addr:city" v="Gro&#223;mugl" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-6385973001" lat="48.515987" lon="16.251159"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2002" /><tag k="addr:street" v="Feldstra&#223;e" /><tag k="addr:city" v="Gro&#223;mugl" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-6385974001" lat="48.516154" lon="16.251572"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2002" /><tag k="addr:street" v="Feldstra&#223;e" /><tag k="addr:city" v="Gro&#223;mugl" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="48.515987" minlon="16.251159" maxlat="48.518678" maxlon="16.252148" />
+</osm>

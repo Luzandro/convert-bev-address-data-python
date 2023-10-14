@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6134111001" lat="46.669133" lon="13.570468"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="9711" /><tag k="addr:street" v="Gailwald" /><tag k="addr:city" v="Paternion" /><tag k="addr:housenumber" v="41" /></node>
+<node id="-6134114001" lat="46.664554" lon="13.566359"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="9711" /><tag k="addr:street" v="Gailwald" /><tag k="addr:city" v="Paternion" /><tag k="addr:housenumber" v="44" /></node>
+<node id="-6134115001" lat="46.662464" lon="13.563345"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="9711" /><tag k="addr:street" v="Gailwald" /><tag k="addr:city" v="Paternion" /><tag k="addr:housenumber" v="45" /></node>
+<bounds minlat="46.662464" minlon="13.563345" maxlat="46.669133" maxlon="13.570468" />
+</osm>

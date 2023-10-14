@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7675665000" lat="47.830672" lon="16.443337"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="7052" /><tag k="addr:street" v="Industriestra&#223;e VII" /><tag k="addr:city" v="M&#252;llendorf" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7675667000" lat="47.830179" lon="16.443595"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="7052" /><tag k="addr:street" v="Industriestra&#223;e VII" /><tag k="addr:city" v="M&#252;llendorf" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7675670000" lat="47.829761" lon="16.442982"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="7052" /><tag k="addr:street" v="Industriestra&#223;e VII" /><tag k="addr:city" v="M&#252;llendorf" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7675671000" lat="47.829674" lon="16.443032"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="7052" /><tag k="addr:street" v="Industriestra&#223;e VII" /><tag k="addr:city" v="M&#252;llendorf" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7675673000" lat="47.829635" lon="16.443285"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="7052" /><tag k="addr:street" v="Industriestra&#223;e VII" /><tag k="addr:city" v="M&#252;llendorf" /><tag k="addr:housenumber" v="10" /></node>
+<bounds minlat="47.829635" minlon="16.442982" maxlat="47.830672" maxlon="16.443595" />
+</osm>

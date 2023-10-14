@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7677799000" lat="46.623538" lon="14.441513"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="9131" /><tag k="addr:street" v="Abstimmungsweg" /><tag k="addr:city" v="Grafenstein" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7677806000" lat="46.623604" lon="14.441588"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="9131" /><tag k="addr:street" v="Abstimmungsweg" /><tag k="addr:city" v="Grafenstein" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7677825000" lat="46.623557" lon="14.44131"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="9131" /><tag k="addr:street" v="Abstimmungsweg" /><tag k="addr:city" v="Grafenstein" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7677877000" lat="46.623596" lon="14.440907"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="9131" /><tag k="addr:street" v="Abstimmungsweg" /><tag k="addr:city" v="Grafenstein" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="46.623538" minlon="14.440907" maxlat="46.623604" maxlon="14.441588" />
+</osm>

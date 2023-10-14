@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5668346001" lat="47.724357" lon="13.424345"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="Riedlerweg" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-5668385001" lat="47.724849" lon="13.423244"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="Riedlerweg" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5668423001" lat="47.725191" lon="13.423459"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="Riedlerweg" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="47.724357" minlon="13.423244" maxlat="47.725191" maxlon="13.424345" />
+</osm>

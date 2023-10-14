@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7674474000" lat="48.220032" lon="14.183795"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4063" /><tag k="addr:street" v="Melissenweg" /><tag k="addr:city" v="H&#246;rsching" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7674475000" lat="48.220005" lon="14.183926"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4063" /><tag k="addr:street" v="Melissenweg" /><tag k="addr:city" v="H&#246;rsching" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7674476000" lat="48.219905" lon="14.183518"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4063" /><tag k="addr:street" v="Melissenweg" /><tag k="addr:city" v="H&#246;rsching" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7674484000" lat="48.219822" lon="14.183527"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="4063" /><tag k="addr:street" v="Melissenweg" /><tag k="addr:city" v="H&#246;rsching" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="48.219822" minlon="14.183518" maxlat="48.220032" maxlon="14.183926" />
+</osm>

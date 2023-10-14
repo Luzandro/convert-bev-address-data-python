@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7673630000" lat="48.337388" lon="16.397773"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2102" /><tag k="addr:street" v="Plankenfeldgasse" /><tag k="addr:city" v="Hagenbrunn" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7680763000" lat="48.337902" lon="16.397814"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2102" /><tag k="addr:street" v="Plankenfeldgasse" /><tag k="addr:city" v="Hagenbrunn" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7680764000" lat="48.337408" lon="16.397681"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2102" /><tag k="addr:street" v="Plankenfeldgasse" /><tag k="addr:city" v="Hagenbrunn" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="48.337388" minlon="16.397681" maxlat="48.337902" maxlon="16.397814" />
+</osm>

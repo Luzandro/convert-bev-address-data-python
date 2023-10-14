@@ -1,0 +1,10 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5668359001" lat="47.725913" lon="13.432697"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="Eglmoos" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-5668375001" lat="47.725643" lon="13.432691"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="Eglmoos" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="9" /></node>
+<node id="-5668376001" lat="47.7259" lon="13.432274"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="Eglmoos" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-5668378001" lat="47.726301" lon="13.432505"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="Eglmoos" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5668404001" lat="47.726018" lon="13.433146"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="Eglmoos" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-5668434001" lat="47.726274" lon="13.433285"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="Eglmoos" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-5668483001" lat="47.72612" lon="13.432449"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="Eglmoos" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="47.725643" minlon="13.432274" maxlat="47.726301" maxlon="13.433285" />
+</osm>

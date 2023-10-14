@@ -1,0 +1,10 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5668383001" lat="47.727732" lon="13.432802"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="Im Einfang" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="10" /></node>
+<node id="-5668424001" lat="47.727825" lon="13.43322"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="Im Einfang" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-5668441001" lat="47.727315" lon="13.433108"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="Im Einfang" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5668445001" lat="47.727851" lon="13.432379"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="Im Einfang" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="16" /></node>
+<node id="-5668447001" lat="47.727793" lon="13.432596"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="Im Einfang" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="14" /></node>
+<node id="-5668448001" lat="47.72758" lon="13.433179"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="Im Einfang" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-5668463001" lat="47.727527" lon="13.432692"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="5350" /><tag k="addr:street" v="Im Einfang" /><tag k="addr:city" v="Strobl" /><tag k="addr:housenumber" v="12" /></node>
+<bounds minlat="47.727315" minlon="13.432379" maxlat="47.727851" maxlon="13.43322" />
+</osm>

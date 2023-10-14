@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7673550001" lat="46.648349" lon="14.447001"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="9130" /><tag k="addr:street" v="Rosenbergstra&#223;e" /><tag k="addr:city" v="Poggersdorf" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7673732000" lat="46.649535" lon="14.44728"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="9130" /><tag k="addr:street" v="Rosenbergstra&#223;e" /><tag k="addr:city" v="Poggersdorf" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7673733000" lat="46.648802" lon="14.447489"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="9130" /><tag k="addr:street" v="Rosenbergstra&#223;e" /><tag k="addr:city" v="Poggersdorf" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7673734000" lat="46.648183" lon="14.447187"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="9130" /><tag k="addr:street" v="Rosenbergstra&#223;e" /><tag k="addr:city" v="Poggersdorf" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7673735000" lat="46.647981" lon="14.447163"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="9130" /><tag k="addr:street" v="Rosenbergstra&#223;e" /><tag k="addr:city" v="Poggersdorf" /><tag k="addr:housenumber" v="10" /></node>
+<bounds minlat="46.647981" minlon="14.447001" maxlat="46.649535" maxlon="14.447489" />
+</osm>

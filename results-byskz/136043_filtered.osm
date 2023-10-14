@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7677125000" lat="48.556421" lon="16.092848"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2020" /><tag k="addr:street" v="Elisabeth Markusgasse" /><tag k="addr:city" v="Hollabrunn" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7677126000" lat="48.556475" lon="16.092656"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2020" /><tag k="addr:street" v="Elisabeth Markusgasse" /><tag k="addr:city" v="Hollabrunn" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7677132000" lat="48.556552" lon="16.092388"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2020" /><tag k="addr:street" v="Elisabeth Markusgasse" /><tag k="addr:city" v="Hollabrunn" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7677133000" lat="48.556606" lon="16.092198"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2020" /><tag k="addr:street" v="Elisabeth Markusgasse" /><tag k="addr:city" v="Hollabrunn" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7677134000" lat="48.556536" lon="16.092805"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2020" /><tag k="addr:street" v="Elisabeth Markusgasse" /><tag k="addr:city" v="Hollabrunn" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7677135000" lat="48.556655" lon="16.092387"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2023-04-15" /><tag k="addr:postcode" v="2020" /><tag k="addr:street" v="Elisabeth Markusgasse" /><tag k="addr:city" v="Hollabrunn" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="48.556421" minlon="16.092198" maxlat="48.556655" maxlon="16.092848" />
+</osm>
