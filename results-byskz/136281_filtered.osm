@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7685157000" lat="47.905108" lon="16.692678"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7083" /><tag k="addr:street" v="Birkenweg" /><tag k="addr:city" v="Purbach am Neusiedler See" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7685461000" lat="47.906259" lon="16.693937"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7083" /><tag k="addr:street" v="Birkenweg" /><tag k="addr:city" v="Purbach am Neusiedler See" /><tag k="addr:housenumber" v="7" /></node>
+<bounds minlat="47.905108" minlon="16.692678" maxlat="47.906259" maxlon="16.693937" />
+</osm>

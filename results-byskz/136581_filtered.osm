@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5309220001" lat="48.044443" lon="12.881483"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5124" /><tag k="addr:street" v="Unterkirchenweg" /><tag k="addr:city" v="Haigermoos" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5309227001" lat="48.044029" lon="12.880994"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5124" /><tag k="addr:street" v="Unterkirchenweg" /><tag k="addr:city" v="Haigermoos" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7293439001" lat="48.043733" lon="12.882143"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5124" /><tag k="addr:street" v="Unterkirchenweg" /><tag k="addr:city" v="Haigermoos" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7309818002" lat="48.043925" lon="12.881444"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5124" /><tag k="addr:street" v="Unterkirchenweg" /><tag k="addr:city" v="Haigermoos" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7408614001" lat="48.043979" lon="12.882436"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5124" /><tag k="addr:street" v="Unterkirchenweg" /><tag k="addr:city" v="Haigermoos" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="48.043733" minlon="12.880994" maxlat="48.044443" maxlon="12.882436" />
+</osm>

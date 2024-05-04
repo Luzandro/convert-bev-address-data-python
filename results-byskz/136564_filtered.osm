@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5309206001" lat="48.047788" lon="12.886727"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5124" /><tag k="addr:street" v="Langwiedner Weg" /><tag k="addr:city" v="Haigermoos" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5309207001" lat="48.048305" lon="12.885631"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5124" /><tag k="addr:street" v="Langwiedner Weg" /><tag k="addr:city" v="Haigermoos" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="48.047788" minlon="12.885631" maxlat="48.048305" maxlon="12.886727" />
+</osm>

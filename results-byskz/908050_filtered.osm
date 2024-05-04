@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7684488001" lat="48.182162" lon="16.372027"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="1100" /><tag k="addr:street" v="Elisabeth-Sundt-Platz" /><tag k="addr:suburb" v="Favoriten" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7685981000" lat="48.182378" lon="16.373298"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="1100" /><tag k="addr:street" v="Elisabeth-Sundt-Platz" /><tag k="addr:suburb" v="Favoriten" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="48.182162" minlon="16.372027" maxlat="48.182378" maxlon="16.373298" />
+</osm>

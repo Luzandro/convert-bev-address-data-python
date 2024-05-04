@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7681861000" lat="48.234642" lon="16.467264"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="1220" /><tag k="addr:street" v="Hirschstettner Platz" /><tag k="addr:suburb" v="Donaustadt" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7681862000" lat="48.2347" lon="16.467291"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="1220" /><tag k="addr:street" v="Hirschstettner Platz" /><tag k="addr:suburb" v="Donaustadt" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7681863000" lat="48.234754" lon="16.467314"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="1220" /><tag k="addr:street" v="Hirschstettner Platz" /><tag k="addr:suburb" v="Donaustadt" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="48.234642" minlon="16.467264" maxlat="48.234754" maxlon="16.467314" />
+</osm>

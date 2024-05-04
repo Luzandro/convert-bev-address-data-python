@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6325819001" lat="48.355949" lon="16.750291"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="2253" /><tag k="addr:street" v="G&#228;nserndorfer Stra&#223;e" /><tag k="addr:city" v="Weikendorf" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-6325852001" lat="48.356428" lon="16.75078"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="2253" /><tag k="addr:street" v="G&#228;nserndorfer Stra&#223;e" /><tag k="addr:city" v="Weikendorf" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-6325862001" lat="48.35616" lon="16.751002"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="2253" /><tag k="addr:street" v="G&#228;nserndorfer Stra&#223;e" /><tag k="addr:city" v="Weikendorf" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-6325863001" lat="48.355683" lon="16.750598"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="2253" /><tag k="addr:street" v="G&#228;nserndorfer Stra&#223;e" /><tag k="addr:city" v="Weikendorf" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="48.355683" minlon="16.750291" maxlat="48.356428" maxlon="16.751002" />
+</osm>

@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7682905000" lat="48.266494" lon="16.736239"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="2284" /><tag k="addr:street" v="Zweite Stra&#223;e" /><tag k="addr:city" v="Untersiebenbrunn" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7682906000" lat="48.26627" lon="16.735295"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="2284" /><tag k="addr:street" v="Zweite Stra&#223;e" /><tag k="addr:city" v="Untersiebenbrunn" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7683732000" lat="48.26612" lon="16.735944"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="2284" /><tag k="addr:street" v="Zweite Stra&#223;e" /><tag k="addr:city" v="Untersiebenbrunn" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="48.26612" minlon="16.735295" maxlat="48.266494" maxlon="16.736239" />
+</osm>

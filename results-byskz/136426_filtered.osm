@@ -1,0 +1,10 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5391220001" lat="48.279541" lon="13.718336"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="4720" /><tag k="addr:street" v="Sonnenfeld" /><tag k="addr:city" v="Kallham" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5391221001" lat="48.279464" lon="13.71776"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="4720" /><tag k="addr:street" v="Sonnenfeld" /><tag k="addr:city" v="Kallham" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5391222001" lat="48.279198" lon="13.717845"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="4720" /><tag k="addr:street" v="Sonnenfeld" /><tag k="addr:city" v="Kallham" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-5391223001" lat="48.279163" lon="13.718799"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="4720" /><tag k="addr:street" v="Sonnenfeld" /><tag k="addr:city" v="Kallham" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-5391224001" lat="48.27895" lon="13.719162"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="4720" /><tag k="addr:street" v="Sonnenfeld" /><tag k="addr:city" v="Kallham" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7036319000" lat="48.279046" lon="13.718595"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="4720" /><tag k="addr:street" v="Sonnenfeld" /><tag k="addr:city" v="Kallham" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7036322001" lat="48.278872" lon="13.718658"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="4720" /><tag k="addr:street" v="Sonnenfeld" /><tag k="addr:city" v="Kallham" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="48.278872" minlon="13.71776" maxlat="48.279541" maxlon="13.719162" />
+</osm>

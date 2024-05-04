@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5309215001" lat="48.044588" lon="12.881988"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5124" /><tag k="addr:street" v="Kirchenweg" /><tag k="addr:city" v="Haigermoos" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-5309219000" lat="48.044521" lon="12.882655"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5124" /><tag k="addr:street" v="Kirchenweg" /><tag k="addr:city" v="Haigermoos" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-5309222001" lat="48.044841" lon="12.883391"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5124" /><tag k="addr:street" v="Kirchenweg" /><tag k="addr:city" v="Haigermoos" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5309224001" lat="48.044158" lon="12.882596"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5124" /><tag k="addr:street" v="Kirchenweg" /><tag k="addr:city" v="Haigermoos" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-5309230001" lat="48.044497" lon="12.883522"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5124" /><tag k="addr:street" v="Kirchenweg" /><tag k="addr:city" v="Haigermoos" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="48.044158" minlon="12.881988" maxlat="48.044841" maxlon="12.883522" />
+</osm>

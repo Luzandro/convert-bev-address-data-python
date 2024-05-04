@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5261166001" lat="47.367456" lon="16.03156"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7420" /><tag k="addr:street" v="Weinberggasse" /><tag k="addr:city" v="Neustift an der Lafnitz" /><tag k="addr:housenumber" v="13" /></node>
+<node id="-5261179001" lat="47.366951" lon="16.028769"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7420" /><tag k="addr:street" v="Weinberggasse" /><tag k="addr:city" v="Neustift an der Lafnitz" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5261228001" lat="47.366892" lon="16.029822"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7420" /><tag k="addr:street" v="Weinberggasse" /><tag k="addr:city" v="Neustift an der Lafnitz" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-5261271001" lat="47.367088" lon="16.03079"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7420" /><tag k="addr:street" v="Weinberggasse" /><tag k="addr:city" v="Neustift an der Lafnitz" /><tag k="addr:housenumber" v="11" /></node>
+<node id="-7313015001" lat="47.36688" lon="16.030166"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7420" /><tag k="addr:street" v="Weinberggasse" /><tag k="addr:city" v="Neustift an der Lafnitz" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="47.36688" minlon="16.028769" maxlat="47.367456" maxlon="16.03156" />
+</osm>

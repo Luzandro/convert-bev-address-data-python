@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5244585000" lat="47.214595" lon="16.334339"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Kirchenplatz" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5244587001" lat="47.214817" lon="16.334671"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Kirchenplatz" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-5244588001" lat="47.214938" lon="16.334567"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Kirchenplatz" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-5244596001" lat="47.214661" lon="16.334618"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Kirchenplatz" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5244605001" lat="47.21496" lon="16.334297"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Kirchenplatz" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="8" /></node>
+<bounds minlat="47.214595" minlon="16.334297" maxlat="47.21496" maxlon="16.334671" />
+</osm>

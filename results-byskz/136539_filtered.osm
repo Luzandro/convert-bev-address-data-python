@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5261153001" lat="47.367618" lon="16.03882"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7420" /><tag k="addr:street" v="Panoramastra&#223;e" /><tag k="addr:city" v="Neustift an der Lafnitz" /><tag k="addr:housenumber" v="11" /></node>
+<node id="-5261154001" lat="47.367384" lon="16.037846"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7420" /><tag k="addr:street" v="Panoramastra&#223;e" /><tag k="addr:city" v="Neustift an der Lafnitz" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5261251001" lat="47.368078" lon="16.037699"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7420" /><tag k="addr:street" v="Panoramastra&#223;e" /><tag k="addr:city" v="Neustift an der Lafnitz" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7660712000" lat="47.36761" lon="16.038465"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7420" /><tag k="addr:street" v="Panoramastra&#223;e" /><tag k="addr:city" v="Neustift an der Lafnitz" /><tag k="addr:housenumber" v="13" /></node>
+<node id="-7679237000" lat="47.368233" lon="16.037148"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7420" /><tag k="addr:street" v="Panoramastra&#223;e" /><tag k="addr:city" v="Neustift an der Lafnitz" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="47.367384" minlon="16.037148" maxlat="47.368233" maxlon="16.03882" />
+</osm>

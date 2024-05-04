@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7239717001" lat="47.235765" lon="16.351904"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Feldsiedlung" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7568997001" lat="47.235526" lon="16.354665"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Feldsiedlung" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="20" /></node>
+<node id="-7662242001" lat="47.235626" lon="16.352974"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Feldsiedlung" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7672096001" lat="47.235826" lon="16.352224"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Feldsiedlung" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="47.235526" minlon="16.351904" maxlat="47.235826" maxlon="16.354665" />
+</osm>

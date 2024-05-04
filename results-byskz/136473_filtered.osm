@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7686284000" lat="48.045982" lon="16.985196"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="2473" /><tag k="addr:street" v="Hauptweg" /><tag k="addr:city" v="Prellenkirchen" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7686285000" lat="48.04568" lon="16.98511"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="2473" /><tag k="addr:street" v="Hauptweg" /><tag k="addr:city" v="Prellenkirchen" /><tag k="addr:housenumber" v="1a" /></node>
+<bounds minlat="48.04568" minlon="16.98511" maxlat="48.045982" maxlon="16.985196" />
+</osm>

@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5244612001" lat="47.211947" lon="16.335379"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Triftweg" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5244613001" lat="47.211808" lon="16.335298"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Triftweg" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-5244617001" lat="47.211669" lon="16.335211"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Triftweg" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-5244623000" lat="47.211411" lon="16.335264"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Triftweg" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5244650001" lat="47.211249" lon="16.336038"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Triftweg" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="13" /></node>
+<node id="-7634195001" lat="47.211308" lon="16.336707"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Triftweg" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="15" /></node>
+<bounds minlat="47.211249" minlon="16.335211" maxlat="47.211947" maxlon="16.336707" />
+</osm>

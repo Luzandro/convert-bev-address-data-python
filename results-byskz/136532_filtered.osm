@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5261107001" lat="47.368426" lon="16.020032"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7420" /><tag k="addr:street" v="Kirchengasse" /><tag k="addr:city" v="Neustift an der Lafnitz" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-5261108001" lat="47.368578" lon="16.020261"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7420" /><tag k="addr:street" v="Kirchengasse" /><tag k="addr:city" v="Neustift an der Lafnitz" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-5261109000" lat="47.368487" lon="16.020591"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7420" /><tag k="addr:street" v="Kirchengasse" /><tag k="addr:city" v="Neustift an der Lafnitz" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-5261222001" lat="47.36813" lon="16.020532"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7420" /><tag k="addr:street" v="Kirchengasse" /><tag k="addr:city" v="Neustift an der Lafnitz" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-5261259001" lat="47.368256" lon="16.020802"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7420" /><tag k="addr:street" v="Kirchengasse" /><tag k="addr:city" v="Neustift an der Lafnitz" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7153275001" lat="47.36857" lon="16.020838"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7420" /><tag k="addr:street" v="Kirchengasse" /><tag k="addr:city" v="Neustift an der Lafnitz" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="47.36813" minlon="16.020032" maxlat="47.368578" maxlon="16.020838" />
+</osm>

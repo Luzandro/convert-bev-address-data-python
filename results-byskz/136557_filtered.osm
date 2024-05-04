@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5309221001" lat="48.04432" lon="12.881747"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5124" /><tag k="addr:street" v="Hagner Weg" /><tag k="addr:city" v="Haigermoos" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-5309232001" lat="48.046248" lon="12.886402"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5124" /><tag k="addr:street" v="Hagner Weg" /><tag k="addr:city" v="Haigermoos" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5309233001" lat="48.045936" lon="12.886364"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5124" /><tag k="addr:street" v="Hagner Weg" /><tag k="addr:city" v="Haigermoos" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7077484000" lat="48.043468" lon="12.887688"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5124" /><tag k="addr:street" v="Hagner Weg" /><tag k="addr:city" v="Haigermoos" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7286280002" lat="48.043684" lon="12.887468"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5124" /><tag k="addr:street" v="Hagner Weg" /><tag k="addr:city" v="Haigermoos" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7687714001" lat="48.043819" lon="12.887703"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5124" /><tag k="addr:street" v="Hagner Weg" /><tag k="addr:city" v="Haigermoos" /><tag k="addr:housenumber" v="7" /></node>
+<bounds minlat="48.043468" minlon="12.881747" maxlat="48.046248" maxlon="12.887703" />
+</osm>

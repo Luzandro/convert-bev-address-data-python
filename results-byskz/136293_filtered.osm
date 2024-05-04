@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7682981000" lat="48.035526" lon="13.106896"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5232" /><tag k="addr:street" v="Schwarzstra&#223;e" /><tag k="addr:city" v="Kirchberg bei Mattighofen" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7683866000" lat="48.035278" lon="13.106775"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5232" /><tag k="addr:street" v="Schwarzstra&#223;e" /><tag k="addr:city" v="Kirchberg bei Mattighofen" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7683867000" lat="48.035076" lon="13.106677"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5232" /><tag k="addr:street" v="Schwarzstra&#223;e" /><tag k="addr:city" v="Kirchberg bei Mattighofen" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7683868000" lat="48.034869" lon="13.106576"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5232" /><tag k="addr:street" v="Schwarzstra&#223;e" /><tag k="addr:city" v="Kirchberg bei Mattighofen" /><tag k="addr:housenumber" v="8" /></node>
+<bounds minlat="48.034869" minlon="13.106576" maxlat="48.035526" maxlon="13.106896" />
+</osm>

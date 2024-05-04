@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5261124001" lat="47.36739" lon="16.026405"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7420" /><tag k="addr:street" v="Schulweg" /><tag k="addr:city" v="Neustift an der Lafnitz" /><tag k="addr:housenumber" v="9" /></node>
+<node id="-5261211001" lat="47.367446" lon="16.026865"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7420" /><tag k="addr:street" v="Schulweg" /><tag k="addr:city" v="Neustift an der Lafnitz" /><tag k="addr:housenumber" v="11" /></node>
+<node id="-5261286001" lat="47.367477" lon="16.025708"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7420" /><tag k="addr:street" v="Schulweg" /><tag k="addr:city" v="Neustift an der Lafnitz" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7563266001" lat="47.367365" lon="16.025386"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7420" /><tag k="addr:street" v="Schulweg" /><tag k="addr:city" v="Neustift an der Lafnitz" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7626136001" lat="47.367577" lon="16.026185"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7420" /><tag k="addr:street" v="Schulweg" /><tag k="addr:city" v="Neustift an der Lafnitz" /><tag k="addr:housenumber" v="7" /></node>
+<bounds minlat="47.367365" minlon="16.025386" maxlat="47.367577" maxlon="16.026865" />
+</osm>

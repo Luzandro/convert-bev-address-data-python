@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6203361001" lat="47.955384" lon="14.709555"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="3340" /><tag k="addr:street" v="Zattelberg" /><tag k="addr:city" v="Waidhofen an der Ybbs" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-6203362001" lat="47.956864" lon="14.707837"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="3340" /><tag k="addr:street" v="Zattelberg" /><tag k="addr:city" v="Waidhofen an der Ybbs" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-6203363002" lat="47.958136" lon="14.704521"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="3340" /><tag k="addr:street" v="Zattelberg" /><tag k="addr:city" v="Waidhofen an der Ybbs" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-6203364001" lat="47.955413" lon="14.704016"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="3340" /><tag k="addr:street" v="Zattelberg" /><tag k="addr:city" v="Waidhofen an der Ybbs" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-6203365001" lat="47.953731" lon="14.699845"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="3340" /><tag k="addr:street" v="Zattelberg" /><tag k="addr:city" v="Waidhofen an der Ybbs" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7003406001" lat="47.956689" lon="14.707652"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="3340" /><tag k="addr:street" v="Zattelberg" /><tag k="addr:city" v="Waidhofen an der Ybbs" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="47.953731" minlon="14.699845" maxlat="47.958136" maxlon="14.709555" />
+</osm>

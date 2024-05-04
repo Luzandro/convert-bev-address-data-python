@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5244649001" lat="47.212109" lon="16.335852"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Sonnengasse" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-5244654000" lat="47.212782" lon="16.336746"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Sonnengasse" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="12" /></node>
+<node id="-5244655001" lat="47.212512" lon="16.336783"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Sonnengasse" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="10" /></node>
+<node id="-5244657001" lat="47.212374" lon="16.336346"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Sonnengasse" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7457509001" lat="47.211379" lon="16.335853"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Sonnengasse" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7611066000" lat="47.211784" lon="16.335635"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Sonnengasse" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="47.211379" minlon="16.335635" maxlat="47.212782" maxlon="16.336783" />
+</osm>

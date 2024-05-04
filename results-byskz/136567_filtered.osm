@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5309274001" lat="48.057882" lon="12.876408"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5124" /><tag k="addr:street" v="Marktler Stra&#223;e" /><tag k="addr:city" v="Haigermoos" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-5309278001" lat="48.050264" lon="12.875766"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5124" /><tag k="addr:street" v="Marktler Stra&#223;e" /><tag k="addr:city" v="Haigermoos" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-5309279001" lat="48.047773" lon="12.873664"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5124" /><tag k="addr:street" v="Marktler Stra&#223;e" /><tag k="addr:city" v="Haigermoos" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5309280001" lat="48.052994" lon="12.876669"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5124" /><tag k="addr:street" v="Marktler Stra&#223;e" /><tag k="addr:city" v="Haigermoos" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-5309281001" lat="48.051336" lon="12.876354"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5124" /><tag k="addr:street" v="Marktler Stra&#223;e" /><tag k="addr:city" v="Haigermoos" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7184367001" lat="48.053326" lon="12.877077"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5124" /><tag k="addr:street" v="Marktler Stra&#223;e" /><tag k="addr:city" v="Haigermoos" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="48.047773" minlon="12.873664" maxlat="48.057882" maxlon="12.877077" />
+</osm>

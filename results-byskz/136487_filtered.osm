@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5244682001" lat="47.208292" lon="16.338114"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Fliederweg" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5244687001" lat="47.207973" lon="16.337898"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Fliederweg" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5244690001" lat="47.208174" lon="16.338852"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Fliederweg" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-5244691001" lat="47.207981" lon="16.338419"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Fliederweg" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7688592000" lat="47.208321" lon="16.338546"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Fliederweg" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="47.207973" minlon="16.337898" maxlat="47.208321" maxlon="16.338852" />
+</osm>

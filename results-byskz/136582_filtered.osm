@@ -1,0 +1,10 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5309306001" lat="48.036026" lon="12.877711"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5124" /><tag k="addr:street" v="Weyerstra&#223;e" /><tag k="addr:city" v="Haigermoos" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5309307001" lat="48.035022" lon="12.878178"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5124" /><tag k="addr:street" v="Weyerstra&#223;e" /><tag k="addr:city" v="Haigermoos" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5309308001" lat="48.035022" lon="12.878178"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5124" /><tag k="addr:street" v="Weyerstra&#223;e" /><tag k="addr:city" v="Haigermoos" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-5309321001" lat="48.031621" lon="12.87607"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5124" /><tag k="addr:street" v="Weyerstra&#223;e" /><tag k="addr:city" v="Haigermoos" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-5309329001" lat="48.034199" lon="12.878894"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5124" /><tag k="addr:street" v="Weyerstra&#223;e" /><tag k="addr:city" v="Haigermoos" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-5309331001" lat="48.034459" lon="12.878201"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5124" /><tag k="addr:street" v="Weyerstra&#223;e" /><tag k="addr:city" v="Haigermoos" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-5309333001" lat="48.034146" lon="12.879427"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5124" /><tag k="addr:street" v="Weyerstra&#223;e" /><tag k="addr:city" v="Haigermoos" /><tag k="addr:housenumber" v="7" /></node>
+<bounds minlat="48.031621" minlon="12.87607" maxlat="48.036026" maxlon="12.879427" />
+</osm>

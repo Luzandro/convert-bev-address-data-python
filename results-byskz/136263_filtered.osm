@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7635081000" lat="47.050979" lon="15.858027"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="8311" /><tag k="addr:street" v="Gewerbering-Nord" /><tag k="addr:city" v="Markt Hartmannsdorf" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7674448000" lat="47.051468" lon="15.857996"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="8311" /><tag k="addr:street" v="Gewerbering-Nord" /><tag k="addr:city" v="Markt Hartmannsdorf" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7681723000" lat="47.050995" lon="15.857872"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="8311" /><tag k="addr:street" v="Gewerbering-Nord" /><tag k="addr:city" v="Markt Hartmannsdorf" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7686946000" lat="47.051039" lon="15.857861"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="8311" /><tag k="addr:street" v="Gewerbering-Nord" /><tag k="addr:city" v="Markt Hartmannsdorf" /><tag k="addr:housenumber" v="1a" /></node>
+<node id="-7686947000" lat="47.051119" lon="15.857839"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="8311" /><tag k="addr:street" v="Gewerbering-Nord" /><tag k="addr:city" v="Markt Hartmannsdorf" /><tag k="addr:housenumber" v="1b" /></node>
+<bounds minlat="47.050979" minlon="15.857839" maxlat="47.051468" maxlon="15.858027" />
+</osm>

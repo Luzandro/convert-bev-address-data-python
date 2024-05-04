@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5261133001" lat="47.358923" lon="16.035722"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7420" /><tag k="addr:street" v="Schwabenwaldweg" /><tag k="addr:city" v="Neustift an der Lafnitz" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5261134001" lat="47.357622" lon="16.035773"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7420" /><tag k="addr:street" v="Schwabenwaldweg" /><tag k="addr:city" v="Neustift an der Lafnitz" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-5261170001" lat="47.35859" lon="16.035549"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7420" /><tag k="addr:street" v="Schwabenwaldweg" /><tag k="addr:city" v="Neustift an der Lafnitz" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="47.357622" minlon="16.035549" maxlat="47.358923" maxlon="16.035773" />
+</osm>

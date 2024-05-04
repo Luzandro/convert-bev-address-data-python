@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5244823001" lat="47.26361" lon="16.3172"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Sonnenhang" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-5244824001" lat="47.26293" lon="16.318369"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Sonnenhang" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="15" /></node>
+<node id="-6993815001" lat="47.263907" lon="16.317038"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Sonnenhang" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7452363001" lat="47.263718" lon="16.317777"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Sonnenhang" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="47.26293" minlon="16.317038" maxlat="47.263907" maxlon="16.318369" />
+</osm>

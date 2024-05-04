@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6325846001" lat="48.352398" lon="16.757551"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="2253" /><tag k="addr:street" v="D&#246;rfleser Kirchensteig" /><tag k="addr:city" v="Weikendorf" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-6325879001" lat="48.352616" lon="16.757258"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="2253" /><tag k="addr:street" v="D&#246;rfleser Kirchensteig" /><tag k="addr:city" v="Weikendorf" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-6325880001" lat="48.352721" lon="16.757101"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="2253" /><tag k="addr:street" v="D&#246;rfleser Kirchensteig" /><tag k="addr:city" v="Weikendorf" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="48.352398" minlon="16.757101" maxlat="48.352721" maxlon="16.757551" />
+</osm>

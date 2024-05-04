@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7684153000" lat="48.061222" lon="13.104447"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5224" /><tag k="addr:street" v="Sandgrube" /><tag k="addr:city" v="Auerbach" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7684154000" lat="48.064128" lon="13.101964"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5224" /><tag k="addr:street" v="Sandgrube" /><tag k="addr:city" v="Auerbach" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="48.061222" minlon="13.101964" maxlat="48.064128" maxlon="13.104447" />
+</osm>

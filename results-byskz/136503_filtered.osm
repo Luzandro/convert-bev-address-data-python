@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5244843001" lat="47.230367" lon="16.348525"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="An der M&#252;hle" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5244844001" lat="47.230724" lon="16.347146"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="An der M&#252;hle" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5244845001" lat="47.230917" lon="16.347348"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="An der M&#252;hle" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="1a" /></node>
+<bounds minlat="47.230367" minlon="16.347146" maxlat="47.230917" maxlon="16.348525" />
+</osm>

@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7530536001" lat="46.750053" lon="13.185084"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="9761" /><tag k="addr:street" v="An der Allee" /><tag k="addr:city" v="Greifenburg" /><tag k="addr:housenumber" v="379" /></node>
+<node id="-7685222001" lat="46.750051" lon="13.185471"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="9761" /><tag k="addr:street" v="An der Allee" /><tag k="addr:city" v="Greifenburg" /><tag k="addr:housenumber" v="394" /></node>
+<bounds minlat="46.750051" minlon="13.185084" maxlat="46.750053" maxlon="13.185471" />
+</osm>

@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7277551001" lat="47.275312" lon="12.418172"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5731" /><tag k="addr:street" v="Scharrerhof" /><tag k="addr:city" v="Hollersbach im Pinzgau" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7628734001" lat="47.275316" lon="12.417738"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5731" /><tag k="addr:street" v="Scharrerhof" /><tag k="addr:city" v="Hollersbach im Pinzgau" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7688253001" lat="47.275626" lon="12.417976"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="5731" /><tag k="addr:street" v="Scharrerhof" /><tag k="addr:city" v="Hollersbach im Pinzgau" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="47.275312" minlon="12.417738" maxlat="47.275626" maxlon="12.418172" />
+</osm>

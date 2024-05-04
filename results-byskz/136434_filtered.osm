@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7684503000" lat="48.45906" lon="14.29449"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="4202" /><tag k="addr:street" v="Florianiweg" /><tag k="addr:city" v="Sonnberg im M&#252;hlkreis" /><tag k="addr:housenumber" v="9" /></node>
+<node id="-7685926000" lat="48.458598" lon="14.294817"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="4202" /><tag k="addr:street" v="Florianiweg" /><tag k="addr:city" v="Sonnberg im M&#252;hlkreis" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="48.458598" minlon="14.29449" maxlat="48.45906" maxlon="14.294817" />
+</osm>

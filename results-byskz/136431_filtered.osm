@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7684412000" lat="48.530368" lon="15.927806"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="3710" /><tag k="addr:street" v="Stadelweg" /><tag k="addr:city" v="Ziersdorf" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7684446000" lat="48.53022" lon="15.928071"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="3710" /><tag k="addr:street" v="Stadelweg" /><tag k="addr:city" v="Ziersdorf" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7684447000" lat="48.530022" lon="15.928427"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="3710" /><tag k="addr:street" v="Stadelweg" /><tag k="addr:city" v="Ziersdorf" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7684448000" lat="48.529863" lon="15.928692"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="3710" /><tag k="addr:street" v="Stadelweg" /><tag k="addr:city" v="Ziersdorf" /><tag k="addr:housenumber" v="8" /></node>
+<bounds minlat="48.529863" minlon="15.927806" maxlat="48.530368" maxlon="15.928692" />
+</osm>

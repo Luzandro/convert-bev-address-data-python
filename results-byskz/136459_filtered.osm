@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6791130001" lat="47.276397" lon="9.671021"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="6835" /><tag k="addr:street" v="Am Histeler" /><tag k="addr:city" v="Zwischenwasser" /><tag k="addr:housenumber" v="9" /></node>
+<node id="-6791133001" lat="47.275871" lon="9.671173"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="6835" /><tag k="addr:street" v="Am Histeler" /><tag k="addr:city" v="Zwischenwasser" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7116895001" lat="47.276034" lon="9.671044"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="6835" /><tag k="addr:street" v="Am Histeler" /><tag k="addr:city" v="Zwischenwasser" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="47.275871" minlon="9.671021" maxlat="47.276397" maxlon="9.671173" />
+</osm>

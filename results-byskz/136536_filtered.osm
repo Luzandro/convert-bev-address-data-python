@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5261190001" lat="47.368182" lon="16.019201"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7420" /><tag k="addr:street" v="Lafnitzgasse" /><tag k="addr:city" v="Neustift an der Lafnitz" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5261201001" lat="47.36782" lon="16.017798"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7420" /><tag k="addr:street" v="Lafnitzgasse" /><tag k="addr:city" v="Neustift an der Lafnitz" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-5261202001" lat="47.36794" lon="16.018372"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7420" /><tag k="addr:street" v="Lafnitzgasse" /><tag k="addr:city" v="Neustift an der Lafnitz" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="47.36782" minlon="16.017798" maxlat="47.368182" maxlon="16.019201" />
+</osm>

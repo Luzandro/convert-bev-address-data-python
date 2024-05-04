@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7684067000" lat="48.33123" lon="16.122007"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="3425" /><tag k="addr:street" v="Heinrich-Hof-Weg" /><tag k="addr:city" v="Tulln an der Donau" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7684068000" lat="48.331711" lon="16.121942"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="3425" /><tag k="addr:street" v="Heinrich-Hof-Weg" /><tag k="addr:city" v="Tulln an der Donau" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7684069000" lat="48.331358" lon="16.122463"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="3425" /><tag k="addr:street" v="Heinrich-Hof-Weg" /><tag k="addr:city" v="Tulln an der Donau" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="48.33123" minlon="16.121942" maxlat="48.331711" maxlon="16.122463" />
+</osm>

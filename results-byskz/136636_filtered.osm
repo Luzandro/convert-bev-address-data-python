@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7688546000" lat="47.186264" lon="15.325955"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="8121" /><tag k="addr:street" v="Herbstgasse" /><tag k="addr:city" v="Deutschfeistritz" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7688547000" lat="47.186132" lon="15.326352"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="8121" /><tag k="addr:street" v="Herbstgasse" /><tag k="addr:city" v="Deutschfeistritz" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7688548000" lat="47.185972" lon="15.326786"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="8121" /><tag k="addr:street" v="Herbstgasse" /><tag k="addr:city" v="Deutschfeistritz" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="47.185972" minlon="15.325955" maxlat="47.186264" maxlon="15.326786" />
+</osm>

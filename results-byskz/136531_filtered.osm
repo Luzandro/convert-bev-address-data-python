@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7181398001" lat="47.369109" lon="16.033531"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7420" /><tag k="addr:street" v="H&#246;hkreuzweg" /><tag k="addr:city" v="Neustift an der Lafnitz" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7611191000" lat="47.369077" lon="16.033253"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7420" /><tag k="addr:street" v="H&#246;hkreuzweg" /><tag k="addr:city" v="Neustift an der Lafnitz" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="47.369077" minlon="16.033253" maxlat="47.369109" maxlon="16.033531" />
+</osm>
