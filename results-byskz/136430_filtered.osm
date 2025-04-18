@@ -1,5 +1,7 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7684548000" lat="46.890054" lon="14.509966"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="9334" /><tag k="addr:street" v="Pfarrhofsiedlung" /><tag k="addr:city" v="Guttaring" /><tag k="addr:housenumber" v="2" /></node>
-<node id="-7685156000" lat="46.890109" lon="14.508453"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="9334" /><tag k="addr:street" v="Pfarrhofsiedlung" /><tag k="addr:city" v="Guttaring" /><tag k="addr:housenumber" v="15" /></node>
-<bounds minlat="46.890054" minlon="14.508453" maxlat="46.890109" maxlon="14.509966" />
+<node id="-7684548000" lat="46.890256" lon="14.510041"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="9334" /><tag k="addr:street" v="Pfarrhofsiedlung" /><tag k="addr:city" v="Guttaring" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7685156001" lat="46.890146" lon="14.508292"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="9334" /><tag k="addr:street" v="Pfarrhofsiedlung" /><tag k="addr:city" v="Guttaring" /><tag k="addr:housenumber" v="15" /></node>
+<node id="-7695751001" lat="46.890443" lon="14.509231"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="9334" /><tag k="addr:street" v="Pfarrhofsiedlung" /><tag k="addr:city" v="Guttaring" /><tag k="addr:housenumber" v="19" /></node>
+<node id="-7700065000" lat="46.8902" lon="14.509762"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="9334" /><tag k="addr:street" v="Pfarrhofsiedlung" /><tag k="addr:city" v="Guttaring" /><tag k="addr:housenumber" v="2a" /></node>
+<bounds minlat="46.890146" minlon="14.508292" maxlat="46.890443" maxlon="14.510041" />
 </osm>

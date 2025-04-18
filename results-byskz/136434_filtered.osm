@@ -1,5 +1,6 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7684503000" lat="48.45906" lon="14.29449"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="4202" /><tag k="addr:street" v="Florianiweg" /><tag k="addr:city" v="Sonnberg im M&#252;hlkreis" /><tag k="addr:housenumber" v="9" /></node>
-<node id="-7685926000" lat="48.458598" lon="14.294817"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="4202" /><tag k="addr:street" v="Florianiweg" /><tag k="addr:city" v="Sonnberg im M&#252;hlkreis" /><tag k="addr:housenumber" v="4" /></node>
-<bounds minlat="48.458598" minlon="14.29449" maxlat="48.45906" maxlon="14.294817" />
+<node id="-7692840000" lat="48.458625" lon="14.295033"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="4202" /><tag k="addr:street" v="Florianiweg" /><tag k="addr:city" v="Sonnberg im M&#252;hlkreis" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7694513000" lat="48.458935" lon="14.294974"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="4202" /><tag k="addr:street" v="Florianiweg" /><tag k="addr:city" v="Sonnberg im M&#252;hlkreis" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7696025000" lat="48.458465" lon="14.29451"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="4202" /><tag k="addr:street" v="Florianiweg" /><tag k="addr:city" v="Sonnberg im M&#252;hlkreis" /><tag k="addr:housenumber" v="8" /></node>
+<bounds minlat="48.458465" minlon="14.294409" maxlat="48.459007" maxlon="14.295033" />
 </osm>

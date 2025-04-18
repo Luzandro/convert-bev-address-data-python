@@ -1,7 +1,4 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7685767000" lat="47.5218" lon="12.095312"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="6322" /><tag k="addr:street" v="Horizon Boulevard" /><tag k="addr:city" v="Kirchbichl" /><tag k="addr:housenumber" v="5" /></node>
-<node id="-7685773000" lat="47.521076" lon="12.093722"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="6322" /><tag k="addr:street" v="Horizon Boulevard" /><tag k="addr:city" v="Kirchbichl" /><tag k="addr:housenumber" v="1" /></node>
 <node id="-7685774000" lat="47.521041" lon="12.093805"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="6322" /><tag k="addr:street" v="Horizon Boulevard" /><tag k="addr:city" v="Kirchbichl" /><tag k="addr:housenumber" v="3" /></node>
-<node id="-7685776000" lat="47.520958" lon="12.093815"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="6322" /><tag k="addr:street" v="Horizon Boulevard" /><tag k="addr:city" v="Kirchbichl" /><tag k="addr:housenumber" v="4" /></node>
 <bounds minlat="47.520958" minlon="12.093722" maxlat="47.5218" maxlon="12.095312" />
 </osm>

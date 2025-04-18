@@ -1,6 +1,5 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
 <node id="-7682394000" lat="48.403177" lon="15.785189"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="3484" /><tag k="addr:street" v="Plachweg" /><tag k="addr:city" v="Grafenw&#246;rth" /><tag k="addr:housenumber" v="5" /></node>
-<node id="-7682396000" lat="48.402996" lon="15.784491"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="3484" /><tag k="addr:street" v="Plachweg" /><tag k="addr:city" v="Grafenw&#246;rth" /><tag k="addr:housenumber" v="1" /></node>
-<node id="-7683095001" lat="48.403101" lon="15.784816"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="3484" /><tag k="addr:street" v="Plachweg" /><tag k="addr:city" v="Grafenw&#246;rth" /><tag k="addr:housenumber" v="3" /></node>
-<bounds minlat="48.402996" minlon="15.784491" maxlat="48.403177" maxlon="15.785189" />
+<node id="-7697555001" lat="48.402994" lon="15.784644"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="3484" /><tag k="addr:street" v="Plachweg" /><tag k="addr:city" v="Grafenw&#246;rth" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="48.402955" minlon="15.784553" maxlat="48.403177" maxlon="15.785189" />
 </osm>

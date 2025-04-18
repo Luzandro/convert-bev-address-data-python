@@ -1,9 +1,4 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
 <node id="-5391108000" lat="48.283992" lon="13.708866"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="4720" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Kallham" /><tag k="addr:housenumber" v="6" /></node>
-<node id="-5391116001" lat="48.282146" lon="13.710199"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="4720" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Kallham" /><tag k="addr:housenumber" v="1" /></node>
-<node id="-5391133002" lat="48.282537" lon="13.709927"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="4720" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Kallham" /><tag k="addr:housenumber" v="2" /></node>
-<node id="-5391209001" lat="48.282481" lon="13.709733"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="4720" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Kallham" /><tag k="addr:housenumber" v="3" /></node>
-<node id="-7225034001" lat="48.283476" lon="13.709021"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="4720" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Kallham" /><tag k="addr:housenumber" v="7" /></node>
-<node id="-7258156001" lat="48.282579" lon="13.709045"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="4720" /><tag k="addr:street" v="Gewerbestra&#223;e" /><tag k="addr:city" v="Kallham" /><tag k="addr:housenumber" v="4" /></node>
 <bounds minlat="48.282146" minlon="13.708866" maxlat="48.283992" maxlon="13.710199" />
 </osm>

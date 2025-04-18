@@ -1,8 +1,5 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-5244878001" lat="47.234157" lon="16.355287"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Waldgasse" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="4" /></node>
-<node id="-5244879001" lat="47.234236" lon="16.355173"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Waldgasse" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="5" /></node>
-<node id="-5244936001" lat="47.234321" lon="16.355275"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Waldgasse" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="6" /></node>
-<node id="-7030270000" lat="47.233978" lon="16.355151"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Waldgasse" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="3" /></node>
-<node id="-7491064001" lat="47.235869" lon="16.356055"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Waldgasse" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="9" /></node>
-<bounds minlat="47.233978" minlon="16.355151" maxlat="47.235869" maxlon="16.356055" />
+<node id="-7693511000" lat="47.233769" lon="16.354917"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Waldgasse" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7693512001" lat="47.23389" lon="16.355174"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="7503" /><tag k="addr:street" v="Waldgasse" /><tag k="addr:city" v="Gro&#223;petersdorf" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="47.233769" minlon="16.354917" maxlat="47.235869" maxlon="16.356055" />
 </osm>

@@ -1,5 +1,4 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7351715001" lat="46.732696" lon="14.07965"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="9560" /><tag k="addr:street" v="Gusti-Maresch-Weg" /><tag k="addr:city" v="Feldkirchen in K&#228;rnten" /><tag k="addr:housenumber" v="12" /></node>
-<node id="-7678050001" lat="46.732437" lon="14.079757"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="9560" /><tag k="addr:street" v="Gusti-Maresch-Weg" /><tag k="addr:city" v="Feldkirchen in K&#228;rnten" /><tag k="addr:housenumber" v="11" /></node>
-<bounds minlat="46.732437" minlon="14.07965" maxlat="46.732696" maxlon="14.079757" />
+<node id="-7602706001" lat="46.732115" lon="14.079645"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="9560" /><tag k="addr:street" v="Gusti-Maresch-Weg" /><tag k="addr:city" v="Feldkirchen in K&#228;rnten" /><tag k="addr:housenumber" v="9" /></node>
+<bounds minlat="46.732115" minlon="14.079645" maxlat="46.732696" maxlon="14.079757" />
 </osm>

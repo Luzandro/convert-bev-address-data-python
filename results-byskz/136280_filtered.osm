@@ -1,5 +1,6 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7682245000" lat="48.069856" lon="14.743928"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="3361" /><tag k="addr:street" v="Josef Lettner-Stra&#223;e" /><tag k="addr:city" v="Aschbach-Markt" /><tag k="addr:housenumber" v="8" /></node>
-<node id="-7683660000" lat="48.069787" lon="14.74373"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="3361" /><tag k="addr:street" v="Josef Lettner-Stra&#223;e" /><tag k="addr:city" v="Aschbach-Markt" /><tag k="addr:housenumber" v="10" /></node>
-<bounds minlat="48.069787" minlon="14.74373" maxlat="48.069856" maxlon="14.743928" />
+<node id="-7682245000" lat="48.06984" lon="14.743883"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="3361" /><tag k="addr:street" v="Josef Lettner-Stra&#223;e" /><tag k="addr:city" v="Aschbach-Markt" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7683660000" lat="48.069779" lon="14.743706"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="3361" /><tag k="addr:street" v="Josef Lettner-Stra&#223;e" /><tag k="addr:city" v="Aschbach-Markt" /><tag k="addr:housenumber" v="10" /></node>
+<node id="-7699170000" lat="48.070047" lon="14.744483"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="3361" /><tag k="addr:street" v="Josef Lettner-Stra&#223;e" /><tag k="addr:city" v="Aschbach-Markt" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="48.069779" minlon="14.743706" maxlat="48.070047" maxlon="14.744483" />
 </osm>

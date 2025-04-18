@@ -2,5 +2,7 @@
 <node id="-7681948000" lat="48.039479" lon="15.769672"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="3170" /><tag k="addr:street" v="Bahnhofsiedlung" /><tag k="addr:city" v="Hainfeld" /><tag k="addr:housenumber" v="13" /></node>
 <node id="-7682657000" lat="48.03874" lon="15.771545"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="3170" /><tag k="addr:street" v="Bahnhofsiedlung" /><tag k="addr:city" v="Hainfeld" /><tag k="addr:housenumber" v="1" /></node>
 <node id="-7683719000" lat="48.039161" lon="15.770635"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="3170" /><tag k="addr:street" v="Bahnhofsiedlung" /><tag k="addr:city" v="Hainfeld" /><tag k="addr:housenumber" v="7" /></node>
-<bounds minlat="48.03874" minlon="15.769672" maxlat="48.039479" maxlon="15.771545" />
+<node id="-7690608000" lat="48.039764" lon="15.769262"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="3170" /><tag k="addr:street" v="Bahnhofsiedlung" /><tag k="addr:city" v="Hainfeld" /><tag k="addr:housenumber" v="22" /></node>
+<node id="-7696879000" lat="48.038913" lon="15.771277"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2024-04-01" /><tag k="addr:postcode" v="3170" /><tag k="addr:street" v="Bahnhofsiedlung" /><tag k="addr:city" v="Hainfeld" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="48.03874" minlon="15.769262" maxlat="48.039764" maxlon="15.771545" />
 </osm>
