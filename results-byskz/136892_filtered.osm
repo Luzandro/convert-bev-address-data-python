@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7694873000" lat="47.918639" lon="16.222388"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2544" /><tag k="addr:street" v="Polsterer Stra&#223;e" /><tag k="addr:city" v="Leobersdorf" /><tag k="addr:housenumber" v="16" /></node>
+<node id="-7694874000" lat="47.918654" lon="16.222064"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2544" /><tag k="addr:street" v="Polsterer Stra&#223;e" /><tag k="addr:city" v="Leobersdorf" /><tag k="addr:housenumber" v="14" /></node>
+<bounds minlat="47.918639" minlon="16.222064" maxlat="47.918654" maxlon="16.222388" />
+</osm>

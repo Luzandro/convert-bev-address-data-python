@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7693813000" lat="48.06297" lon="15.13071"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="3251" /><tag k="addr:street" v="G&#252;nter-Kogler-Stra&#223;e" /><tag k="addr:city" v="Purgstall an der Erlauf" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7693814000" lat="48.062852" lon="15.130783"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="3251" /><tag k="addr:street" v="G&#252;nter-Kogler-Stra&#223;e" /><tag k="addr:city" v="Purgstall an der Erlauf" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7693815000" lat="48.063234" lon="15.130897"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="3251" /><tag k="addr:street" v="G&#252;nter-Kogler-Stra&#223;e" /><tag k="addr:city" v="Purgstall an der Erlauf" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7693816000" lat="48.063458" lon="15.131212"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="3251" /><tag k="addr:street" v="G&#252;nter-Kogler-Stra&#223;e" /><tag k="addr:city" v="Purgstall an der Erlauf" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7693817000" lat="48.06364" lon="15.131184"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="3251" /><tag k="addr:street" v="G&#252;nter-Kogler-Stra&#223;e" /><tag k="addr:city" v="Purgstall an der Erlauf" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="48.062852" minlon="15.13071" maxlat="48.06364" maxlon="15.131212" />
+</osm>

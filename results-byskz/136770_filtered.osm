@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7691515000" lat="48.40958" lon="16.633719"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2221" /><tag k="addr:street" v="Eisgarnweg" /><tag k="addr:city" v="Gro&#223;-Schweinbarth" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7691516000" lat="48.409736" lon="16.633592"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2221" /><tag k="addr:street" v="Eisgarnweg" /><tag k="addr:city" v="Gro&#223;-Schweinbarth" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7691625000" lat="48.409825" lon="16.633681"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2221" /><tag k="addr:street" v="Eisgarnweg" /><tag k="addr:city" v="Gro&#223;-Schweinbarth" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7691626000" lat="48.40999" lon="16.633534"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2221" /><tag k="addr:street" v="Eisgarnweg" /><tag k="addr:city" v="Gro&#223;-Schweinbarth" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7691627000" lat="48.410092" lon="16.633442"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2221" /><tag k="addr:street" v="Eisgarnweg" /><tag k="addr:city" v="Gro&#223;-Schweinbarth" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7691629000" lat="48.410198" lon="16.633348"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2221" /><tag k="addr:street" v="Eisgarnweg" /><tag k="addr:city" v="Gro&#223;-Schweinbarth" /><tag k="addr:housenumber" v="8" /></node>
+<bounds minlat="48.40958" minlon="16.633348" maxlat="48.410198" maxlon="16.633719" />
+</osm>

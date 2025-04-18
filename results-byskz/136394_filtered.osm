@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7047436001" lat="48.266422" lon="14.33178"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4020" /><tag k="addr:street" v="Logistikstra&#223;e" /><tag k="addr:city" v="Linz" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7684817001" lat="48.264743" lon="14.332505"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4020" /><tag k="addr:street" v="Logistikstra&#223;e" /><tag k="addr:city" v="Linz" /><tag k="addr:housenumber" v="12" /></node>
+<node id="-7696435000" lat="48.265646" lon="14.331692"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4020" /><tag k="addr:street" v="Logistikstra&#223;e" /><tag k="addr:city" v="Linz" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7696436000" lat="48.265136" lon="14.332051"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4020" /><tag k="addr:street" v="Logistikstra&#223;e" /><tag k="addr:city" v="Linz" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7696437000" lat="48.26395" lon="14.332395"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4020" /><tag k="addr:street" v="Logistikstra&#223;e" /><tag k="addr:city" v="Linz" /><tag k="addr:housenumber" v="13" /></node>
+<bounds minlat="48.26395" minlon="14.331692" maxlat="48.266422" maxlon="14.332505" />
+</osm>

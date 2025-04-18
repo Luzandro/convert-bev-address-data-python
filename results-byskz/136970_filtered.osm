@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5341970001" lat="48.407346" lon="14.839663"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4280" /><tag k="addr:street" v="Hans-J&#246;rg-Wimmer-Stra&#223;e" /><tag k="addr:city" v="K&#246;nigswiesen" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7361971001" lat="48.407249" lon="14.839325"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4280" /><tag k="addr:street" v="Hans-J&#246;rg-Wimmer-Stra&#223;e" /><tag k="addr:city" v="K&#246;nigswiesen" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="48.407249" minlon="14.839325" maxlat="48.407346" maxlon="14.839663" />
+</osm>

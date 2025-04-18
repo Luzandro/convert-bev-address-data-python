@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7697719000" lat="48.20229" lon="16.556809"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2301" /><tag k="addr:street" v="Feldweg" /><tag k="addr:city" v="Gro&#223;-Enzersdorf" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7697774000" lat="48.211525" lon="16.546676"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2301" /><tag k="addr:street" v="Feldweg" /><tag k="addr:city" v="Gro&#223;-Enzersdorf" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7697776000" lat="48.188041" lon="16.54548"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2301" /><tag k="addr:street" v="Feldweg" /><tag k="addr:city" v="Gro&#223;-Enzersdorf" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7697777000" lat="48.186455" lon="16.554315"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2301" /><tag k="addr:street" v="Feldweg" /><tag k="addr:city" v="Gro&#223;-Enzersdorf" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7697779000" lat="48.224014" lon="16.548811"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2301" /><tag k="addr:street" v="Feldweg" /><tag k="addr:city" v="Gro&#223;-Enzersdorf" /><tag k="addr:housenumber" v="9" /></node>
+<bounds minlat="48.186455" minlon="16.54548" maxlat="48.224014" maxlon="16.556809" />
+</osm>

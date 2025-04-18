@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7691180000" lat="47.699598" lon="16.149299"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2824" /><tag k="addr:street" v="Kastanienweg" /><tag k="addr:city" v="Seebenstein" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7691181000" lat="47.699515" lon="16.148939"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2824" /><tag k="addr:street" v="Kastanienweg" /><tag k="addr:city" v="Seebenstein" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7691182000" lat="47.69927" lon="16.148875"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2824" /><tag k="addr:street" v="Kastanienweg" /><tag k="addr:city" v="Seebenstein" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="47.69927" minlon="16.148875" maxlat="47.699598" maxlon="16.149299" />
+</osm>

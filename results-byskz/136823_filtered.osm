@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7693810000" lat="46.927584" lon="15.491467"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="8402" /><tag k="addr:street" v="Roman-Blattl-Weg" /><tag k="addr:city" v="Werndorf" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7693890000" lat="46.927499" lon="15.491918"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="8402" /><tag k="addr:street" v="Roman-Blattl-Weg" /><tag k="addr:city" v="Werndorf" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7702717000" lat="46.927694" lon="15.491972"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="8402" /><tag k="addr:street" v="Roman-Blattl-Weg" /><tag k="addr:city" v="Werndorf" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7702719000" lat="46.927639" lon="15.492428"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="8402" /><tag k="addr:street" v="Roman-Blattl-Weg" /><tag k="addr:city" v="Werndorf" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="46.927499" minlon="15.491467" maxlat="46.927694" maxlon="15.492428" />
+</osm>

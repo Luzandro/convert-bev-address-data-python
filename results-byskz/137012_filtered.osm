@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7701414000" lat="47.435333" lon="9.723477"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="6850" /><tag k="addr:street" v="Werbenau" /><tag k="addr:city" v="Dornbirn" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7701416000" lat="47.435718" lon="9.723605"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="6850" /><tag k="addr:street" v="Werbenau" /><tag k="addr:city" v="Dornbirn" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="47.435333" minlon="9.723477" maxlat="47.435718" maxlon="9.723605" />
+</osm>

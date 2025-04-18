@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7684705001" lat="48.27739" lon="14.339595"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4020" /><tag k="addr:street" v="Brammenstra&#223;e" /><tag k="addr:city" v="Linz" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7696210001" lat="48.278063" lon="14.339595"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4020" /><tag k="addr:street" v="Brammenstra&#223;e" /><tag k="addr:city" v="Linz" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7696213000" lat="48.276083" lon="14.339931"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4020" /><tag k="addr:street" v="Brammenstra&#223;e" /><tag k="addr:city" v="Linz" /><tag k="addr:housenumber" v="12" /></node>
+<node id="-7696214001" lat="48.275622" lon="14.339506"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4020" /><tag k="addr:street" v="Brammenstra&#223;e" /><tag k="addr:city" v="Linz" /><tag k="addr:housenumber" v="14" /></node>
+<bounds minlat="48.275622" minlon="14.339506" maxlat="48.278063" maxlon="14.339931" />
+</osm>

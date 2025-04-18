@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7695585000" lat="48.230621" lon="16.480192"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="1220" /><tag k="addr:street" v="Hans-Weigel-Gasse" /><tag k="addr:suburb" v="Donaustadt" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7695587000" lat="48.230625" lon="16.480758"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="1220" /><tag k="addr:street" v="Hans-Weigel-Gasse" /><tag k="addr:suburb" v="Donaustadt" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7695588000" lat="48.230547" lon="16.481145"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="1220" /><tag k="addr:street" v="Hans-Weigel-Gasse" /><tag k="addr:suburb" v="Donaustadt" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7702119000" lat="48.230744" lon="16.481151"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="1220" /><tag k="addr:street" v="Hans-Weigel-Gasse" /><tag k="addr:suburb" v="Donaustadt" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="48.230547" minlon="16.480192" maxlat="48.230744" maxlon="16.481151" />
+</osm>

@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7700271000" lat="46.750075" lon="15.632055"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="8423" /><tag k="addr:street" v="Narzissenweg" /><tag k="addr:city" v="Sankt Veit in der S&#252;dsteiermark" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7701196000" lat="46.749331" lon="15.631405"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="8423" /><tag k="addr:street" v="Narzissenweg" /><tag k="addr:city" v="Sankt Veit in der S&#252;dsteiermark" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7701197000" lat="46.749569" lon="15.631608"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="8423" /><tag k="addr:street" v="Narzissenweg" /><tag k="addr:city" v="Sankt Veit in der S&#252;dsteiermark" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7701198000" lat="46.749847" lon="15.631854"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="8423" /><tag k="addr:street" v="Narzissenweg" /><tag k="addr:city" v="Sankt Veit in der S&#252;dsteiermark" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="46.749331" minlon="15.631405" maxlat="46.750075" maxlon="15.632055" />
+</osm>

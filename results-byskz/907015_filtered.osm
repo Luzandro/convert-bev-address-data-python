@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7689139000" lat="48.229354" lon="16.480808"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="1220" /><tag k="addr:street" v="Maria-Gutmann-Gasse" /><tag k="addr:suburb" v="Donaustadt" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7695974000" lat="48.228707" lon="16.480447"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="1220" /><tag k="addr:street" v="Maria-Gutmann-Gasse" /><tag k="addr:suburb" v="Donaustadt" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="48.228707" minlon="16.480447" maxlat="48.229354" maxlon="16.480808" />
+</osm>

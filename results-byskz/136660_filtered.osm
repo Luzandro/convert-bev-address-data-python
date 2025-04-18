@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7690678001" lat="47.286025" lon="11.037963"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="6421" /><tag k="addr:street" v="Kirchfeld" /><tag k="addr:city" v="Rietz" /><tag k="addr:housenumber" v="9" /></node>
+<node id="-7690681001" lat="47.286085" lon="11.037756"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="6421" /><tag k="addr:street" v="Kirchfeld" /><tag k="addr:city" v="Rietz" /><tag k="addr:housenumber" v="11" /></node>
+<node id="-7701688000" lat="47.285853" lon="11.037945"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="6421" /><tag k="addr:street" v="Kirchfeld" /><tag k="addr:city" v="Rietz" /><tag k="addr:housenumber" v="14" /></node>
+<node id="-7701827000" lat="47.285895" lon="11.037712"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="6421" /><tag k="addr:street" v="Kirchfeld" /><tag k="addr:city" v="Rietz" /><tag k="addr:housenumber" v="13" /></node>
+<node id="-7702003000" lat="47.286167" lon="11.037972"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="6421" /><tag k="addr:street" v="Kirchfeld" /><tag k="addr:city" v="Rietz" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="47.285853" minlon="11.037712" maxlat="47.286167" maxlon="11.038735" />
+</osm>

@@ -1,0 +1,11 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7684890001" lat="48.272475" lon="14.325939"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4020" /><tag k="addr:street" v="Magazinweg" /><tag k="addr:city" v="Linz" /><tag k="addr:housenumber" v="9" /></node>
+<node id="-7696484001" lat="48.271634" lon="14.324947"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4020" /><tag k="addr:street" v="Magazinweg" /><tag k="addr:city" v="Linz" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7696491000" lat="48.272063" lon="14.325029"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4020" /><tag k="addr:street" v="Magazinweg" /><tag k="addr:city" v="Linz" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7696493001" lat="48.271978" lon="14.325694"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4020" /><tag k="addr:street" v="Magazinweg" /><tag k="addr:city" v="Linz" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7696494001" lat="48.272069" lon="14.326069"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4020" /><tag k="addr:street" v="Magazinweg" /><tag k="addr:city" v="Linz" /><tag k="addr:housenumber" v="10" /></node>
+<node id="-7696495001" lat="48.272491" lon="14.326562"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4020" /><tag k="addr:street" v="Magazinweg" /><tag k="addr:city" v="Linz" /><tag k="addr:housenumber" v="11" /></node>
+<node id="-7696496001" lat="48.272286" lon="14.32683"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4020" /><tag k="addr:street" v="Magazinweg" /><tag k="addr:city" v="Linz" /><tag k="addr:housenumber" v="12" /></node>
+<node id="-7696497001" lat="48.271745" lon="14.325623"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4020" /><tag k="addr:street" v="Magazinweg" /><tag k="addr:city" v="Linz" /><tag k="addr:housenumber" v="8a" /></node>
+<bounds minlat="48.271634" minlon="14.324947" maxlat="48.272491" maxlon="14.32683" />
+</osm>

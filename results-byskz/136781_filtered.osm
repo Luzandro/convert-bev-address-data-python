@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5507017001" lat="48.485854" lon="13.620186"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4793" /><tag k="addr:street" v="Oberfeld" /><tag k="addr:city" v="St. Roman" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-5507024001" lat="48.484505" lon="13.618011"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4793" /><tag k="addr:street" v="Oberfeld" /><tag k="addr:city" v="St. Roman" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5507036001" lat="48.48595" lon="13.619841"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4793" /><tag k="addr:street" v="Oberfeld" /><tag k="addr:city" v="St. Roman" /><tag k="addr:housenumber" v="9" /></node>
+<node id="-5507086001" lat="48.485678" lon="13.619957"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4793" /><tag k="addr:street" v="Oberfeld" /><tag k="addr:city" v="St. Roman" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-5507087001" lat="48.484842" lon="13.618998"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4793" /><tag k="addr:street" v="Oberfeld" /><tag k="addr:city" v="St. Roman" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7237887001" lat="48.485264" lon="13.619419"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4793" /><tag k="addr:street" v="Oberfeld" /><tag k="addr:city" v="St. Roman" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="48.484505" minlon="13.618011" maxlat="48.48595" maxlon="13.620186" />
+</osm>

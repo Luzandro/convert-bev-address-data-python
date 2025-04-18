@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7684892001" lat="48.27812" lon="14.338424"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4020" /><tag k="addr:street" v="M&#246;llerstra&#223;e" /><tag k="addr:city" v="Linz" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7696513001" lat="48.277867" lon="14.337355"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4020" /><tag k="addr:street" v="M&#246;llerstra&#223;e" /><tag k="addr:city" v="Linz" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7696514001" lat="48.277466" lon="14.337421"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4020" /><tag k="addr:street" v="M&#246;llerstra&#223;e" /><tag k="addr:city" v="Linz" /><tag k="addr:housenumber" v="10" /></node>
+<node id="-7696515001" lat="48.277358" lon="14.335889"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4020" /><tag k="addr:street" v="M&#246;llerstra&#223;e" /><tag k="addr:city" v="Linz" /><tag k="addr:housenumber" v="14" /></node>
+<node id="-7696516001" lat="48.277228" lon="14.335308"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4020" /><tag k="addr:street" v="M&#246;llerstra&#223;e" /><tag k="addr:city" v="Linz" /><tag k="addr:housenumber" v="16" /></node>
+<bounds minlat="48.277228" minlon="14.335308" maxlat="48.27812" maxlon="14.338424" />
+</osm>

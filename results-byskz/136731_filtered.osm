@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7689858001" lat="47.554684" lon="11.654107"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="6215" /><tag k="addr:street" v="Schulterbergalm" /><tag k="addr:city" v="Achenkirch" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7689859001" lat="47.554961" lon="11.654402"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="6215" /><tag k="addr:street" v="Schulterbergalm" /><tag k="addr:city" v="Achenkirch" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7689860001" lat="47.544257" lon="11.639188"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="6215" /><tag k="addr:street" v="Schulterbergalm" /><tag k="addr:city" v="Achenkirch" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7689861000" lat="47.545759" lon="11.636329"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="6215" /><tag k="addr:street" v="Schulterbergalm" /><tag k="addr:city" v="Achenkirch" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7689862000" lat="47.54582" lon="11.635568"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="6215" /><tag k="addr:street" v="Schulterbergalm" /><tag k="addr:city" v="Achenkirch" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7689863000" lat="47.545938" lon="11.636048"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="6215" /><tag k="addr:street" v="Schulterbergalm" /><tag k="addr:city" v="Achenkirch" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="47.544257" minlon="11.635568" maxlat="47.554961" maxlon="11.654402" />
+</osm>

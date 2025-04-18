@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7690368001" lat="48.719108" lon="16.488761"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2135" /><tag k="addr:street" v="Gwentblick" /><tag k="addr:city" v="Neudorf im Weinviertel" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7696473000" lat="48.719095" lon="16.489093"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2135" /><tag k="addr:street" v="Gwentblick" /><tag k="addr:city" v="Neudorf im Weinviertel" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="48.719095" minlon="16.488761" maxlat="48.719108" maxlon="16.489093" />
+</osm>

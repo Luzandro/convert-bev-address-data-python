@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7690390000" lat="48.718338" lon="16.488566"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2135" /><tag k="addr:street" v="Fliederstra&#223;e" /><tag k="addr:city" v="Neudorf im Weinviertel" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7696471000" lat="48.718466" lon="16.489219"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2135" /><tag k="addr:street" v="Fliederstra&#223;e" /><tag k="addr:city" v="Neudorf im Weinviertel" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7696472000" lat="48.718298" lon="16.488868"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2135" /><tag k="addr:street" v="Fliederstra&#223;e" /><tag k="addr:city" v="Neudorf im Weinviertel" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="48.718298" minlon="16.488566" maxlat="48.718466" maxlon="16.489219" />
+</osm>

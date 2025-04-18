@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7691407000" lat="47.064133" lon="16.074944"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="8280" /><tag k="addr:street" v="Herbert-Depisch-Stra&#223;e" /><tag k="addr:city" v="F&#252;rstenfeld" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7693243000" lat="47.065035" lon="16.075607"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="8280" /><tag k="addr:street" v="Herbert-Depisch-Stra&#223;e" /><tag k="addr:city" v="F&#252;rstenfeld" /><tag k="addr:housenumber" v="11" /></node>
+<node id="-7697938000" lat="47.065299" lon="16.07705"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="8280" /><tag k="addr:street" v="Herbert-Depisch-Stra&#223;e" /><tag k="addr:city" v="F&#252;rstenfeld" /><tag k="addr:housenumber" v="13" /></node>
+<bounds minlat="47.064133" minlon="16.074944" maxlat="47.065299" maxlon="16.07705" />
+</osm>

@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7695666000" lat="48.240015" lon="14.521467"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4310" /><tag k="addr:street" v="Erwin-Wohlmuth-Hof" /><tag k="addr:city" v="Mauthausen" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7695667000" lat="48.240275" lon="14.521273"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4310" /><tag k="addr:street" v="Erwin-Wohlmuth-Hof" /><tag k="addr:city" v="Mauthausen" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7695668000" lat="48.240552" lon="14.521583"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4310" /><tag k="addr:street" v="Erwin-Wohlmuth-Hof" /><tag k="addr:city" v="Mauthausen" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7695669000" lat="48.240011" lon="14.522162"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4310" /><tag k="addr:street" v="Erwin-Wohlmuth-Hof" /><tag k="addr:city" v="Mauthausen" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7695670000" lat="48.240013" lon="14.522161"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4310" /><tag k="addr:street" v="Erwin-Wohlmuth-Hof" /><tag k="addr:city" v="Mauthausen" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="48.240011" minlon="14.521273" maxlat="48.240552" maxlon="14.522162" />
+</osm>

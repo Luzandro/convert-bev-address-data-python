@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7693737000" lat="47.984757" lon="14.124632"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4552" /><tag k="addr:street" v="Ahornweg" /><tag k="addr:city" v="Wartberg an der Krems" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7693743000" lat="47.984798" lon="14.124901"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4552" /><tag k="addr:street" v="Ahornweg" /><tag k="addr:city" v="Wartberg an der Krems" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="47.984757" minlon="14.124632" maxlat="47.984798" maxlon="14.124901" />
+</osm>

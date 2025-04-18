@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7700310000" lat="47.902511" lon="16.904023"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="7122" /><tag k="addr:street" v="Rebenweg" /><tag k="addr:city" v="Gols" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7700311000" lat="47.902621" lon="16.904151"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="7122" /><tag k="addr:street" v="Rebenweg" /><tag k="addr:city" v="Gols" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7700313000" lat="47.902574" lon="16.903884"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="7122" /><tag k="addr:street" v="Rebenweg" /><tag k="addr:city" v="Gols" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7700314000" lat="47.902714" lon="16.904047"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="7122" /><tag k="addr:street" v="Rebenweg" /><tag k="addr:city" v="Gols" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7700455000" lat="47.90231" lon="16.903788"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="7122" /><tag k="addr:street" v="Rebenweg" /><tag k="addr:city" v="Gols" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7700456000" lat="47.902381" lon="16.903659"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="7122" /><tag k="addr:street" v="Rebenweg" /><tag k="addr:city" v="Gols" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="47.90231" minlon="16.903659" maxlat="47.902714" maxlon="16.904151" />
+</osm>

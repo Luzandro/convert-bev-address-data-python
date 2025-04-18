@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7694250000" lat="48.187888" lon="15.09426"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="3680" /><tag k="addr:street" v="Kindergartenstra&#223;e" /><tag k="addr:city" v="Persenbeug-Gottsdorf" /><tag k="addr:housenumber" v="13" /></node>
+<node id="-7697004000" lat="48.188108" lon="15.094208"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="3680" /><tag k="addr:street" v="Kindergartenstra&#223;e" /><tag k="addr:city" v="Persenbeug-Gottsdorf" /><tag k="addr:housenumber" v="11" /></node>
+<node id="-7701336000" lat="48.187686" lon="15.094507"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="3680" /><tag k="addr:street" v="Kindergartenstra&#223;e" /><tag k="addr:city" v="Persenbeug-Gottsdorf" /><tag k="addr:housenumber" v="15" /></node>
+<bounds minlat="48.187686" minlon="15.094208" maxlat="48.188108" maxlon="15.094507" />
+</osm>

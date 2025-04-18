@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7695757000" lat="48.270413" lon="14.571848"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4311" /><tag k="addr:street" v="Billensteinerstra&#223;e" /><tag k="addr:city" v="Schwertberg" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7695758000" lat="48.270719" lon="14.572125"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4311" /><tag k="addr:street" v="Billensteinerstra&#223;e" /><tag k="addr:city" v="Schwertberg" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7695759000" lat="48.270804" lon="14.572065"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4311" /><tag k="addr:street" v="Billensteinerstra&#223;e" /><tag k="addr:city" v="Schwertberg" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7695760000" lat="48.270843" lon="14.572257"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4311" /><tag k="addr:street" v="Billensteinerstra&#223;e" /><tag k="addr:city" v="Schwertberg" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7695761000" lat="48.270813" lon="14.572643"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4311" /><tag k="addr:street" v="Billensteinerstra&#223;e" /><tag k="addr:city" v="Schwertberg" /><tag k="addr:housenumber" v="7" /></node>
+<bounds minlat="48.270413" minlon="14.571848" maxlat="48.270843" maxlon="14.572643" />
+</osm>

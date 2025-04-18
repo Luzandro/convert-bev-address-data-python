@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6676860000" lat="48.113054" lon="16.450993"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2326" /><tag k="addr:street" v="Stone Stra&#223;e" /><tag k="addr:city" v="Lanzendorf" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7603703000" lat="48.113529" lon="16.450499"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2326" /><tag k="addr:street" v="Stone Stra&#223;e" /><tag k="addr:city" v="Lanzendorf" /><tag k="addr:housenumber" v="3a" /></node>
+<node id="-7603704000" lat="48.113347" lon="16.45027"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2326" /><tag k="addr:street" v="Stone Stra&#223;e" /><tag k="addr:city" v="Lanzendorf" /><tag k="addr:housenumber" v="3b" /></node>
+<node id="-7603705000" lat="48.113091" lon="16.452017"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2326" /><tag k="addr:street" v="Stone Stra&#223;e" /><tag k="addr:city" v="Lanzendorf" /><tag k="addr:housenumber" v="3c" /></node>
+<node id="-7692257000" lat="48.113378" lon="16.44977"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2326" /><tag k="addr:street" v="Stone Stra&#223;e" /><tag k="addr:city" v="Lanzendorf" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="48.113054" minlon="16.44977" maxlat="48.113529" maxlon="16.452017" />
+</osm>

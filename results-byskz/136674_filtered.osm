@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7689159001" lat="47.849186" lon="13.094022"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="5300" /><tag k="addr:street" v="Am Lohbach" /><tag k="addr:city" v="Hallwang" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7689160000" lat="47.850303" lon="13.093178"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="5300" /><tag k="addr:street" v="Am Lohbach" /><tag k="addr:city" v="Hallwang" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="47.849186" minlon="13.093178" maxlat="47.850303" maxlon="13.094022" />
+</osm>

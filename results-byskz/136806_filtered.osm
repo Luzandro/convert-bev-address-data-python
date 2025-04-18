@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7693236000" lat="47.938965" lon="14.121166"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4553" /><tag k="addr:street" v="Bernardistra&#223;e" /><tag k="addr:city" v="Schlierbach" /><tag k="addr:housenumber" v="28" /></node>
+<node id="-7693237000" lat="47.938942" lon="14.121175"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4553" /><tag k="addr:street" v="Bernardistra&#223;e" /><tag k="addr:city" v="Schlierbach" /><tag k="addr:housenumber" v="30" /></node>
+<bounds minlat="47.938942" minlon="14.121166" maxlat="47.938965" maxlon="14.121175" />
+</osm>

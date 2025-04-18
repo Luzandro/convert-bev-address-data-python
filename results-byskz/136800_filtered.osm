@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7695438001" lat="46.561385" lon="13.806322"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="9586" /><tag k="addr:street" v="Wiesenrainweg" /><tag k="addr:city" v="Finkenstein am Faaker See" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7695446001" lat="46.561209" lon="13.80638"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="9586" /><tag k="addr:street" v="Wiesenrainweg" /><tag k="addr:city" v="Finkenstein am Faaker See" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7695448001" lat="46.560765" lon="13.806189"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="9586" /><tag k="addr:street" v="Wiesenrainweg" /><tag k="addr:city" v="Finkenstein am Faaker See" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7695941000" lat="46.560641" lon="13.805622"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="9586" /><tag k="addr:street" v="Wiesenrainweg" /><tag k="addr:city" v="Finkenstein am Faaker See" /><tag k="addr:housenumber" v="11" /></node>
+<bounds minlat="46.560641" minlon="13.805622" maxlat="46.561385" maxlon="13.80638" />
+</osm>

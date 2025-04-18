@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7696301000" lat="48.27536" lon="14.32769"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4020" /><tag k="addr:street" v="Fl&#252;ssigschlackentransportweg" /><tag k="addr:city" v="Linz" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7696302000" lat="48.275471" lon="14.328454"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4020" /><tag k="addr:street" v="Fl&#252;ssigschlackentransportweg" /><tag k="addr:city" v="Linz" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7696303000" lat="48.2751" lon="14.330356"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4020" /><tag k="addr:street" v="Fl&#252;ssigschlackentransportweg" /><tag k="addr:city" v="Linz" /><tag k="addr:housenumber" v="9" /></node>
+<node id="-7696304001" lat="48.277735" lon="14.344226"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4020" /><tag k="addr:street" v="Fl&#252;ssigschlackentransportweg" /><tag k="addr:city" v="Linz" /><tag k="addr:housenumber" v="55" /></node>
+<node id="-7696305000" lat="48.276107" lon="14.330252"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4020" /><tag k="addr:street" v="Fl&#252;ssigschlackentransportweg" /><tag k="addr:city" v="Linz" /><tag k="addr:housenumber" v="9a" /></node>
+<bounds minlat="48.2751" minlon="14.32769" maxlat="48.277735" maxlon="14.344226" />
+</osm>

@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7693925000" lat="48.229472" lon="16.483636"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="1220" /><tag k="addr:street" v="Josepha-Auernhammer-Gasse" /><tag k="addr:suburb" v="Donaustadt" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7695967000" lat="48.229747" lon="16.483089"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="1220" /><tag k="addr:street" v="Josepha-Auernhammer-Gasse" /><tag k="addr:suburb" v="Donaustadt" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7699852000" lat="48.229603" lon="16.482939"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="1220" /><tag k="addr:street" v="Josepha-Auernhammer-Gasse" /><tag k="addr:suburb" v="Donaustadt" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="48.229472" minlon="16.482939" maxlat="48.229747" maxlon="16.483636" />
+</osm>

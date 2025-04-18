@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7691213000" lat="48.182116" lon="16.36762"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="1100" /><tag k="addr:street" v="Karl-Merkatz-Gasse" /><tag k="addr:suburb" v="Favoriten" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="12" /></node>
+<node id="-7691232000" lat="48.18166" lon="16.367522"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="1100" /><tag k="addr:street" v="Karl-Merkatz-Gasse" /><tag k="addr:suburb" v="Favoriten" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="14" /></node>
+<bounds minlat="48.18166" minlon="16.367522" maxlat="48.182116" maxlon="16.36762" />
+</osm>

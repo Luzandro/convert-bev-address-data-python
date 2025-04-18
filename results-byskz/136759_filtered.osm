@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5405220001" lat="47.806645" lon="14.127134"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4571" /><tag k="addr:street" v="Windhagerweg" /><tag k="addr:city" v="Klaus an der Pyhrnbahn" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-5405227001" lat="47.806331" lon="14.126401"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4571" /><tag k="addr:street" v="Windhagerweg" /><tag k="addr:city" v="Klaus an der Pyhrnbahn" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5405228001" lat="47.8065" lon="14.126617"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4571" /><tag k="addr:street" v="Windhagerweg" /><tag k="addr:city" v="Klaus an der Pyhrnbahn" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7692682000" lat="47.806152" lon="14.126541"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4571" /><tag k="addr:street" v="Windhagerweg" /><tag k="addr:city" v="Klaus an der Pyhrnbahn" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7692683000" lat="47.806386" lon="14.126759"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4571" /><tag k="addr:street" v="Windhagerweg" /><tag k="addr:city" v="Klaus an der Pyhrnbahn" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="47.806152" minlon="14.126401" maxlat="47.806645" maxlon="14.127134" />
+</osm>

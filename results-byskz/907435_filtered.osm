@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7702404000" lat="48.228676" lon="16.482411"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="1220" /><tag k="addr:street" v="Man-Ray-Promenade" /><tag k="addr:suburb" v="Donaustadt" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7702405000" lat="48.228078" lon="16.482146"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="1220" /><tag k="addr:street" v="Man-Ray-Promenade" /><tag k="addr:suburb" v="Donaustadt" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="48.228078" minlon="16.482146" maxlat="48.228676" maxlon="16.482411" />
+</osm>

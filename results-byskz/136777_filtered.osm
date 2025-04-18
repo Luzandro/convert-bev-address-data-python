@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7418967001" lat="48.48187" lon="13.606872"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4793" /><tag k="addr:street" v="Br&#252;ndlwiese" /><tag k="addr:city" v="St. Roman" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7419063001" lat="48.481614" lon="13.606724"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4793" /><tag k="addr:street" v="Br&#252;ndlwiese" /><tag k="addr:city" v="St. Roman" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7454650001" lat="48.482328" lon="13.60696"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4793" /><tag k="addr:street" v="Br&#252;ndlwiese" /><tag k="addr:city" v="St. Roman" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7509289001" lat="48.482061" lon="13.606776"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4793" /><tag k="addr:street" v="Br&#252;ndlwiese" /><tag k="addr:city" v="St. Roman" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="48.481614" minlon="13.606724" maxlat="48.482328" maxlon="13.60696" />
+</osm>

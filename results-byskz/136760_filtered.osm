@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5405221001" lat="47.806713" lon="14.122935"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4571" /><tag k="addr:street" v="Brunnentalweg" /><tag k="addr:city" v="Klaus an der Pyhrnbahn" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-5405328001" lat="47.806336" lon="14.125466"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4571" /><tag k="addr:street" v="Brunnentalweg" /><tag k="addr:city" v="Klaus an der Pyhrnbahn" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-5405332001" lat="47.806356" lon="14.125698"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4571" /><tag k="addr:street" v="Brunnentalweg" /><tag k="addr:city" v="Klaus an der Pyhrnbahn" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-5405351001" lat="47.806119" lon="14.126207"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4571" /><tag k="addr:street" v="Brunnentalweg" /><tag k="addr:city" v="Klaus an der Pyhrnbahn" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7691272002" lat="47.805874" lon="14.126463"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4571" /><tag k="addr:street" v="Brunnentalweg" /><tag k="addr:city" v="Klaus an der Pyhrnbahn" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="47.805874" minlon="14.122935" maxlat="47.806713" maxlon="14.126463" />
+</osm>
