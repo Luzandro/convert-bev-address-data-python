@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5384277001" lat="48.178779" lon="13.747084"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4676" /><tag k="addr:street" v="Am Rastplatz" /><tag k="addr:city" v="Aistersheim" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5384278001" lat="48.179122" lon="13.746576"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4676" /><tag k="addr:street" v="Am Rastplatz" /><tag k="addr:city" v="Aistersheim" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="48.178779" minlon="13.746576" maxlat="48.179122" maxlon="13.747084" />
+</osm>

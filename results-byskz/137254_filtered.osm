@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5384269001" lat="48.185371" lon="13.74412"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4676" /><tag k="addr:street" v="Laubenweg" /><tag k="addr:city" v="Aistersheim" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5384270001" lat="48.185355" lon="13.744955"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4676" /><tag k="addr:street" v="Laubenweg" /><tag k="addr:city" v="Aistersheim" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-5384271001" lat="48.185303" lon="13.744434"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4676" /><tag k="addr:street" v="Laubenweg" /><tag k="addr:city" v="Aistersheim" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-5384272001" lat="48.185702" lon="13.744142"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4676" /><tag k="addr:street" v="Laubenweg" /><tag k="addr:city" v="Aistersheim" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5384280001" lat="48.18555" lon="13.744615"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4676" /><tag k="addr:street" v="Laubenweg" /><tag k="addr:city" v="Aistersheim" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="48.185303" minlon="13.74412" maxlat="48.185702" maxlon="13.744955" />
+</osm>

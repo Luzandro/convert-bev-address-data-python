@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7703311000" lat="47.787578" lon="12.974794"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="5071" /><tag k="addr:street" v="Franz-M&#252;ller-Stra&#223;e" /><tag k="addr:city" v="Wals-Siezenheim" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7703313000" lat="47.787724" lon="12.975153"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="5071" /><tag k="addr:street" v="Franz-M&#252;ller-Stra&#223;e" /><tag k="addr:city" v="Wals-Siezenheim" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7703314000" lat="47.787854" lon="12.975469"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="5071" /><tag k="addr:street" v="Franz-M&#252;ller-Stra&#223;e" /><tag k="addr:city" v="Wals-Siezenheim" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="47.787578" minlon="12.974794" maxlat="47.787854" maxlon="12.975469" />
+</osm>

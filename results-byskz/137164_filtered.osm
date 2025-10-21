@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7708604000" lat="47.443242" lon="10.665203"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6671" /><tag k="addr:street" v="Sportplatzweg" /><tag k="addr:city" v="Ehenbichl" /><tag k="addr:housenumber" v="9" /></node>
+<node id="-7708605000" lat="47.443344" lon="10.665455"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6671" /><tag k="addr:street" v="Sportplatzweg" /><tag k="addr:city" v="Ehenbichl" /><tag k="addr:housenumber" v="11" /></node>
+<node id="-7708606000" lat="47.443467" lon="10.665686"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6671" /><tag k="addr:street" v="Sportplatzweg" /><tag k="addr:city" v="Ehenbichl" /><tag k="addr:housenumber" v="13" /></node>
+<node id="-7708607000" lat="47.442658" lon="10.665799"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6671" /><tag k="addr:street" v="Sportplatzweg" /><tag k="addr:city" v="Ehenbichl" /><tag k="addr:housenumber" v="15" /></node>
+<bounds minlat="47.442658" minlon="10.665203" maxlat="47.443467" maxlon="10.665799" />
+</osm>

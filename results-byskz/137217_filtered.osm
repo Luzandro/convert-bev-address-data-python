@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6324328001" lat="48.50237" lon="16.673338"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2224" /><tag k="addr:street" v="Schrickerstra&#223;e" /><tag k="addr:city" v="Sulz im Weinviertel" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-6324604001" lat="48.501976" lon="16.672668"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2224" /><tag k="addr:street" v="Schrickerstra&#223;e" /><tag k="addr:city" v="Sulz im Weinviertel" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="48.501976" minlon="16.672668" maxlat="48.50237" maxlon="16.673338" />
+</osm>

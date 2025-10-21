@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5384194001" lat="48.185968" lon="13.743703"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4676" /><tag k="addr:street" v="Zwicklweg" /><tag k="addr:city" v="Aistersheim" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5384195002" lat="48.185492" lon="13.743524"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4676" /><tag k="addr:street" v="Zwicklweg" /><tag k="addr:city" v="Aistersheim" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-5384217001" lat="48.185483" lon="13.743178"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4676" /><tag k="addr:street" v="Zwicklweg" /><tag k="addr:city" v="Aistersheim" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-5384220001" lat="48.185203" lon="13.743473"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4676" /><tag k="addr:street" v="Zwicklweg" /><tag k="addr:city" v="Aistersheim" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="48.185203" minlon="13.743178" maxlat="48.185968" maxlon="13.743703" />
+</osm>

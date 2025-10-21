@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6324234000" lat="48.484906" lon="16.683769"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2224" /><tag k="addr:street" v="Ringweg" /><tag k="addr:city" v="Sulz im Weinviertel" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-6324243000" lat="48.484915" lon="16.684224"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2224" /><tag k="addr:street" v="Ringweg" /><tag k="addr:city" v="Sulz im Weinviertel" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-6324249001" lat="48.485038" lon="16.683939"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2224" /><tag k="addr:street" v="Ringweg" /><tag k="addr:city" v="Sulz im Weinviertel" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-6324298001" lat="48.485184" lon="16.683989"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2224" /><tag k="addr:street" v="Ringweg" /><tag k="addr:city" v="Sulz im Weinviertel" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7067963001" lat="48.485078" lon="16.683451"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2224" /><tag k="addr:street" v="Ringweg" /><tag k="addr:city" v="Sulz im Weinviertel" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="48.484906" minlon="16.683451" maxlat="48.485184" maxlon="16.684224" />
+</osm>

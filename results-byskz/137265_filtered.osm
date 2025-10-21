@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7702992000" lat="47.399723" lon="13.683092"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="8970" /><tag k="addr:street" v="Obere Waldstra&#223;e" /><tag k="addr:city" v="Schladming" /><tag k="addr:housenumber" v="383" /></node>
+<node id="-7703085000" lat="47.399898" lon="13.683823"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="8970" /><tag k="addr:street" v="Obere Waldstra&#223;e" /><tag k="addr:city" v="Schladming" /><tag k="addr:housenumber" v="385" /></node>
+<node id="-7704676000" lat="47.3998" lon="13.683441"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="8970" /><tag k="addr:street" v="Obere Waldstra&#223;e" /><tag k="addr:city" v="Schladming" /><tag k="addr:housenumber" v="384" /></node>
+<bounds minlat="47.399723" minlon="13.683092" maxlat="47.399898" maxlon="13.683823" />
+</osm>

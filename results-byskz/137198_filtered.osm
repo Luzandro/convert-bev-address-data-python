@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6324291001" lat="48.487654" lon="16.680741"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2224" /><tag k="addr:street" v="Kellergasse" /><tag k="addr:city" v="Sulz im Weinviertel" /><tag k="addr:housenumber" v="19" /></node>
+<node id="-6324292001" lat="48.487925" lon="16.680564"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2224" /><tag k="addr:street" v="Kellergasse" /><tag k="addr:city" v="Sulz im Weinviertel" /><tag k="addr:housenumber" v="23" /></node>
+<node id="-7217476000" lat="48.486691" lon="16.680566"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2224" /><tag k="addr:street" v="Kellergasse" /><tag k="addr:city" v="Sulz im Weinviertel" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7572528001" lat="48.486558" lon="16.680797"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2224" /><tag k="addr:street" v="Kellergasse" /><tag k="addr:city" v="Sulz im Weinviertel" /><tag k="addr:housenumber" v="10" /></node>
+<node id="-7601401000" lat="48.48635" lon="16.680082"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2224" /><tag k="addr:street" v="Kellergasse" /><tag k="addr:city" v="Sulz im Weinviertel" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7616130000" lat="48.487201" lon="16.680701"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2224" /><tag k="addr:street" v="Kellergasse" /><tag k="addr:city" v="Sulz im Weinviertel" /><tag k="addr:housenumber" v="13" /></node>
+<bounds minlat="48.48635" minlon="16.680082" maxlat="48.487925" maxlon="16.680797" />
+</osm>

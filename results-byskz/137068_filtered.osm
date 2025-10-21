@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7703976000" lat="47.729055" lon="16.951878"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="7151" /><tag k="addr:street" v="G&#252;terweg Siebenmahd" /><tag k="addr:city" v="Wallern im Burgenland" /><tag k="addr:housenumber" v="38" /></node>
+<node id="-7704185000" lat="47.727896" lon="16.95024"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="7151" /><tag k="addr:street" v="G&#252;terweg Siebenmahd" /><tag k="addr:city" v="Wallern im Burgenland" /><tag k="addr:housenumber" v="26" /></node>
+<bounds minlat="47.727896" minlon="16.95024" maxlat="47.729055" maxlon="16.951878" />
+</osm>

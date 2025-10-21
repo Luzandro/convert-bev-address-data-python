@@ -1,0 +1,10 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5693901001" lat="47.181553" lon="13.765129"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="5574" /><tag k="addr:street" v="Friesen" /><tag k="addr:city" v="G&#246;riach" /><tag k="addr:housenumber" v="64" /></node>
+<node id="-5693926001" lat="47.180941" lon="13.765808"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="5574" /><tag k="addr:street" v="Friesen" /><tag k="addr:city" v="G&#246;riach" /><tag k="addr:housenumber" v="100" /></node>
+<node id="-5693927001" lat="47.180793" lon="13.766009"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="5574" /><tag k="addr:street" v="Friesen" /><tag k="addr:city" v="G&#246;riach" /><tag k="addr:housenumber" v="101" /></node>
+<node id="-5693928001" lat="47.180551" lon="13.766175"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="5574" /><tag k="addr:street" v="Friesen" /><tag k="addr:city" v="G&#246;riach" /><tag k="addr:housenumber" v="102" /></node>
+<node id="-5693929001" lat="47.180318" lon="13.766277"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="5574" /><tag k="addr:street" v="Friesen" /><tag k="addr:city" v="G&#246;riach" /><tag k="addr:housenumber" v="103" /></node>
+<node id="-5693930001" lat="47.180193" lon="13.765868"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="5574" /><tag k="addr:street" v="Friesen" /><tag k="addr:city" v="G&#246;riach" /><tag k="addr:housenumber" v="104" /></node>
+<node id="-7617003001" lat="47.181121" lon="13.765613"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="5574" /><tag k="addr:street" v="Friesen" /><tag k="addr:city" v="G&#246;riach" /><tag k="addr:housenumber" v="99" /></node>
+<bounds minlat="47.180193" minlon="13.765129" maxlat="47.181553" maxlon="13.766277" />
+</osm>

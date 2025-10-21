@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7695552000" lat="48.206645" lon="15.602885"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="3100" /><tag k="addr:street" v="Leinb&#246;ck-Winter-Gasse" /><tag k="addr:city" v="St. P&#246;lten" /><tag k="addr:housenumber" v="9" /></node>
+<node id="-7699075000" lat="48.206785" lon="15.602496"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="3100" /><tag k="addr:street" v="Leinb&#246;ck-Winter-Gasse" /><tag k="addr:city" v="St. P&#246;lten" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7699097000" lat="48.206927" lon="15.60278"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="3100" /><tag k="addr:street" v="Leinb&#246;ck-Winter-Gasse" /><tag k="addr:city" v="St. P&#246;lten" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7704225000" lat="48.206813" lon="15.602273"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="3100" /><tag k="addr:street" v="Leinb&#246;ck-Winter-Gasse" /><tag k="addr:city" v="St. P&#246;lten" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7704662000" lat="48.206599" lon="15.602729"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="3100" /><tag k="addr:street" v="Leinb&#246;ck-Winter-Gasse" /><tag k="addr:city" v="St. P&#246;lten" /><tag k="addr:housenumber" v="8" /></node>
+<bounds minlat="48.206599" minlon="15.602273" maxlat="48.206927" maxlon="15.602885" />
+</osm>

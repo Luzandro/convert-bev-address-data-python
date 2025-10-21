@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7704617000" lat="47.839632" lon="16.832112"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="7141" /><tag k="addr:street" v="Rohrjoch" /><tag k="addr:city" v="Podersdorf am See" /><tag k="addr:housenumber" v="7832" /></node>
+<node id="-7704620000" lat="47.840641" lon="16.836409"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="7141" /><tag k="addr:street" v="Rohrjoch" /><tag k="addr:city" v="Podersdorf am See" /><tag k="addr:housenumber" v="7839" /></node>
+<bounds minlat="47.839632" minlon="16.832112" maxlat="47.840641" maxlon="16.836409" />
+</osm>

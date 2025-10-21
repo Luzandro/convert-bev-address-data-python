@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7706087000" lat="48.209857" lon="15.143603"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="3375" /><tag k="addr:street" v="Am Hafen" /><tag k="addr:city" v="Krummnu&#223;baum" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7706090000" lat="48.210067" lon="15.14354"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="3375" /><tag k="addr:street" v="Am Hafen" /><tag k="addr:city" v="Krummnu&#223;baum" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7706091000" lat="48.210296" lon="15.143479"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="3375" /><tag k="addr:street" v="Am Hafen" /><tag k="addr:city" v="Krummnu&#223;baum" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="48.209857" minlon="15.143479" maxlat="48.210296" maxlon="15.143603" />
+</osm>

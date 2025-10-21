@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7707858000" lat="47.446555" lon="12.158777"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6361" /><tag k="addr:street" v="Bergliftplatz" /><tag k="addr:city" v="Hopfgarten im Brixental" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7707859001" lat="47.446342" lon="12.158751"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6361" /><tag k="addr:street" v="Bergliftplatz" /><tag k="addr:city" v="Hopfgarten im Brixental" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7707860000" lat="47.446799" lon="12.158448"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6361" /><tag k="addr:street" v="Bergliftplatz" /><tag k="addr:city" v="Hopfgarten im Brixental" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="47.446342" minlon="12.158448" maxlat="47.446799" maxlon="12.158777" />
+</osm>

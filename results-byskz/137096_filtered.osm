@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7705319000" lat="47.213658" lon="10.758807"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6471" /><tag k="addr:street" v="Osterstein Ebene" /><tag k="addr:city" v="Arzl im Pitztal" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7705327000" lat="47.213822" lon="10.759097"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6471" /><tag k="addr:street" v="Osterstein Ebene" /><tag k="addr:city" v="Arzl im Pitztal" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7705329000" lat="47.213633" lon="10.759022"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6471" /><tag k="addr:street" v="Osterstein Ebene" /><tag k="addr:city" v="Arzl im Pitztal" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7705335000" lat="47.213786" lon="10.75893"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6471" /><tag k="addr:street" v="Osterstein Ebene" /><tag k="addr:city" v="Arzl im Pitztal" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="47.213633" minlon="10.758807" maxlat="47.213822" maxlon="10.759097" />
+</osm>

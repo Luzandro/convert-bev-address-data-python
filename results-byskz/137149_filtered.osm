@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5076753001" lat="47.527532" lon="12.562438"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6393" /><tag k="addr:street" v="Naturparadies" /><tag k="addr:city" v="St. Ulrich am Pillersee" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-5076754001" lat="47.527438" lon="12.562847"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6393" /><tag k="addr:street" v="Naturparadies" /><tag k="addr:city" v="St. Ulrich am Pillersee" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7707565000" lat="47.527631" lon="12.562861"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6393" /><tag k="addr:street" v="Naturparadies" /><tag k="addr:city" v="St. Ulrich am Pillersee" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7707566000" lat="47.527218" lon="12.562593"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6393" /><tag k="addr:street" v="Naturparadies" /><tag k="addr:city" v="St. Ulrich am Pillersee" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7707567000" lat="47.527203" lon="12.562984"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6393" /><tag k="addr:street" v="Naturparadies" /><tag k="addr:city" v="St. Ulrich am Pillersee" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="47.527203" minlon="12.562438" maxlat="47.527631" maxlon="12.562984" />
+</osm>

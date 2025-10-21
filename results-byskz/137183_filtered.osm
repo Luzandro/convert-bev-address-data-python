@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6324036001" lat="48.47616" lon="16.718036"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2224" /><tag k="addr:street" v="Friedrich Wendy-Platz" /><tag k="addr:city" v="Sulz im Weinviertel" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-6324047001" lat="48.475323" lon="16.717801"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2224" /><tag k="addr:street" v="Friedrich Wendy-Platz" /><tag k="addr:city" v="Sulz im Weinviertel" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-6324048000" lat="48.475682" lon="16.718129"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2224" /><tag k="addr:street" v="Friedrich Wendy-Platz" /><tag k="addr:city" v="Sulz im Weinviertel" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-6324050001" lat="48.475806" lon="16.718071"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2224" /><tag k="addr:street" v="Friedrich Wendy-Platz" /><tag k="addr:city" v="Sulz im Weinviertel" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="48.475323" minlon="16.717801" maxlat="48.47616" maxlon="16.718129" />
+</osm>

@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7703338000" lat="48.021776" lon="14.403422"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4451" /><tag k="addr:street" v="Green Campus" /><tag k="addr:city" v="Garsten" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7703339000" lat="48.021257" lon="14.403182"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4451" /><tag k="addr:street" v="Green Campus" /><tag k="addr:city" v="Garsten" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7703340000" lat="48.020995" lon="14.403123"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4451" /><tag k="addr:street" v="Green Campus" /><tag k="addr:city" v="Garsten" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="48.020995" minlon="14.403123" maxlat="48.021776" maxlon="14.403422" />
+</osm>

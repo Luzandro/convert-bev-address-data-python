@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5384210000" lat="48.188467" lon="13.741626"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4676" /><tag k="addr:street" v="Wiesenweg" /><tag k="addr:city" v="Aistersheim" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-5384211000" lat="48.188681" lon="13.741736"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4676" /><tag k="addr:street" v="Wiesenweg" /><tag k="addr:city" v="Aistersheim" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-5384274001" lat="48.188292" lon="13.741368"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4676" /><tag k="addr:street" v="Wiesenweg" /><tag k="addr:city" v="Aistersheim" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-5384275001" lat="48.188347" lon="13.740879"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4676" /><tag k="addr:street" v="Wiesenweg" /><tag k="addr:city" v="Aistersheim" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5384276001" lat="48.188596" lon="13.740081"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4676" /><tag k="addr:street" v="Wiesenweg" /><tag k="addr:city" v="Aistersheim" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="48.188292" minlon="13.740081" maxlat="48.188681" maxlon="13.741736" />
+</osm>

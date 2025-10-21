@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6324163001" lat="48.48726" lon="16.676297"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2224" /><tag k="addr:street" v="Nelkengasse" /><tag k="addr:city" v="Sulz im Weinviertel" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-6324164001" lat="48.487304" lon="16.676246"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2224" /><tag k="addr:street" v="Nelkengasse" /><tag k="addr:city" v="Sulz im Weinviertel" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-6324167001" lat="48.487463" lon="16.676038"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2224" /><tag k="addr:street" v="Nelkengasse" /><tag k="addr:city" v="Sulz im Weinviertel" /><tag k="addr:housenumber" v="9" /></node>
+<bounds minlat="48.48726" minlon="16.676038" maxlat="48.487463" maxlon="16.676297" />
+</osm>

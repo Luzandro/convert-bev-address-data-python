@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6324321001" lat="48.503448" lon="16.676167"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2224" /><tag k="addr:street" v="Schulweg" /><tag k="addr:city" v="Sulz im Weinviertel" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-6324428001" lat="48.503657" lon="16.676035"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2224" /><tag k="addr:street" v="Schulweg" /><tag k="addr:city" v="Sulz im Weinviertel" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-6324429001" lat="48.503629" lon="16.676129"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2224" /><tag k="addr:street" v="Schulweg" /><tag k="addr:city" v="Sulz im Weinviertel" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-6324430001" lat="48.503681" lon="16.676417"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2224" /><tag k="addr:street" v="Schulweg" /><tag k="addr:city" v="Sulz im Weinviertel" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-6324431001" lat="48.503655" lon="16.676585"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2224" /><tag k="addr:street" v="Schulweg" /><tag k="addr:city" v="Sulz im Weinviertel" /><tag k="addr:housenumber" v="7" /></node>
+<bounds minlat="48.503448" minlon="16.676035" maxlat="48.503681" maxlon="16.676585" />
+</osm>

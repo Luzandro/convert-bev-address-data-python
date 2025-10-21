@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7708964000" lat="48.211741" lon="14.46187"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4470" /><tag k="addr:street" v="Perausch-Stra&#223;e" /><tag k="addr:city" v="Enns" /><tag k="addr:housenumber" v="11" /></node>
+<node id="-7708965000" lat="48.211895" lon="14.462321"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4470" /><tag k="addr:street" v="Perausch-Stra&#223;e" /><tag k="addr:city" v="Enns" /><tag k="addr:housenumber" v="13" /></node>
+<node id="-7708967000" lat="48.211402" lon="14.462294"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4470" /><tag k="addr:street" v="Perausch-Stra&#223;e" /><tag k="addr:city" v="Enns" /><tag k="addr:housenumber" v="15" /></node>
+<node id="-7708968000" lat="48.211577" lon="14.462702"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4470" /><tag k="addr:street" v="Perausch-Stra&#223;e" /><tag k="addr:city" v="Enns" /><tag k="addr:housenumber" v="17" /></node>
+<bounds minlat="48.211402" minlon="14.46187" maxlat="48.211895" maxlon="14.462702" />
+</osm>

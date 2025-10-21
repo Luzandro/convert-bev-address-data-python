@@ -1,0 +1,4 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7615588000" lat="48.604292" lon="15.183279"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="3910" /><tag k="addr:street" v="Zukunftsstra&#223;e" /><tag k="addr:city" v="Zwettl-Nieder&#246;sterreich" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="48.604001" minlon="15.182443" maxlat="48.604292" maxlon="15.183279" />
+</osm>

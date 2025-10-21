@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6153393001" lat="46.61159" lon="14.597067"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="9122" /><tag k="addr:street" v="Spielhahnweg" /><tag k="addr:city" v="St. Kanzian am Klopeiner See" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-6153394001" lat="46.611431" lon="14.597664"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="9122" /><tag k="addr:street" v="Spielhahnweg" /><tag k="addr:city" v="St. Kanzian am Klopeiner See" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="46.611431" minlon="14.597067" maxlat="46.61159" maxlon="14.597664" />
+</osm>

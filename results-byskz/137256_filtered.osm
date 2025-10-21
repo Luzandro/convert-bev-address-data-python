@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5384221001" lat="48.197614" lon="13.749711"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4676" /><tag k="addr:street" v="Stritzmannh&#246;he" /><tag k="addr:city" v="Aistersheim" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-5384222001" lat="48.197953" lon="13.750629"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4676" /><tag k="addr:street" v="Stritzmannh&#246;he" /><tag k="addr:city" v="Aistersheim" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-5384226002" lat="48.19756" lon="13.748376"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4676" /><tag k="addr:street" v="Stritzmannh&#246;he" /><tag k="addr:city" v="Aistersheim" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="48.19756" minlon="13.748376" maxlat="48.197953" maxlon="13.750629" />
+</osm>

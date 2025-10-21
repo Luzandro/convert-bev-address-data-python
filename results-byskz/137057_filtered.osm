@@ -1,0 +1,10 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7703421001" lat="47.390999" lon="12.429716"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6373" /><tag k="addr:street" v="Rieserwald" /><tag k="addr:city" v="Jochberg" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7703551000" lat="47.390473" lon="12.430145"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6373" /><tag k="addr:street" v="Rieserwald" /><tag k="addr:city" v="Jochberg" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7703552000" lat="47.39072" lon="12.429689"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6373" /><tag k="addr:street" v="Rieserwald" /><tag k="addr:city" v="Jochberg" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7703554000" lat="47.391257" lon="12.429829"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6373" /><tag k="addr:street" v="Rieserwald" /><tag k="addr:city" v="Jochberg" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7703555000" lat="47.390687" lon="12.430113"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6373" /><tag k="addr:street" v="Rieserwald" /><tag k="addr:city" v="Jochberg" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7703556000" lat="47.390876" lon="12.430151"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6373" /><tag k="addr:street" v="Rieserwald" /><tag k="addr:city" v="Jochberg" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7703557000" lat="47.391119" lon="12.430231"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6373" /><tag k="addr:street" v="Rieserwald" /><tag k="addr:city" v="Jochberg" /><tag k="addr:housenumber" v="7" /></node>
+<bounds minlat="47.390473" minlon="12.429689" maxlat="47.391257" maxlon="12.430231" />
+</osm>

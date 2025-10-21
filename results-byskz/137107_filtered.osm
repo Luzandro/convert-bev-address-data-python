@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7705693000" lat="47.959463" lon="16.849449"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="7100" /><tag k="addr:street" v="Untere Hutweide" /><tag k="addr:city" v="Neusiedl am See" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7705694000" lat="47.958443" lon="16.849438"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="7100" /><tag k="addr:street" v="Untere Hutweide" /><tag k="addr:city" v="Neusiedl am See" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7705695000" lat="47.957832" lon="16.849326"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="7100" /><tag k="addr:street" v="Untere Hutweide" /><tag k="addr:city" v="Neusiedl am See" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="47.957832" minlon="16.849326" maxlat="47.959463" maxlon="16.849449" />
+</osm>

@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6324210001" lat="48.479979" lon="16.7073"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2224" /><tag k="addr:street" v="Hauptstra&#223;e" /><tag k="addr:city" v="Sulz im Weinviertel" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-6324287001" lat="48.479739" lon="16.706363"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2224" /><tag k="addr:street" v="Hauptstra&#223;e" /><tag k="addr:city" v="Sulz im Weinviertel" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-6324302001" lat="48.480755" lon="16.705454"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2224" /><tag k="addr:street" v="Hauptstra&#223;e" /><tag k="addr:city" v="Sulz im Weinviertel" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7343839000" lat="48.480439" lon="16.705753"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2224" /><tag k="addr:street" v="Hauptstra&#223;e" /><tag k="addr:city" v="Sulz im Weinviertel" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7432855000" lat="48.479619" lon="16.706395"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2224" /><tag k="addr:street" v="Hauptstra&#223;e" /><tag k="addr:city" v="Sulz im Weinviertel" /><tag k="addr:housenumber" v="8" /></node>
+<bounds minlat="48.479619" minlon="16.705454" maxlat="48.480755" maxlon="16.7073" />
+</osm>
