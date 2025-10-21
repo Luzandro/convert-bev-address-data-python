@@ -1,5 +1,5 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7701531000" lat="48.042117" lon="16.945703"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2473" /><tag k="addr:street" v="Batthyanygasse" /><tag k="addr:city" v="Potzneusiedl" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7701531000" lat="48.042158" lon="16.945543"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2473" /><tag k="addr:street" v="Batthyanygasse" /><tag k="addr:city" v="Potzneusiedl" /><tag k="addr:housenumber" v="1" /></node>
 <node id="-7701532000" lat="48.041989" lon="16.945447"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2473" /><tag k="addr:street" v="Batthyanygasse" /><tag k="addr:city" v="Potzneusiedl" /><tag k="addr:housenumber" v="2" /></node>
 <node id="-7701533000" lat="48.04182" lon="16.945351"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2473" /><tag k="addr:street" v="Batthyanygasse" /><tag k="addr:city" v="Potzneusiedl" /><tag k="addr:housenumber" v="3" /></node>
 <node id="-7701534000" lat="48.04167" lon="16.945266"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2473" /><tag k="addr:street" v="Batthyanygasse" /><tag k="addr:city" v="Potzneusiedl" /><tag k="addr:housenumber" v="4" /></node>
@@ -15,5 +15,5 @@
 <node id="-7701547000" lat="48.04003" lon="16.944336"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2473" /><tag k="addr:street" v="Batthyanygasse" /><tag k="addr:city" v="Potzneusiedl" /><tag k="addr:housenumber" v="14" /></node>
 <node id="-7701548000" lat="48.039875" lon="16.944248"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2473" /><tag k="addr:street" v="Batthyanygasse" /><tag k="addr:city" v="Potzneusiedl" /><tag k="addr:housenumber" v="15" /></node>
 <node id="-7701549000" lat="48.039618" lon="16.944102"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2473" /><tag k="addr:street" v="Batthyanygasse" /><tag k="addr:city" v="Potzneusiedl" /><tag k="addr:housenumber" v="16" /></node>
-<bounds minlat="48.039618" minlon="16.944102" maxlat="48.042117" maxlon="16.945703" />
+<bounds minlat="48.039618" minlon="16.944102" maxlat="48.042158" maxlon="16.945543" />
 </osm>

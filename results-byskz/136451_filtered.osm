@@ -1,5 +1,6 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
 <node id="-7693828000" lat="48.59542" lon="16.827199"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2181" /><tag k="addr:street" v="Am Anger" /><tag k="addr:city" v="Palterndorf-Dobermannsdorf" /><tag k="addr:housenumber" v="397" /></node>
 <node id="-7697699000" lat="48.595521" lon="16.826995"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2181" /><tag k="addr:street" v="Am Anger" /><tag k="addr:city" v="Palterndorf-Dobermannsdorf" /><tag k="addr:housenumber" v="396" /></node>
-<bounds minlat="48.59542" minlon="16.826995" maxlat="48.595521" maxlon="16.827199" />
+<node id="-7705544000" lat="48.595568" lon="16.826747"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="2181" /><tag k="addr:street" v="Am Anger" /><tag k="addr:city" v="Palterndorf-Dobermannsdorf" /><tag k="addr:housenumber" v="395" /></node>
+<bounds minlat="48.59542" minlon="16.826747" maxlat="48.595568" maxlon="16.827199" />
 </osm>

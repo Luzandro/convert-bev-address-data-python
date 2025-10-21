@@ -1,5 +1,6 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
 <node id="-7702083000" lat="47.071526" lon="14.689794"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="8742" /><tag k="addr:street" v="Klaus Ritter Stra&#223;e" /><tag k="addr:city" v="Obdach" /><tag k="addr:housenumber" v="3" /></node>
 <node id="-7702084000" lat="47.071796" lon="14.690585"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="8742" /><tag k="addr:street" v="Klaus Ritter Stra&#223;e" /><tag k="addr:city" v="Obdach" /><tag k="addr:housenumber" v="7" /></node>
-<bounds minlat="47.071526" minlon="14.689794" maxlat="47.071796" maxlon="14.690585" />
+<node id="-7708049000" lat="47.071628" lon="14.690891"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="8742" /><tag k="addr:street" v="Klaus Ritter Stra&#223;e" /><tag k="addr:city" v="Obdach" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="47.071526" minlon="14.689794" maxlat="47.071796" maxlon="14.690891" />
 </osm>

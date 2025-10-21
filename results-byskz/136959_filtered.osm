@@ -2,5 +2,6 @@
 <node id="-7699665000" lat="48.24279" lon="14.625399"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4320" /><tag k="addr:street" v="Wieselweg" /><tag k="addr:city" v="Perg" /><tag k="addr:housenumber" v="1" /></node>
 <node id="-7701149000" lat="48.242589" lon="14.625024"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4320" /><tag k="addr:street" v="Wieselweg" /><tag k="addr:city" v="Perg" /><tag k="addr:housenumber" v="2" /></node>
 <node id="-7701150000" lat="48.242861" lon="14.625013"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4320" /><tag k="addr:street" v="Wieselweg" /><tag k="addr:city" v="Perg" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7708797000" lat="48.242839" lon="14.625147"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4320" /><tag k="addr:street" v="Wieselweg" /><tag k="addr:city" v="Perg" /><tag k="addr:housenumber" v="1a" /></node>
 <bounds minlat="48.242589" minlon="14.625013" maxlat="48.242861" maxlon="14.625399" />
 </osm>

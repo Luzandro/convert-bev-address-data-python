@@ -1,5 +1,8 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
 <node id="-7693551000" lat="48.388792" lon="16.08616"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="3464" /><tag k="addr:street" v="Zum Pfarrfeld" /><tag k="addr:city" v="Hausleiten" /><tag k="addr:housenumber" v="10" /></node>
 <node id="-7696084000" lat="48.388407" lon="16.088853"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="3464" /><tag k="addr:street" v="Zum Pfarrfeld" /><tag k="addr:city" v="Hausleiten" /><tag k="addr:housenumber" v="7" /></node>
-<bounds minlat="48.388407" minlon="16.08616" maxlat="48.388792" maxlon="16.088853" />
+<node id="-7702927000" lat="48.388485" lon="16.088031"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="3464" /><tag k="addr:street" v="Zum Pfarrfeld" /><tag k="addr:city" v="Hausleiten" /><tag k="addr:housenumber" v="13" /></node>
+<node id="-7706404000" lat="48.388534" lon="16.087527"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="3464" /><tag k="addr:street" v="Zum Pfarrfeld" /><tag k="addr:city" v="Hausleiten" /><tag k="addr:housenumber" v="15" /></node>
+<node id="-7709425000" lat="48.388402" lon="16.090231"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="3464" /><tag k="addr:street" v="Zum Pfarrfeld" /><tag k="addr:city" v="Hausleiten" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="48.388402" minlon="16.08616" maxlat="48.388792" maxlon="16.090231" />
 </osm>

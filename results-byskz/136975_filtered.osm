@@ -7,5 +7,6 @@
 <node id="-7700325000" lat="48.268634" lon="14.191582"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4061" /><tag k="addr:street" v="Eibenweg" /><tag k="addr:city" v="Pasching" /><tag k="addr:housenumber" v="12" /></node>
 <node id="-7700326000" lat="48.268525" lon="14.191586"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4061" /><tag k="addr:street" v="Eibenweg" /><tag k="addr:city" v="Pasching" /><tag k="addr:housenumber" v="14" /></node>
 <node id="-7700327000" lat="48.268528" lon="14.191586"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4061" /><tag k="addr:street" v="Eibenweg" /><tag k="addr:city" v="Pasching" /><tag k="addr:housenumber" v="16" /></node>
-<bounds minlat="48.2685" minlon="14.191227" maxlat="48.269078" maxlon="14.191587" />
+<node id="-7703282000" lat="48.268332" lon="14.191592"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4061" /><tag k="addr:street" v="Eibenweg" /><tag k="addr:city" v="Pasching" /><tag k="addr:housenumber" v="18" /></node>
+<bounds minlat="48.268332" minlon="14.191227" maxlat="48.269078" maxlon="14.191592" />
 </osm>

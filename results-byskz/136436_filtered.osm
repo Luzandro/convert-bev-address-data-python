@@ -2,5 +2,6 @@
 <node id="-7689462001" lat="46.87673" lon="14.456252"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="9330" /><tag k="addr:street" v="Cereisenstra&#223;e" /><tag k="addr:city" v="Althofen" /><tag k="addr:housenumber" v="2" /></node>
 <node id="-7689464001" lat="46.877111" lon="14.456139"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="9330" /><tag k="addr:street" v="Cereisenstra&#223;e" /><tag k="addr:city" v="Althofen" /><tag k="addr:housenumber" v="6" /></node>
 <node id="-7689465001" lat="46.877947" lon="14.455281"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="9330" /><tag k="addr:street" v="Cereisenstra&#223;e" /><tag k="addr:city" v="Althofen" /><tag k="addr:housenumber" v="14" /></node>
-<bounds minlat="46.87673" minlon="14.455281" maxlat="46.877947" maxlon="14.456252" />
+<node id="-7706250000" lat="46.876517" lon="14.456263"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="9330" /><tag k="addr:street" v="Cereisenstra&#223;e" /><tag k="addr:city" v="Althofen" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="46.876517" minlon="14.455281" maxlat="46.877947" maxlon="14.456263" />
 </osm>

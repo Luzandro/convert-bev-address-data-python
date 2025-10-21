@@ -1,6 +1,5 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
 <node id="-7696539001" lat="48.277561" lon="14.326974"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4020" /><tag k="addr:street" v="Pelletierstra&#223;e" /><tag k="addr:city" v="Linz" /><tag k="addr:housenumber" v="3" /></node>
 <node id="-7696540001" lat="48.277156" lon="14.325983"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4020" /><tag k="addr:street" v="Pelletierstra&#223;e" /><tag k="addr:city" v="Linz" /><tag k="addr:housenumber" v="5" /></node>
-<node id="-7696541000" lat="48.276663" lon="14.326075"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4020" /><tag k="addr:street" v="Pelletierstra&#223;e" /><tag k="addr:city" v="Linz" /><tag k="addr:housenumber" v="7" /></node>
-<bounds minlat="48.276663" minlon="14.325983" maxlat="48.277561" maxlon="14.326974" />
+<bounds minlat="48.277156" minlon="14.325983" maxlat="48.277561" maxlon="14.326974" />
 </osm>

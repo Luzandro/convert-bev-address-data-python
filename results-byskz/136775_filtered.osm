@@ -5,5 +5,6 @@
 <node id="-5507073001" lat="48.481525" lon="13.608159"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4793" /><tag k="addr:street" v="Bachstra&#223;e" /><tag k="addr:city" v="St. Roman" /><tag k="addr:housenumber" v="2" /></node>
 <node id="-5507074001" lat="48.481248" lon="13.608055"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4793" /><tag k="addr:street" v="Bachstra&#223;e" /><tag k="addr:city" v="St. Roman" /><tag k="addr:housenumber" v="4" /></node>
 <node id="-5507075001" lat="48.481007" lon="13.608047"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4793" /><tag k="addr:street" v="Bachstra&#223;e" /><tag k="addr:city" v="St. Roman" /><tag k="addr:housenumber" v="6" /></node>
-<bounds minlat="48.48072" minlon="13.607864" maxlat="48.481823" maxlon="13.608703" />
+<node id="-7517752001" lat="48.479231" lon="13.607957"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-04-01" /><tag k="addr:postcode" v="4793" /><tag k="addr:street" v="Bachstra&#223;e" /><tag k="addr:city" v="St. Roman" /><tag k="addr:housenumber" v="16" /></node>
+<bounds minlat="48.479231" minlon="13.607864" maxlat="48.481823" maxlon="13.608703" />
 </osm>
