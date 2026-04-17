@@ -1,0 +1,10 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7713881000" lat="47.630979" lon="12.361648"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6345" /><tag k="addr:street" v="Ampferboden" /><tag k="addr:city" v="K&#246;ssen" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7713883000" lat="47.628155" lon="12.367499"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6345" /><tag k="addr:street" v="Ampferboden" /><tag k="addr:city" v="K&#246;ssen" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7713884000" lat="47.626515" lon="12.359326"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6345" /><tag k="addr:street" v="Ampferboden" /><tag k="addr:city" v="K&#246;ssen" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7713885000" lat="47.626144" lon="12.354974"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6345" /><tag k="addr:street" v="Ampferboden" /><tag k="addr:city" v="K&#246;ssen" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7713886000" lat="47.625829" lon="12.355252"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6345" /><tag k="addr:street" v="Ampferboden" /><tag k="addr:city" v="K&#246;ssen" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7713887000" lat="47.62578" lon="12.355441"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6345" /><tag k="addr:street" v="Ampferboden" /><tag k="addr:city" v="K&#246;ssen" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7713889000" lat="47.625095" lon="12.355645"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6345" /><tag k="addr:street" v="Ampferboden" /><tag k="addr:city" v="K&#246;ssen" /><tag k="addr:housenumber" v="7" /></node>
+<bounds minlat="47.625095" minlon="12.354974" maxlat="47.630979" maxlon="12.367499" />
+</osm>

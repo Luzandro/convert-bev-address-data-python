@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6316682000" lat="48.144312" lon="16.697098"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2304" /><tag k="addr:street" v="Am Sportplatz" /><tag k="addr:city" v="Orth an der Donau" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7710795000" lat="48.144267" lon="16.696656"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2304" /><tag k="addr:street" v="Am Sportplatz" /><tag k="addr:city" v="Orth an der Donau" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="48.144267" minlon="16.696656" maxlat="48.144312" maxlon="16.697098" />
+</osm>

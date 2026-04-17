@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7713774000" lat="47.62133" lon="12.478048"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6345" /><tag k="addr:street" v="Hasenaualm" /><tag k="addr:city" v="K&#246;ssen" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7713775000" lat="47.621349" lon="12.478156"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6345" /><tag k="addr:street" v="Hasenaualm" /><tag k="addr:city" v="K&#246;ssen" /><tag k="addr:housenumber" v="1a" /></node>
+<node id="-7713776000" lat="47.624582" lon="12.480624"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6345" /><tag k="addr:street" v="Hasenaualm" /><tag k="addr:city" v="K&#246;ssen" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7713777000" lat="47.625863" lon="12.478923"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6345" /><tag k="addr:street" v="Hasenaualm" /><tag k="addr:city" v="K&#246;ssen" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7713778000" lat="47.632785" lon="12.472749"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6345" /><tag k="addr:street" v="Hasenaualm" /><tag k="addr:city" v="K&#246;ssen" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="47.62133" minlon="12.472749" maxlat="47.632785" maxlon="12.480624" />
+</osm>

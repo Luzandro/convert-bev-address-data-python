@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7713892000" lat="47.611634" lon="12.336556"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6345" /><tag k="addr:street" v="Lenzkaralm" /><tag k="addr:city" v="K&#246;ssen" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7713893000" lat="47.611928" lon="12.33715"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6345" /><tag k="addr:street" v="Lenzkaralm" /><tag k="addr:city" v="K&#246;ssen" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7713894000" lat="47.612597" lon="12.337363"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6345" /><tag k="addr:street" v="Lenzkaralm" /><tag k="addr:city" v="K&#246;ssen" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7713895000" lat="47.618048" lon="12.343191"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6345" /><tag k="addr:street" v="Lenzkaralm" /><tag k="addr:city" v="K&#246;ssen" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7713897000" lat="47.618342" lon="12.342985"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6345" /><tag k="addr:street" v="Lenzkaralm" /><tag k="addr:city" v="K&#246;ssen" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="47.611634" minlon="12.336556" maxlat="47.618342" maxlon="12.343191" />
+</osm>

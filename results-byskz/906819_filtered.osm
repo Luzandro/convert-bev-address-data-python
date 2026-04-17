@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7710144000" lat="48.142458" lon="16.403975"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="1100" /><tag k="addr:street" v="Leopold-Prucha-Gasse" /><tag k="addr:suburb" v="Favoriten" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7710145000" lat="48.142435" lon="16.404098"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="1100" /><tag k="addr:street" v="Leopold-Prucha-Gasse" /><tag k="addr:suburb" v="Favoriten" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7710146000" lat="48.142293" lon="16.404782"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="1100" /><tag k="addr:street" v="Leopold-Prucha-Gasse" /><tag k="addr:suburb" v="Favoriten" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7716938000" lat="48.142028" lon="16.403822"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="1100" /><tag k="addr:street" v="Leopold-Prucha-Gasse" /><tag k="addr:suburb" v="Favoriten" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7716939000" lat="48.14222" lon="16.404491"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="1100" /><tag k="addr:street" v="Leopold-Prucha-Gasse" /><tag k="addr:suburb" v="Favoriten" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="48.142028" minlon="16.403822" maxlat="48.142458" maxlon="16.404782" />
+</osm>

@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7713768000" lat="47.645325" lon="12.465974"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6345" /><tag k="addr:street" v="Klausenbergalm" /><tag k="addr:city" v="K&#246;ssen" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7713769000" lat="47.645238" lon="12.465801"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6345" /><tag k="addr:street" v="Klausenbergalm" /><tag k="addr:city" v="K&#246;ssen" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7713770000" lat="47.644916" lon="12.464015"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6345" /><tag k="addr:street" v="Klausenbergalm" /><tag k="addr:city" v="K&#246;ssen" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7713771001" lat="47.646832" lon="12.468779"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6345" /><tag k="addr:street" v="Klausenbergalm" /><tag k="addr:city" v="K&#246;ssen" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="47.644916" minlon="12.464015" maxlat="47.646832" maxlon="12.468779" />
+</osm>

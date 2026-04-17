@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5452275000" lat="48.251125" lon="14.415032"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4481" /><tag k="addr:street" v="H-Rondell S&#252;d" /><tag k="addr:city" v="Luftenberg an der Donau" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-5452276000" lat="48.251387" lon="14.414609"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4481" /><tag k="addr:street" v="H-Rondell S&#252;d" /><tag k="addr:city" v="Luftenberg an der Donau" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-5452277000" lat="48.251387" lon="14.414609"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4481" /><tag k="addr:street" v="H-Rondell S&#252;d" /><tag k="addr:city" v="Luftenberg an der Donau" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7156624000" lat="48.251387" lon="14.414609"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4481" /><tag k="addr:street" v="H-Rondell S&#252;d" /><tag k="addr:city" v="Luftenberg an der Donau" /><tag k="addr:housenumber" v="8" /></node>
+<bounds minlat="48.251125" minlon="14.414609" maxlat="48.251387" maxlon="14.415032" />
+</osm>

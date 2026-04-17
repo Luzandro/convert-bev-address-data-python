@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6221376001" lat="48.143924" lon="14.484467"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4432" /><tag k="addr:street" v="Obere Weindlau" /><tag k="addr:city" v="Ernsthofen" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-6221377001" lat="48.144346" lon="14.484171"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4432" /><tag k="addr:street" v="Obere Weindlau" /><tag k="addr:city" v="Ernsthofen" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-6221378001" lat="48.144167" lon="14.484024"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4432" /><tag k="addr:street" v="Obere Weindlau" /><tag k="addr:city" v="Ernsthofen" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-6221379001" lat="48.144" lon="14.483984"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4432" /><tag k="addr:street" v="Obere Weindlau" /><tag k="addr:city" v="Ernsthofen" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-6221380001" lat="48.144624" lon="14.484218"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4432" /><tag k="addr:street" v="Obere Weindlau" /><tag k="addr:city" v="Ernsthofen" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7710214000" lat="48.143946" lon="14.485179"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4432" /><tag k="addr:street" v="Obere Weindlau" /><tag k="addr:city" v="Ernsthofen" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="48.143924" minlon="14.483984" maxlat="48.144624" maxlon="14.485179" />
+</osm>

@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7202431000" lat="48.246326" lon="14.422164"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4481" /><tag k="addr:street" v="O-Maargasse" /><tag k="addr:city" v="Luftenberg an der Donau" /><tag k="addr:housenumber" v="33" /></node>
+<node id="-7202432000" lat="48.246326" lon="14.422164"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4481" /><tag k="addr:street" v="O-Maargasse" /><tag k="addr:city" v="Luftenberg an der Donau" /><tag k="addr:housenumber" v="34" /></node>
+<node id="-7202433000" lat="48.246326" lon="14.422164"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4481" /><tag k="addr:street" v="O-Maargasse" /><tag k="addr:city" v="Luftenberg an der Donau" /><tag k="addr:housenumber" v="35" /></node>
+<node id="-7202434000" lat="48.246326" lon="14.422164"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4481" /><tag k="addr:street" v="O-Maargasse" /><tag k="addr:city" v="Luftenberg an der Donau" /><tag k="addr:housenumber" v="36" /></node>
+<node id="-7202435000" lat="48.246326" lon="14.422164"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4481" /><tag k="addr:street" v="O-Maargasse" /><tag k="addr:city" v="Luftenberg an der Donau" /><tag k="addr:housenumber" v="37" /></node>
+<node id="-7202436000" lat="48.246326" lon="14.422164"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4481" /><tag k="addr:street" v="O-Maargasse" /><tag k="addr:city" v="Luftenberg an der Donau" /><tag k="addr:housenumber" v="38" /></node>
+<bounds minlat="48.246326" minlon="14.422164" maxlat="48.246326" maxlon="14.422164" />
+</osm>

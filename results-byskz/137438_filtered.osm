@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7717455000" lat="47.84511" lon="13.338325"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="5310" /><tag k="addr:street" v="H&#246;ribachfeld" /><tag k="addr:city" v="St. Lorenz" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7717534000" lat="47.845067" lon="13.337311"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="5310" /><tag k="addr:street" v="H&#246;ribachfeld" /><tag k="addr:city" v="St. Lorenz" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7717721000" lat="47.845117" lon="13.337837"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="5310" /><tag k="addr:street" v="H&#246;ribachfeld" /><tag k="addr:city" v="St. Lorenz" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7717724000" lat="47.844822" lon="13.337928"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="5310" /><tag k="addr:street" v="H&#246;ribachfeld" /><tag k="addr:city" v="St. Lorenz" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7717729000" lat="47.84471" lon="13.337542"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="5310" /><tag k="addr:street" v="H&#246;ribachfeld" /><tag k="addr:city" v="St. Lorenz" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="47.84471" minlon="13.337311" maxlat="47.845117" maxlon="13.338325" />
+</osm>

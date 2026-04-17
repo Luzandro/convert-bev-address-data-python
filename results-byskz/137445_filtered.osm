@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7717656000" lat="47.872479" lon="14.129308"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4563" /><tag k="addr:street" v="RIKA Stra&#223;e" /><tag k="addr:city" v="Micheldorf in Ober&#246;sterreich" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7717657001" lat="47.871638" lon="14.129679"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4563" /><tag k="addr:street" v="RIKA Stra&#223;e" /><tag k="addr:city" v="Micheldorf in Ober&#246;sterreich" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="47.871638" minlon="14.129308" maxlat="47.872479" maxlon="14.129679" />
+</osm>

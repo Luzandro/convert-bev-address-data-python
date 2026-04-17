@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7716848000" lat="48.048936" lon="16.610395"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2433" /><tag k="addr:street" v="Salvatorsiedlung" /><tag k="addr:city" v="Enzersdorf an der Fischa" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7716849000" lat="48.049677" lon="16.608367"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2433" /><tag k="addr:street" v="Salvatorsiedlung" /><tag k="addr:city" v="Enzersdorf an der Fischa" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="48.048936" minlon="16.608367" maxlat="48.049677" maxlon="16.610395" />
+</osm>

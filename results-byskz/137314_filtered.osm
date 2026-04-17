@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7711976000" lat="47.715145" lon="16.379199"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="7210" /><tag k="addr:street" v="Ried Stornpill" /><tag k="addr:city" v="Mattersburg" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7711977000" lat="47.714784" lon="16.380733"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="7210" /><tag k="addr:street" v="Ried Stornpill" /><tag k="addr:city" v="Mattersburg" /><tag k="addr:housenumber" v="4" /></node>
+<bounds minlat="47.714784" minlon="16.379199" maxlat="47.715145" maxlon="16.380733" />
+</osm>

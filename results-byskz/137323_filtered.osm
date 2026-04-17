@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7712521001" lat="47.337911" lon="11.177977"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6100" /><tag k="addr:street" v="Klammbachweg" /><tag k="addr:city" v="Seefeld in Tirol" /><tag k="addr:housenumber" v="1005" /></node>
+<node id="-7712966000" lat="47.337823" lon="11.177859"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6100" /><tag k="addr:street" v="Klammbachweg" /><tag k="addr:city" v="Seefeld in Tirol" /><tag k="addr:housenumber" v="1006" /></node>
+<node id="-7713321001" lat="47.337736" lon="11.177392"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6100" /><tag k="addr:street" v="Klammbachweg" /><tag k="addr:city" v="Seefeld in Tirol" /><tag k="addr:housenumber" v="1008" /></node>
+<node id="-7716387001" lat="47.338056" lon="11.178248"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6100" /><tag k="addr:street" v="Klammbachweg" /><tag k="addr:city" v="Seefeld in Tirol" /><tag k="addr:housenumber" v="1004" /></node>
+<bounds minlat="47.337736" minlon="11.177392" maxlat="47.338056" maxlon="11.178248" />
+</osm>

@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-6220448000" lat="48.220345" lon="14.521332"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4482" /><tag k="addr:street" v="Betriebsgebiet Windpassing" /><tag k="addr:city" v="Ennsdorf" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-6220449004" lat="48.220613" lon="14.521277"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4482" /><tag k="addr:street" v="Betriebsgebiet Windpassing" /><tag k="addr:city" v="Ennsdorf" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7230579001" lat="48.219595" lon="14.518278"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4482" /><tag k="addr:street" v="Betriebsgebiet Windpassing" /><tag k="addr:city" v="Ennsdorf" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7230581001" lat="48.218812" lon="14.518977"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4482" /><tag k="addr:street" v="Betriebsgebiet Windpassing" /><tag k="addr:city" v="Ennsdorf" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7715060001" lat="48.219627" lon="14.518363"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4482" /><tag k="addr:street" v="Betriebsgebiet Windpassing" /><tag k="addr:city" v="Ennsdorf" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="48.218812" minlon="14.518278" maxlat="48.220613" maxlon="14.521332" />
+</osm>

@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7712788000" lat="48.049886" lon="16.324587"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2353" /><tag k="addr:street" v="Am W&#246;hracker" /><tag k="addr:city" v="Guntramsdorf" /><tag k="addr:housenumber" v="1a" /></node>
+<node id="-7712791000" lat="48.049753" lon="16.322956"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2353" /><tag k="addr:street" v="Am W&#246;hracker" /><tag k="addr:city" v="Guntramsdorf" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7712792000" lat="48.049972" lon="16.321974"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2353" /><tag k="addr:street" v="Am W&#246;hracker" /><tag k="addr:city" v="Guntramsdorf" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7712794000" lat="48.050153" lon="16.321306"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2353" /><tag k="addr:street" v="Am W&#246;hracker" /><tag k="addr:city" v="Guntramsdorf" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="48.049753" minlon="16.321306" maxlat="48.050153" maxlon="16.324587" />
+</osm>

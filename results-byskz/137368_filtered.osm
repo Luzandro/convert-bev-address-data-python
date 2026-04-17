@@ -1,0 +1,4 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7714701000" lat="47.168112" lon="13.098224"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="5630" /><tag k="addr:street" v="Schlo&#223;almplatz" /><tag k="addr:city" v="Bad Hofgastein" /><tag k="addr:housenumber" v="1a" /></node>
+<bounds minlat="47.167657" minlon="13.098224" maxlat="47.168112" maxlon="13.09845" />
+</osm>

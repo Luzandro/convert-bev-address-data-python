@@ -1,0 +1,8 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7711259000" lat="46.729052" lon="13.782742"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="9542" /><tag k="addr:street" v="Gassenweg" /><tag k="addr:city" v="Afritz am See" /><tag k="addr:housenumber" v="9" /></node>
+<node id="-7711260000" lat="46.729173" lon="13.782852"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="9542" /><tag k="addr:street" v="Gassenweg" /><tag k="addr:city" v="Afritz am See" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7711261000" lat="46.729253" lon="13.783101"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="9542" /><tag k="addr:street" v="Gassenweg" /><tag k="addr:city" v="Afritz am See" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7711262000" lat="46.729466" lon="13.783216"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="9542" /><tag k="addr:street" v="Gassenweg" /><tag k="addr:city" v="Afritz am See" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7711263000" lat="46.729316" lon="13.783368"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="9542" /><tag k="addr:street" v="Gassenweg" /><tag k="addr:city" v="Afritz am See" /><tag k="addr:housenumber" v="1" /></node>
+<bounds minlat="46.729052" minlon="13.782742" maxlat="46.729466" maxlon="13.783368" />
+</osm>

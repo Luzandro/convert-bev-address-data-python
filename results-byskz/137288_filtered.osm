@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7710707001" lat="47.258634" lon="11.894594"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6274" /><tag k="addr:street" v="Br&#228;ufeld" /><tag k="addr:city" v="Aschau im Zillertal" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7710709001" lat="47.258754" lon="11.895039"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6274" /><tag k="addr:street" v="Br&#228;ufeld" /><tag k="addr:city" v="Aschau im Zillertal" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7710710001" lat="47.258703" lon="11.895624"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6274" /><tag k="addr:street" v="Br&#228;ufeld" /><tag k="addr:city" v="Aschau im Zillertal" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="47.258634" minlon="11.894594" maxlat="47.258754" maxlon="11.895624" />
+</osm>

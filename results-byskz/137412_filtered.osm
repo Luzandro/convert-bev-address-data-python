@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7717083000" lat="48.391274" lon="15.936189"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="3462" /><tag k="addr:street" v="Laurentiusweg" /><tag k="addr:city" v="K&#246;nigsbrunn am Wagram" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7717084000" lat="48.391424" lon="15.936404"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="3462" /><tag k="addr:street" v="Laurentiusweg" /><tag k="addr:city" v="K&#246;nigsbrunn am Wagram" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7717085000" lat="48.391203" lon="15.936388"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="3462" /><tag k="addr:street" v="Laurentiusweg" /><tag k="addr:city" v="K&#246;nigsbrunn am Wagram" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7717086000" lat="48.391363" lon="15.936592"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="3462" /><tag k="addr:street" v="Laurentiusweg" /><tag k="addr:city" v="K&#246;nigsbrunn am Wagram" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7717087000" lat="48.391538" lon="15.936828"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="3462" /><tag k="addr:street" v="Laurentiusweg" /><tag k="addr:city" v="K&#246;nigsbrunn am Wagram" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7717088000" lat="48.39173" lon="15.937026"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="3462" /><tag k="addr:street" v="Laurentiusweg" /><tag k="addr:city" v="K&#246;nigsbrunn am Wagram" /><tag k="addr:housenumber" v="10" /></node>
+<bounds minlat="48.391203" minlon="15.936189" maxlat="48.39173" maxlon="15.937026" />
+</osm>

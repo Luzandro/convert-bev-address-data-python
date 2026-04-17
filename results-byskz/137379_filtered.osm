@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7715092000" lat="47.935056" lon="13.475381"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4880" /><tag k="addr:street" v="Lindenweg" /><tag k="addr:city" v="St. Georgen im Attergau" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7715093000" lat="47.935347" lon="13.475161"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4880" /><tag k="addr:street" v="Lindenweg" /><tag k="addr:city" v="St. Georgen im Attergau" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="47.935056" minlon="13.475161" maxlat="47.935347" maxlon="13.475381" />
+</osm>

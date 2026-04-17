@@ -1,0 +1,6 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7712920000" lat="48.241745" lon="16.485471"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="1220" /><tag k="addr:street" v="Lenzweg" /><tag k="addr:suburb" v="Donaustadt" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7712921000" lat="48.242288" lon="16.485862"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="1220" /><tag k="addr:street" v="Lenzweg" /><tag k="addr:suburb" v="Donaustadt" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7712922000" lat="48.242894" lon="16.486297"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="1220" /><tag k="addr:street" v="Lenzweg" /><tag k="addr:suburb" v="Donaustadt" /><tag k="addr:city" v="Wien" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="48.241745" minlon="16.485471" maxlat="48.242894" maxlon="16.486297" />
+</osm>

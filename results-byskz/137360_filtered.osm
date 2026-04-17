@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7714167000" lat="48.306979" lon="16.474385"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2201" /><tag k="addr:street" v="Leopold-Kovanda-Stra&#223;e" /><tag k="addr:city" v="Gerasdorf bei Wien" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-7714168000" lat="48.30687" lon="16.474686"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2201" /><tag k="addr:street" v="Leopold-Kovanda-Stra&#223;e" /><tag k="addr:city" v="Gerasdorf bei Wien" /><tag k="addr:housenumber" v="9" /></node>
+<bounds minlat="48.30687" minlon="16.474385" maxlat="48.306979" maxlon="16.474686" />
+</osm>

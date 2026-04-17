@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7712183000" lat="47.583764" lon="12.581326"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6384" /><tag k="addr:street" v="Fischerfeld" /><tag k="addr:city" v="Waidring" /><tag k="addr:housenumber" v="17" /></node>
+<node id="-7712185000" lat="47.583432" lon="12.580872"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6384" /><tag k="addr:street" v="Fischerfeld" /><tag k="addr:city" v="Waidring" /><tag k="addr:housenumber" v="10" /></node>
+<bounds minlat="47.583432" minlon="12.580872" maxlat="47.583764" maxlon="12.581326" />
+</osm>

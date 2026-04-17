@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7713691001" lat="47.951295" lon="13.675629"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4861" /><tag k="addr:street" v="Pfarrstra&#223;e" /><tag k="addr:city" v="Aurach am Hongar" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7715710000" lat="47.951255" lon="13.675264"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4861" /><tag k="addr:street" v="Pfarrstra&#223;e" /><tag k="addr:city" v="Aurach am Hongar" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="47.951255" minlon="13.675264" maxlat="47.951295" maxlon="13.675629" />
+</osm>
