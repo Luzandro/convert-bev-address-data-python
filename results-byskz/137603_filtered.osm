@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7724993000" lat="48.337023" lon="16.384975"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2102" /><tag k="addr:street" v="Erich-Moser-Weg" /><tag k="addr:city" v="Bisamberg" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7724996000" lat="48.336926" lon="16.384884"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2102" /><tag k="addr:street" v="Erich-Moser-Weg" /><tag k="addr:city" v="Bisamberg" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7724997000" lat="48.336924" lon="16.384883"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2102" /><tag k="addr:street" v="Erich-Moser-Weg" /><tag k="addr:city" v="Bisamberg" /><tag k="addr:housenumber" v="8" /></node>
+<node id="-7724999000" lat="48.336829" lon="16.38479"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2102" /><tag k="addr:street" v="Erich-Moser-Weg" /><tag k="addr:city" v="Bisamberg" /><tag k="addr:housenumber" v="10" /></node>
+<node id="-7725000000" lat="48.337169" lon="16.385119"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2102" /><tag k="addr:street" v="Erich-Moser-Weg" /><tag k="addr:city" v="Bisamberg" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7725003000" lat="48.336537" lon="16.384506"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2102" /><tag k="addr:street" v="Erich-Moser-Weg" /><tag k="addr:city" v="Bisamberg" /><tag k="addr:housenumber" v="14" /></node>
+<bounds minlat="48.336537" minlon="16.384506" maxlat="48.337169" maxlon="16.385119" />
+</osm>

@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-5862695000" lat="47.282651" lon="15.986957"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="8230" /><tag k="addr:street" v="Milchstra&#223;e" /><tag k="addr:city" v="Hartberg" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-5862698001" lat="47.282958" lon="15.989091"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="8230" /><tag k="addr:street" v="Milchstra&#223;e" /><tag k="addr:city" v="Hartberg" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7061734000" lat="47.282074" lon="15.988104"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="8230" /><tag k="addr:street" v="Milchstra&#223;e" /><tag k="addr:city" v="Hartberg" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7722050001" lat="47.282174" lon="15.987368"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="8230" /><tag k="addr:street" v="Milchstra&#223;e" /><tag k="addr:city" v="Hartberg" /><tag k="addr:housenumber" v="2" /></node>
+<bounds minlat="47.282074" minlon="15.986957" maxlat="47.282958" maxlon="15.989091" />
+</osm>

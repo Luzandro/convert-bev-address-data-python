@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7722113000" lat="47.961717" lon="16.252213"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2542" /><tag k="addr:street" v="Hans Schramhauser-Stra&#223;e" /><tag k="addr:city" v="Kottingbrunn" /><tag k="addr:housenumber" v="11-23" /></node>
+<node id="-7722116000" lat="47.96162" lon="16.254358"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2542" /><tag k="addr:street" v="Hans Schramhauser-Stra&#223;e" /><tag k="addr:city" v="Kottingbrunn" /><tag k="addr:housenumber" v="28-40" /></node>
+<bounds minlat="47.96162" minlon="16.252213" maxlat="47.961717" maxlon="16.254358" />
+</osm>

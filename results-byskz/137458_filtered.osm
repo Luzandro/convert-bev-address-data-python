@@ -1,0 +1,5 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7718495000" lat="47.996542" lon="12.95537"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="5112" /><tag k="addr:street" v="Aignerallee" /><tag k="addr:city" v="Lamprechtshausen" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7718498000" lat="47.996786" lon="12.955359"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="5112" /><tag k="addr:street" v="Aignerallee" /><tag k="addr:city" v="Lamprechtshausen" /><tag k="addr:housenumber" v="3" /></node>
+<bounds minlat="47.996542" minlon="12.955359" maxlat="47.996786" maxlon="12.95537" />
+</osm>

@@ -1,8 +1,5 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7716460000" lat="48.268089" lon="15.637001"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="3123" /><tag k="addr:street" v="Gewerbepark" /><tag k="addr:city" v="Obritzberg-Rust" /><tag k="addr:housenumber" v="2-4" /></node>
-<node id="-7716461000" lat="48.26813" lon="15.63795"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="3123" /><tag k="addr:street" v="Gewerbepark" /><tag k="addr:city" v="Obritzberg-Rust" /><tag k="addr:housenumber" v="1-3" /></node>
 <node id="-7716464000" lat="48.267365" lon="15.636735"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="3123" /><tag k="addr:street" v="Gewerbepark" /><tag k="addr:city" v="Obritzberg-Rust" /><tag k="addr:housenumber" v="9" /></node>
 <node id="-7716465000" lat="48.267291" lon="15.637522"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="3123" /><tag k="addr:street" v="Gewerbepark" /><tag k="addr:city" v="Obritzberg-Rust" /><tag k="addr:housenumber" v="7" /></node>
-<node id="-7716466000" lat="48.267748" lon="15.637674"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="3123" /><tag k="addr:street" v="Gewerbepark" /><tag k="addr:city" v="Obritzberg-Rust" /><tag k="addr:housenumber" v="5" /></node>
 <bounds minlat="48.267291" minlon="15.636735" maxlat="48.26813" maxlon="15.63795" />
 </osm>

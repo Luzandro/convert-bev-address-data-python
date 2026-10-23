@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7720691000" lat="47.834319" lon="16.478473"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="7051" /><tag k="addr:street" v="Edelhofsiedlung" /><tag k="addr:city" v="Gro&#223;h&#246;flein" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7720693000" lat="47.834311" lon="16.478478"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="7051" /><tag k="addr:street" v="Edelhofsiedlung" /><tag k="addr:city" v="Gro&#223;h&#246;flein" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7720694000" lat="47.834319" lon="16.478468"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="7051" /><tag k="addr:street" v="Edelhofsiedlung" /><tag k="addr:city" v="Gro&#223;h&#246;flein" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7720695000" lat="47.834319" lon="16.478457"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="7051" /><tag k="addr:street" v="Edelhofsiedlung" /><tag k="addr:city" v="Gro&#223;h&#246;flein" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7720696000" lat="47.834326" lon="16.478468"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="7051" /><tag k="addr:street" v="Edelhofsiedlung" /><tag k="addr:city" v="Gro&#223;h&#246;flein" /><tag k="addr:housenumber" v="5" /></node>
+<node id="-7720697000" lat="47.835514" lon="16.478033"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="7051" /><tag k="addr:street" v="Edelhofsiedlung" /><tag k="addr:city" v="Gro&#223;h&#246;flein" /><tag k="addr:housenumber" v="6" /></node>
+<bounds minlat="47.834311" minlon="16.478033" maxlat="47.835514" maxlon="16.478478" />
+</osm>

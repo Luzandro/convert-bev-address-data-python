@@ -1,0 +1,9 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7718269000" lat="48.665821" lon="16.585509"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2170" /><tag k="addr:street" v="Elisabethweg" /><tag k="addr:city" v="Poysdorf" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7718371000" lat="48.665978" lon="16.585112"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2170" /><tag k="addr:street" v="Elisabethweg" /><tag k="addr:city" v="Poysdorf" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7718372000" lat="48.665587" lon="16.584967"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2170" /><tag k="addr:street" v="Elisabethweg" /><tag k="addr:city" v="Poysdorf" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7718375000" lat="48.665988" lon="16.585289"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2170" /><tag k="addr:street" v="Elisabethweg" /><tag k="addr:city" v="Poysdorf" /><tag k="addr:housenumber" v="3" /></node>
+<node id="-7718377000" lat="48.665591" lon="16.585203"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2170" /><tag k="addr:street" v="Elisabethweg" /><tag k="addr:city" v="Poysdorf" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7718379000" lat="48.66598" lon="16.58559"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2170" /><tag k="addr:street" v="Elisabethweg" /><tag k="addr:city" v="Poysdorf" /><tag k="addr:housenumber" v="5" /></node>
+<bounds minlat="48.665587" minlon="16.584967" maxlat="48.665988" maxlon="16.58559" />
+</osm>

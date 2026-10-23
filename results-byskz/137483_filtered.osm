@@ -1,0 +1,7 @@
+<osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
+<node id="-7722578000" lat="48.124147" lon="14.483008"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4432" /><tag k="addr:street" v="Lavendelfeld" /><tag k="addr:city" v="Ernsthofen" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7722579000" lat="48.124195" lon="14.483255"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4432" /><tag k="addr:street" v="Lavendelfeld" /><tag k="addr:city" v="Ernsthofen" /><tag k="addr:housenumber" v="4" /></node>
+<node id="-7722580000" lat="48.124178" lon="14.483563"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4432" /><tag k="addr:street" v="Lavendelfeld" /><tag k="addr:city" v="Ernsthofen" /><tag k="addr:housenumber" v="6" /></node>
+<node id="-7722581000" lat="48.124226" lon="14.483874"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="4432" /><tag k="addr:street" v="Lavendelfeld" /><tag k="addr:city" v="Ernsthofen" /><tag k="addr:housenumber" v="8" /></node>
+<bounds minlat="48.124147" minlon="14.483008" maxlat="48.124226" maxlon="14.483874" />
+</osm>
