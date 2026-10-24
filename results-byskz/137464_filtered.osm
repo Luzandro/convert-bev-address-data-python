@@ -1,5 +1,5 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7718726000" lat="47.20104" lon="11.859934"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6283" /><tag k="addr:street" v="Am Weinberg" /><tag k="addr:city" v="Schwendau" /><tag k="addr:housenumber" v="566" /></node>
-<node id="-7719491000" lat="47.201162" lon="11.860649"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6283" /><tag k="addr:street" v="Am Weinberg" /><tag k="addr:city" v="Schwendau" /><tag k="addr:housenumber" v="562" /></node>
+<node id="-7718726000" lat="47.20104" lon="11.859934"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2026-10-01" /><tag k="addr:postcode" v="6283" /><tag k="addr:street" v="Am Weinberg" /><tag k="addr:city" v="Schwendau" /><tag k="addr:housenumber" v="566" /></node>
+<node id="-7719491000" lat="47.201162" lon="11.860649"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2026-10-01" /><tag k="addr:postcode" v="6283" /><tag k="addr:street" v="Am Weinberg" /><tag k="addr:city" v="Schwendau" /><tag k="addr:housenumber" v="562" /></node>
 <bounds minlat="47.20104" minlon="11.859934" maxlat="47.201162" maxlon="11.860649" />
 </osm>

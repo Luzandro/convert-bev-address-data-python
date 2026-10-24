@@ -1,5 +1,5 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-7721394000" lat="48.393839" lon="16.802618"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2252" /><tag k="addr:street" v="Roman-Mitsch-Weg" /><tag k="addr:city" v="Angern an der March" /><tag k="addr:housenumber" v="1" /></node>
-<node id="-7721395000" lat="48.393818" lon="16.802849"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="2252" /><tag k="addr:street" v="Roman-Mitsch-Weg" /><tag k="addr:city" v="Angern an der March" /><tag k="addr:housenumber" v="2" /></node>
+<node id="-7721394000" lat="48.393839" lon="16.802618"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2026-10-01" /><tag k="addr:postcode" v="2252" /><tag k="addr:street" v="Roman-Mitsch-Weg" /><tag k="addr:city" v="Angern an der March" /><tag k="addr:housenumber" v="1" /></node>
+<node id="-7721395000" lat="48.393818" lon="16.802849"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2026-10-01" /><tag k="addr:postcode" v="2252" /><tag k="addr:street" v="Roman-Mitsch-Weg" /><tag k="addr:city" v="Angern an der March" /><tag k="addr:housenumber" v="2" /></node>
 <bounds minlat="48.393818" minlon="16.802618" maxlat="48.393839" maxlon="16.802849" />
 </osm>

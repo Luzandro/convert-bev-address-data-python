@@ -1,5 +1,5 @@
 <osm version="0.6" generator="convert-addresses.py" upload="never" locked="true">
-<node id="-5054509001" lat="47.296952" lon="11.478934"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6065" /><tag k="addr:street" v="Vigilfeld" /><tag k="addr:city" v="Thaur" /><tag k="addr:housenumber" v="9" /></node>
-<node id="-7213966001" lat="47.296721" lon="11.478947"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2025-10-01" /><tag k="addr:postcode" v="6065" /><tag k="addr:street" v="Vigilfeld" /><tag k="addr:city" v="Thaur" /><tag k="addr:housenumber" v="7" /></node>
+<node id="-5054509001" lat="47.296952" lon="11.478934"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2026-10-01" /><tag k="addr:postcode" v="6065" /><tag k="addr:street" v="Vigilfeld" /><tag k="addr:city" v="Thaur" /><tag k="addr:housenumber" v="9" /></node>
+<node id="-7213966001" lat="47.296721" lon="11.478947"><tag k="addr:country" v="AT" /><tag k="at_bev:addr_date" v="2026-10-01" /><tag k="addr:postcode" v="6065" /><tag k="addr:street" v="Vigilfeld" /><tag k="addr:city" v="Thaur" /><tag k="addr:housenumber" v="7" /></node>
 <bounds minlat="47.296721" minlon="11.478934" maxlat="47.296952" maxlon="11.478947" />
 </osm>
